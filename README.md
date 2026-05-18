@@ -3,7 +3,7 @@ Code to reproduce figures from 'A seeding reaction to colonizing microbes in hum
 
 ### File structure
 
-Scripts for generating figures and tables are kept in ROOT.<br>
+Scripts for generating figures and tables are kept in `scripts/`.<br>
 Input and output files sorted by respective datatype
 
 ```
