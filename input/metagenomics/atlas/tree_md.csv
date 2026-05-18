@@ -1,0 +1,665 @@
+"","user_genome","M00060","M00063","M00064","M00866","M00867","nGenes","Stain","Pred(G+%)","Closest","comment","anno","Domain","phylum","class","order","family","genus","species","phylo_shape"
+"1","MAG001",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus epidermidis",NA
+"2","MAG002",0,0,0,0,0,1,"G+","92.094","Collinsella vaginalis","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900556495",NA
+"3","MAG003",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium breve",NA
+"4","MAG004",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia radingae_A",NA
+"5","MAG005",1,1,1,0.888888888888889,0.2,27,"G-","97.546","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella pneumoniae","LPS"
+"6","MAG006",1,1,1,0.888888888888889,0.2,27,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella oxytoca","LPS"
+"7","MAG007",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium neonatale",NA
+"8","MAG008",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus lactarius",NA
+"9","MAG009",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus","Enterococcus faecalis",NA
+"10","MAG010",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus thermophilus",NA
+"11","MAG011",0,0,0,0,0,0,"G+","50","X","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Gemellaceae","g__Gemella","Gemella MAG011",NA
+"12","MAG012",0,0,0,0,0,1,"G+","87.009","Lancefieldella parvula","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Atopobiaceae","g__Lancefieldella","Lancefieldella sp000564995",NA
+"13","MAG013",1,1,1,0.888888888888889,0.2,32,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter","Citrobacter braakii","LPS"
+"14","MAG014",0,0,0,0,0,1,"G+","73.809","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium butyricum",NA
+"15","MAG015",1,1,1,0.888888888888889,0.2,28,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella michiganensis","LPS"
+"16","MAG016",0,0,0,0,0,0,"G+","50","X","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Aerococcaceae","g__Granulicatella","Granulicatella MAG016",NA
+"17","MAG017",0,0,0,0,0,0,"G+","92.714","Clostridium perfringens",NA,"G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Sarcina","Sarcina perfringens",NA
+"18","MAG018",1,1,1,0.888888888888889,0.2,27,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella variicola","LPS"
+"19","MAG019",1,1,1,0.888888888888889,0.2,33,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Escherichia","Escherichia coli","LPS"
+"20","MAG020",0,0,0,0,0,0,"G+","81.675","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium paraputrificum",NA
+"21","MAG021",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium longum",NA
+"22","MAG022",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Flavonifractor","Flavonifractor plautii",NA
+"23","MAG023",1,1,1,0.888888888888889,0.2,33,"G-","99.998","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter_B","Citrobacter_B koseri","LPS"
+"24","MAG024",1,1,1,0.888888888888889,0,25,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Proteus","Proteus mirabilis","LPS"
+"25","MAG025",0.777777777777778,1,1,0.777777777777778,0,20,"G-","100","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella atypica","LPS"
+"26","MAG026",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus aureus",NA
+"27","MAG027",0,0.25,0,0,0,2,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Propionibacteriales","Propionibacteriaceae","g__Cutibacterium","Cutibacterium avidum",NA
+"28","MAG028",1,1,1,0.888888888888889,0.2,28,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella grimontii","LPS"
+"29","MAG029",1,1,1,0.888888888888889,0.2,28,"G-","98.298","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Pantoea","Pantoea septica","LPS"
+"30","MAG030",0,0,0,0,0,0,"G+","100","Clostridium celatum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium saudiense",NA
+"31","MAG031",0.777777777777778,1,1,0.777777777777778,0,19,"G-","99.957","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella parvula","LPS"
+"32","MAG032",0.777777777777778,1,0.4,0.888888888888889,0,16,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides caccae","LPS"
+"33","MAG033",0.777777777777778,1,0,0.888888888888889,0,16,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides faecis","LPS"
+"34","MAG034",0.777777777777778,1,0,0.888888888888889,0,13,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides fragilis","LPS"
+"35","MAG035",0.666666666666667,0.75,1,0.777777777777778,0.2,17,"G-","100","NA","NA","G-","Bacteria","Verrucomicrobiota","c__Verrucomicrobiae","Verrucomicrobiales","Akkermansiaceae","g__Akkermansia","Akkermansia muciniphila","LPS"
+"36","MAG036",0,0,0,0,0,0,"G+","95.382","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Mediterraneibacter","Mediterraneibacter torques",NA
+"37","MAG037",0,0,0.2,0,0,2,"G-","100","NA","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruthenibacterium","Ruthenibacterium lactatiformans",NA
+"38","MAG038",0.111111111111111,0,0,0.111111111111111,0,1,"G-","100","NA","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Dysosmobacter","Dysosmobacter welbionis",NA
+"39","MAG039",0.777777777777778,1,0,0.888888888888889,0,15,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Phocaeicola","Phocaeicola vulgatus","LPS"
+"40","MAG040",0,0,0,0,0,0,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium sp900758465",NA
+"41","MAG041",0.555555555555556,1,0,0.555555555555556,0,12,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes onderdonkii","LPS"
+"42","MAG042",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lactobacillus","Lactobacillus gasseri",NA
+"43","MAG043",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Finegoldia","Finegoldia magna",NA
+"44","MAG044",0,0,0,0,0,0,"G+","50","X","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG044",NA
+"45","MAG045",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus salivarius",NA
+"46","MAG046",0,0,0.2,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Bacillales","Planococcaceae","g__Lysinibacillus","Lysinibacillus fusiformis_D",NA
+"47","MAG047",0,0.25,0,0,0,2,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Eggerthella","Eggerthella lenta",NA
+"48","MAG048",0,0.25,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lacticaseibacillus","Lacticaseibacillus paracasei",NA
+"49","MAG049",0,0,0,0,0,0,"G+","100",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Actinomyces","Actinomyces urogenitalis",NA
+"50","MAG050",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Varibaculum","Varibaculum cambriense_A",NA
+"51","MAG051",0.777777777777778,1,1,0.777777777777778,0,20,"G-","100","no hit","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella nakazawae","LPS"
+"52","MAG052",1,1,1,0.888888888888889,0,22,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_K","LPS"
+"53","MAG053",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus parasanguinis_L",NA
+"54","MAG054",1,1,1,0.888888888888889,0.2,31,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter","Citrobacter youngae","LPS"
+"55","MAG055",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Ligilactobacillus","Ligilactobacillus salivarius",NA
+"56","MAG056",0.666666666666667,1,0.4,0.777777777777778,0,15,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides clarus","LPS"
+"57","MAG057",0.666666666666667,0.75,1,0.777777777777778,0.2,16,"G-","100","NA","NA","G-","Bacteria","Verrucomicrobiota","c__Verrucomicrobiae","Verrucomicrobiales","Akkermansiaceae","g__Akkermansia","Akkermansia muciniphila_B","LPS"
+"58","MAG058",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium longum",NA
+"59","MAG059",0,0,0,0,0,1,"G+","50","Roseburia spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Agathobacter","Agathobacter faecis",NA
+"60","MAG060",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium pseudocatenulatum",NA
+"61","MAG061",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium adolescentis",NA
+"62","MAG062",0.777777777777778,0.5,1,0.777777777777778,0,19,"G-","50","?","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Parasutterella","Parasutterella gallistercoris","LPS"
+"63","MAG063",0.777777777777778,1,0,0.888888888888889,0,14,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides thetaiotaomicron","LPS"
+"64","MAG064",0.666666666666667,1,0,0.777777777777778,0,14,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes putredinis","LPS"
+"65","MAG065",0,0,0.2,0,0,1,"X","X","Brotolimicola acetigignens","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Acetatifactor","Acetatifactor sp900066565",NA
+"66","MAG066",0.666666666666667,1,1,0.666666666666667,0,18,"G-","96.011","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Acidaminococcales","Acidaminococcaceae","g__Phascolarctobacterium","Phascolarctobacterium faecium","LPS"
+"67","MAG067",0.666666666666667,1,0,0.777777777777778,0,14,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes finegoldii","LPS"
+"68","MAG068",0,0,0,0,0,1,"G+","86.755","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium prausnitzii_D",NA
+"69","MAG069",0.555555555555556,1,0,0.666666666666667,0,14,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes communis","LPS"
+"70","MAG070",0.666666666666667,1,0,0.777777777777778,0.2,15,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes shahii","LPS"
+"71","MAG071",0,0,0,0,0,0,"G+","94.821","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Ruminococcus_E","Ruminococcus_E bromii_B",NA
+"72","MAG072",0.777777777777778,1,0,0.888888888888889,0,15,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella sp900546535","LPS"
+"73","MAG073",0.666666666666667,1,0.8,0.666666666666667,0,16,"G-","100","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Dialisteraceae","g__Dialister","Dialister invisus","LPS"
+"74","MAG074",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900542165",NA
+"75","MAG075",1,1,1,0.888888888888889,0.2,25,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Enterobacter","Enterobacter roggenkampii","LPS"
+"76","MAG076",0,0,0,0,0,2,"G+","100","Enterococcus gallinarum","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_D","Enterococcus_D gallinarum",NA
+"77","MAG077",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus agalactiae",NA
+"78","MAG078",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lactobacillus","Lactobacillus paragasseri",NA
+"79","MAG079",1,1,1,0.888888888888889,0,22,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae","LPS"
+"80","MAG080",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_G","Enterococcus_G italicus",NA
+"81","MAG081",1,1,1,0.888888888888889,0.2,31,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Atlantibacter","Atlantibacter hermannii","LPS"
+"82","MAG082",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus oris",NA
+"83","MAG083",1,1,1,0.888888888888889,0.2,28,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Enterobacter","Enterobacter hormaechei_A","LPS"
+"84","MAG084",0.777777777777778,1,0.6,0.777777777777778,0,18,"G-","100","NA","NA","G-","Bacteria","Fusobacteriota","c__Fusobacteriia","Fusobacteriales","Fusobacteriaceae","g__Fusobacterium","Fusobacterium polymorphum","LPS"
+"85","MAG085",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus pasteurianus",NA
+"86","MAG086",0.666666666666667,1,0.8,0.666666666666667,0,17,"G-","50","Selenomonas felix","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Selenomonadales","Selenomonadaceae","g__Centipeda","Centipeda felix","LPS"
+"87","MAG087",1,1,1,0.888888888888889,0.2,32,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter","Citrobacter freundii","LPS"
+"88","MAG088",0.777777777777778,1,1,0.777777777777778,0,17,"G-","100","Megasphaera micronuciformis","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Megasphaeraceae","g__Anaeroglobus","Anaeroglobus micronuciformis","LPS"
+"89","MAG089",0.888888888888889,1,1,0.888888888888889,0.2,22,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Pseudomonadales","Halomonadaceae","g__Halomonas","Halomonas hamiltonii","LPS"
+"90","MAG090",0.777777777777778,1,0.4,0.888888888888889,0,17,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides ovatus","LPS"
+"91","MAG091",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus lugdunensis",NA
+"92","MAG092",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus capitis",NA
+"93","MAG093",0,0,0,0,0,0,"G+","100","Rothia mucilaginosa","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Micrococcaceae","g__Rothia","Rothia sp001808955",NA
+"94","MAG094",0.777777777777778,1,0.8,0.888888888888889,0,17,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides uniformis","LPS"
+"95","MAG095",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Mycobacteriales","Mycobacteriaceae","g__Corynebacterium","Corynebacterium aurimucosum_E",NA
+"96","MAG096",1,1,1,0.888888888888889,0.2,29,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter","Citrobacter gillenii","LPS"
+"97","MAG097",0,0.25,0,0,0,2,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Erysipelotrichaceae","g__Clostridium_AQ","Clostridium_AQ innocuum",NA
+"98","MAG098",0,0,0,0,0,1,"G+","100","Schaalia turicensis","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia turicensis",NA
+"99","MAG099",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus reuteri_E",NA
+"100","MAG100",0.777777777777778,1,1,0.777777777777778,0,20,"G-","95.583","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Megasphaeraceae","g__Megasphaera","Megasphaera massiliensis","LPS"
+"101","MAG101",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella aerofaciens_AC",NA
+"102","MAG102",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium bifidum",NA
+"103","MAG103",0.777777777777778,1,1,0.777777777777778,0,20,"G-","100","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella_A","Veillonella_A seminalis","LPS"
+"104","MAG104",0,0,0,0,0,0,"G+","100","Bifidobacterium catenulatum","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium sp002742445",NA
+"105","MAG105",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus fermentum",NA
+"106","MAG106",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Coprobacillaceae","g__Thomasclavelia","Thomasclavelia ramosa",NA
+"107","MAG107",0,0,0,0,0,0,"G+","90.963","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Ruminococcus_B","Ruminococcus_B gnavus",NA
+"108","MAG108",0,0,0,0,0,0,"G+","50","Contaminated","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus sp000187445",NA
+"109","MAG109",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Micrococcaceae","g__Rothia","Rothia sp902373285",NA
+"110","MAG110",0.111111111111111,0,0.2,0.111111111111111,0,4,"G+","67.404","Eisenbergiella tayi","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eisenbergiella","Eisenbergiella sp003478085",NA
+"111","MAG111",0,0,0,0,0,0,"G+","92.858","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Anaerostipes","Anaerostipes hominis",NA
+"112","MAG112",0,0,0,0,0,0,"G+","93.201","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus peroris",NA
+"113","MAG113",0,0,0,0,0,0,"G+","50","Actinomyces pacaensis","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp900541895",NA
+"114","MAG114",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG114",NA
+"115","MAG115",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus mitis_I",NA
+"116","MAG116",0,0,0,0,0,0,"G+","50","Schaalia odontolytica","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp902373435",NA
+"117","MAG117",0,0,0.4,0,0,4,"G+","50","Enterocloster alcoholdehydrogenati","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster sp900538485",NA
+"118","MAG118",0,0,0,0,0,1,"G+","89.103","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_D","Enterococcus_D innesii",NA
+"119","MAG119",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900541745",NA
+"120","MAG120",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia MAG120",NA
+"121","MAG121",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus mitis_O",NA
+"122","MAG122",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus haemolyticus",NA
+"123","MAG123",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus mitis_BE",NA
+"124","MAG124",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus caprae",NA
+"125","MAG125",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lactobacillus","Lactobacillus jensenii",NA
+"126","MAG126",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus lutetiensis",NA
+"127","MAG127",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Mycobacteriales","Mycobacteriaceae","g__Corynebacterium","Corynebacterium simulans",NA
+"128","MAG128",0.777777777777778,1,0,0.888888888888889,0,15,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Tannerellaceae","g__Parabacteroides","Parabacteroides distasonis","LPS"
+"129","MAG129",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus hominis",NA
+"130","MAG130",1,1,1,0.888888888888889,0,22,"G-","100","Haemophilus parainfluenzae","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp927911595","LPS"
+"131","MAG131",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium angulatum",NA
+"132","MAG132",1,1,1,0.888888888888889,0,22,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_N","LPS"
+"133","MAG133",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium animalis",NA
+"134","MAG134",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp003469185",NA
+"135","MAG135",0,0,0,0,0,0,"G+","50","Bifidobacterium spp…","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium dentium",NA
+"136","MAG136",0.777777777777778,1,1,0.777777777777778,0,19,"G-","50","Veillonellaceae spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__F0422","F0422 sp003999875","LPS"
+"137","MAG137",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Alloscardovia","Alloscardovia omnicolens",NA
+"138","MAG138",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus vestibularis",NA
+"139","MAG139",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus anginosus",NA
+"140","MAG140",0.666666666666667,1,0,0.777777777777778,0,15,"G-","100","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella bivia","LPS"
+"141","MAG141",0,0,0.4,0,0,5,"G+","86.297","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster clostridioformis",NA
+"142","MAG142",0.777777777777778,1,0,0.888888888888889,0,13,"G-","50","Phocaeicola spp..","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Phocaeicola","Phocaeicola sp000432735","LPS"
+"143","MAG143",0,0,0,0,0,2,"X","X","Harryflintia acetispora","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__UMGS1071","UMGS1071 sp900541905",NA
+"144","MAG144",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium catenulatum",NA
+"145","MAG145",0,0,0.2,0,0,1,"G+","50","Blautia spp…","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia sp001304935",NA
+"146","MAG146",0,0,0,0,0,0,"G+","50","Coprococcus phoceensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Faecalimonas","Faecalimonas phoceensis",NA
+"147","MAG147",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Sellimonas","Sellimonas intestinalis",NA
+"148","MAG148",0.111111111111111,0.5,0.4,0.111111111111111,0,8,"G+","81.91","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Clostridium_Q","Clostridium_Q symbiosum",NA
+"149","MAG149",0,0,0,0,0,0,"G+","92.848","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia sp900541955",NA
+"150","MAG150",0.777777777777778,1,0,0.888888888888889,0,15,"G-","97.869","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella buccae","LPS"
+"151","MAG151",0,0,0,0,0,0,"G+","50","Blautia spp…","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia sp000432195",NA
+"152","MAG152",0.777777777777778,1,1,0.777777777777778,0,18,"G-","93.562","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella rogosae","LPS"
+"153","MAG153",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp001815355","LPS"
+"154","MAG154",1,1,1,0.888888888888889,0.2,28,"G-","97.923","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella aerogenes","LPS"
+"155","MAG155",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus sp000187745",NA
+"156","MAG156",0.777777777777778,1,1,0.777777777777778,0,20,"G-","50","Veillonella spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella sp905209685","LPS"
+"157","MAG157",1,1,1,0.888888888888889,0.2,28,"G-","97.876","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Phytobacter","Phytobacter diazotrophicus","LPS"
+"158","MAG158",0.777777777777778,1,1,0.777777777777778,0,19,"G-","50","Veillonella spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella sp900549805","LPS"
+"159","MAG159",0,0,0.4,0,0,4,"G+","77.863","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster bolteae",NA
+"160","MAG160",0.666666666666667,1,0.8,0.666666666666667,0,16,"G-","94.68","Negativicoccus succinicivorans","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Negativicoccaceae","g__Negativicoccus","Negativicoccus sp900556745","LPS"
+"161","MAG161",0,0,0,0,0,0,"G+","95.56","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_B","Enterococcus_B faecium",NA
+"162","MAG162",0,0,0,0,0,0,"G+","50","Varibaculum spp..","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Varibaculum","Varibaculum MAG162",NA
+"163","MAG163",0.777777777777778,1,1,0.777777777777778,0,19,"G-","50","Veillonella spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella sp900550455","LPS"
+"164","MAG164",0,0,0,0,0,0,"G+","100","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG164",NA
+"165","MAG165",0,0,0,0,0,0,"G+","95.133","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Micrococcaceae","g__Rothia","Rothia mucilaginosa_A",NA
+"166","MAG166",0,0,0,0,0,0,"G+","94.126",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Peptoniphilus_A","Peptoniphilus_A lacydonensis",NA
+"167","MAG167",0,0,0,0,0,0,"G+","95.958","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus vaginalis",NA
+"168","MAG168",0,0,0,0,0,0,"G+","50","Blautia difficilis … Blautia spp …","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp000285855",NA
+"169","MAG169",0,0,0,0,0,0,"G+","90.288","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Parascardovia","Parascardovia denticolens",NA
+"170","MAG170",0,0,0,0,0,0,"G+","96.225","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Anaerococcus","Anaerococcus senegalensis",NA
+"171","MAG171",0.666666666666667,1,0.2,0.777777777777778,0,17,"G-","97.387","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides xylanisolvens","LPS"
+"172","MAG172",0,0,0,0,0,0,"G+","93.693","Schaalia odontolytica","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp019425105",NA
+"173","MAG173",0,0,0,0,0,0,"G+","93.693","Schaalia odontolytica","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp001838165",NA
+"174","MAG174",0,0,0,0,0,0,"G+","79.552","Eubacterium ramulus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Anaerovoracaceae","g__Lentihominibacter","Lentihominibacter faecis",NA
+"175","MAG175",0,0,0,0,0,0,"G+","50","Pauljensenia spp..","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia MAG175",NA
+"176","MAG176",0,0,0,0,0,2,"G+","87.8","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_A","Enterococcus_A avium",NA
+"177","MAG177",0,0,0,0,0,0,"G+","93.693","Schaalia odontolytica","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp000411415",NA
+"178","MAG178",0,0,0,0,0,0,"G+","93.295","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Gordonibacter","Gordonibacter pamelaeae",NA
+"179","MAG179",0,0,0,0,0,0,"G+","100","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG179",NA
+"180","MAG180",0,0,0,0,0,0,"G+","88.937","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A massiliensis",NA
+"181","MAG181",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900541125",NA
+"182","MAG182",0,0,0,0,0,1,"G+","89.407","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Anaerostipes","Anaerostipes hadrus",NA
+"183","MAG183",0.888888888888889,1,0.8,0.888888888888889,0.2,20,"G-","98.103","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Parasutterella","Parasutterella excrementihominis","LPS"
+"184","MAG184",0,0,0,0,0,0,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium sp900539945",NA
+"185","MAG185",0,0,0,0,0,0,"G+","95.525","Streptococcus lactarius","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus parasanguinis_H",NA
+"186","MAG186",0,0,0.4,0,0,3,"G+","85.808","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Agathobacter","Agathobacter rectalis",NA
+"187","MAG187",0,0,0,0,0,0,"G+","91.841","Senegalimassilia faecalis","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Senegalimassilia","Senegalimassilia anaerobia",NA
+"188","MAG188",0,0.25,0,0,0,1,"G+","89.075","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Mediterraneibacter","Mediterraneibacter faecis",NA
+"189","MAG189",0,0,0,0,0,0,"G+","90.498","Sanguibacter keddieii","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp001064145",NA
+"190","MAG190",0,0,0,0,0,0,"G+","100",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Actinomyces","Actinomyces graevenitzii",NA
+"191","MAG191",0,0,0,0,0,0,"G+","90.674","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Mediterraneibacter","Mediterraneibacter lactaris",NA
+"192","MAG192",0,0,0,0,0,1,"G+","91.312","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A wexlerae",NA
+"193","MAG193",0,0,0,0,0,1,"G+","82.385","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Eggerthella","Eggerthella sinensis",NA
+"194","MAG194",0,0,0.4,0,0,3,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium prausnitzii_E",NA
+"195","MAG195",0,0,0,0,0,0,"X","X","Holtiella tumoricola","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Cellulosilyticaceae","g__Zhenhengia","Zhenhengia yiwuensis",NA
+"196","MAG196",0,0,0,0,0,0,"G+","85.984","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Roseburia","Roseburia inulinivorans",NA
+"197","MAG197",0,0.5,0,0,0,3,"G+","79.748","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Gemmiger","Gemmiger formicilis",NA
+"198","MAG198",0,0,0,0,0,0,"G+","93.054","Solobacterium moorei","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Erysipelotrichaceae","g__Bulleidia","Bulleidia sp900554555",NA
+"199","MAG199",0,0,0,0,0,0,"G+","100","Corynebacterium spp..","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Mycobacteriales","Mycobacteriaceae","g__Corynebacterium","Corynebacterium kefirresidentii",NA
+"200","MAG200",1,1,1,0.888888888888889,0.2,29,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter","Citrobacter portucalensis","LPS"
+"201","MAG201",1,1,1,0.888888888888889,0.4,35,"G-","98.71","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Salmonella","Salmonella enterica","LPS"
+"202","MAG202",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Bacillales","Bacillaceae","g__Bacillus","Bacillus spizizenii",NA
+"203","MAG203",0.888888888888889,1,1,0.888888888888889,0.2,24,"G-","98.476","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","g__Pseudomonas","Pseudomonas aeruginosa","LPS"
+"204","MAG204",0,0,0,0,0,0,"G+","93.729","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Clostridium_AP","Clostridium_AP scindens",NA
+"205","MAG205",0,0,0,0,0,0,"G+","50","Roseburia spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Agathobacter","Agathobacter sp000434275",NA
+"206","MAG206",0,0,0,0,0,0,"G+","84.189","Ruminococcus callidus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruminococcus_C","Ruminococcus_C sp000980705",NA
+"207","MAG207",0,0,0,0,0,0,"G+","100","Sellimonas intestinalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Anaerovoracaceae","g__Lentihominibacter","Lentihominibacter excrementavium",NA
+"208","MAG208",0,0,0,0,0,0,"X","X",NA,"NA","unknown","Bacteria","Bacillota_A","c__Clostridia","TANB77","CAG-508","g__CAG-273","CAG-273 MAG208",NA
+"209","MAG209",0,0,0,0,0,3,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Coprobacillaceae","g__Faecalibacillus","Faecalibacillus faecis",NA
+"210","MAG210",0,0,0,0,0,0,"G+","89.377","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Mediterraneibacter_A","Mediterraneibacter_A butyricigenes",NA
+"211","MAG211",0,0,0,0,0,0,"G+","X","Ruminococcus spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Ruminococcus_E","Ruminococcus_E sp003526955",NA
+"212","MAG212",0,0,0,0,0,0,"G+","77.669","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Vescimonas","Vescimonas coprocola",NA
+"213","MAG213",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Merdimonas","Merdimonas faecis",NA
+"214","MAG214",0,0,0,0,0,1,"G+","90.83","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_B","Enterococcus_B durans",NA
+"215","MAG215",0,0,0,0,0,0,"G+","88.291","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Ellagibacter","Ellagibacter isourolithinifaciens",NA
+"216","MAG216",0.555555555555556,0.75,0,0.666666666666667,0,12,"G-","97.092","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Phocaeicola","Phocaeicola coprophilus","LPS"
+"217","MAG217",0,0,0,0,0,0,"G+","92.047","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Gemellaceae","g__Gemella","Gemella haemolysans_B",NA
+"218","MAG218",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus mitis",NA
+"219","MAG219",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A caecimuris",NA
+"220","MAG220",1,1,1,0.888888888888889,0.2,27,"G-","97.485","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Serratia","Serratia bockelmannii","LPS"
+"221","MAG221",1,1,1,0.888888888888889,0,22,"G-","100","Haemophilus parainfluenzae","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_M","LPS"
+"222","MAG222",0,0,0,0,0,0,"G+","100","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus urinalis",NA
+"223","MAG223",0,0,0,0,0,0,"G+","90.512","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Staphylococcales","Staphylococcaceae","g__Staphylococcus","Staphylococcus warneri",NA
+"224","MAG224",0.777777777777778,1,0,0.888888888888889,0,13,"G-","97.362","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Phocaeicola","Phocaeicola coprocola","LPS"
+"225","MAG225",1,1,0.8,0.888888888888889,0,19,"G-","98.821","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Vibrionaceae","g__Vibrio","Vibrio metschnikovii","LPS"
+"226","MAG226",0,0,0,0,0,0,"G+","84.791","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnospira","Lachnospira eligens_A",NA
+"227","MAG227",0,0,0,0,0,0,"G+","87.012","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Anaerostipes","Anaerostipes caccae",NA
+"228","MAG228",1,1,1,0.888888888888889,0.2,37,"G-","98.379","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Escherichia","Escherichia marmotae","LPS"
+"229","MAG229",0,0,0.4,0,0,3,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster aldenensis",NA
+"230","MAG230",0,0.25,0,0,0,3,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Peptostreptococcaceae","g__Clostridioides","Clostridioides difficile",NA
+"231","MAG231",0,0,0,0,0,1,"G+","90.928","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Clostridium_A","Clostridium_A leptum",NA
+"232","MAG232",0,0,0,0,0,1,"G+","100","Coprococcus spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp900541345",NA
+"233","MAG233",0,0,0.4,0,0,5,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster citroniae",NA
+"234","MAG234",0,0,0,0,0,0,"G+","82.184","Fenollaria timonensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Fenollaria","Fenollaria sp900539725",NA
+"235","MAG235",0,0,0.2,0,0,4,"G-","98.465","Achromobacter veterisilvae","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruthenibacterium","Ruthenibacterium sp018380115",NA
+"236","MAG236",0,0,0,0,0,0,"G+","50","Actinomyces spp..","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp000466265",NA
+"237","MAG237",0,0,0,0,0,0,"G+","50","Actinomyces spp..","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp000308055",NA
+"238","MAG238",0,0,0,0,0,1,"G+","90.089","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Propionibacteriales","Propionibacteriaceae","g__Propionimicrobium","Propionimicrobium lymphophilum",NA
+"239","MAG239",1,1,1,0.888888888888889,0.2,26,"G-","98.159","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Enterobacter","Enterobacter asburiae_B","LPS"
+"240","MAG240",0.777777777777778,1,0,0.888888888888889,0,13,"G-","97.655","Barnesiella propionica","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Barnesiellaceae","g__CABJAA01","CABJAA01 sp003150885","LPS"
+"241","MAG241",0.666666666666667,1,0,0.777777777777778,0,13,"G-","98.336","Tidjanibacter massiliensis","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Tidjanibacter","Tidjanibacter inops","LPS"
+"242","MAG242",0.666666666666667,1,0.4,0.777777777777778,0,17,"G-","98.263","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes_A","Alistipes_A ihumii","LPS"
+"243","MAG243",0.777777777777778,1,0.4,0.888888888888889,0,19,"G-","97.035","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Marinifilaceae","g__Odoribacter","Odoribacter splanchnicus","LPS"
+"244","MAG244",0.777777777777778,1,0,0.888888888888889,0,14,"G-","97.108","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Tannerellaceae","g__Parabacteroides","Parabacteroides merdae","LPS"
+"245","MAG245",0.888888888888889,1,1,0.888888888888889,0,18,"G-","97.846","Sutterella wadsworthensis","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Duodenibacillus","Duodenibacillus massiliensis","LPS"
+"246","MAG246",0.777777777777778,1,0.6,0.777777777777778,0,21,"G-","94.948","Dialister succinatiphilus","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Dialisteraceae","g__Dialister","Dialister sp000434475","LPS"
+"247","MAG247",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus sp000411475",NA
+"248","MAG248",0,0,0,0,0,0,"G+","50","Romboutsia spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Peptostreptococcaceae","g__GCA-900066495","GCA-900066495 sp902362365",NA
+"249","MAG249",0,0,0,0,0,0,"G+","X","Peptoniphilus vaginalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Peptoniphilus_A","Peptoniphilus_A harei_A",NA
+"250","MAG250",1,1,1,0.888888888888889,0,29,"G-","97.235","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella planticola","LPS"
+"251","MAG251",0,0,0.2,0,0,4,"G-","50","Fournierella massiliensis","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruthenibacterium","Ruthenibacterium merdipullorum",NA
+"252","MAG252",0,0,0,0,0,1,"G+","78.817","Eubacterium coprostanoligenes","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Fimenecus","Fimenecus sp000432435",NA
+"253","MAG253",0,0,0,0,0,0,"G+","93.421","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Dorea_A","Dorea_A longicatena",NA
+"254","MAG254",0,0.25,0,0,0,1,"X","X",NA,"NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__UMGS1623","UMGS1623 MAG254",NA
+"255","MAG255",0,0,0,0,0,0,"G+","91.359","Frisingicoccus caecimuris","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Frisingicoccus","Frisingicoccus sp900757195",NA
+"256","MAG256",0,0,0,0,0,1,"X","X",NA,"NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__UMGS856","UMGS856 sp900546265",NA
+"257","MAG257",0,0,0,0,0,0,"G+","82.625","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Anaerotignaceae","g__Anaerotignum","Anaerotignum lactatifermentans",NA
+"258","MAG258",0,0,0,0,0,0,"G+","91.743","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Dorea","Dorea formicigenerans",NA
+"259","MAG259",0,0.5,0,0,0,2,"G-","97.108","Parabacteroides merdae","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eubacterium_F","Eubacterium_F sp900539115",NA
+"260","MAG260",0,0,0,0,0,0,"G+","60.158","Pusillibacter faecalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Lawsonibacter","Lawsonibacter sp900066825",NA
+"261","MAG261",0,0,0,0,0,0,"X","X","Azohydromonas sediminis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-103","CAG-103 sp000432375",NA
+"262","MAG262",0,0,0.4,0,0,4,"G+","89.696","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster lavalensis",NA
+"263","MAG263",0,0,0,0,0,0,"X","X","Massilioclostridium coli","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Luxibacter","Luxibacter massiliensis",NA
+"264","MAG264",0,0,0,0,0,0,"G+","94.833","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_B","Enterococcus_B lactis",NA
+"265","MAG265",0,0,0.4,0,0,5,"G+","86.297","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster clostridioformis_A",NA
+"266","MAG266",0,0,0,0,0,0,"G+","96.079","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Faecalimonas","Faecalimonas umbilicata",NA
+"267","MAG267",0.888888888888889,1,1,0.888888888888889,0.2,19,"X","X","Dysosmobacter segnis","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Sutterella","Sutterella sp900762445","LPS"
+"268","MAG268",0,0,0,0,0,0,"G+","91.784","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Peptoniphilus_A","Peptoniphilus_A harei",NA
+"269","MAG269",0,0,0,0,0,1,"G+","100","Clostridium saudiense","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium sp900540255",NA
+"270","MAG270",0.777777777777778,1,1,0.777777777777778,0,19,"G-","90.712","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella dispar","LPS"
+"271","MAG271",0.777777777777778,1,0,0.888888888888889,0,15,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides fragilis_A","LPS"
+"272","MAG272",0,0,0,0,0,0,"G+","93.988",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lacticaseibacillus","Lacticaseibacillus rhamnosus",NA
+"273","MAG273",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp900764435","LPS"
+"274","MAG274",0.777777777777778,1,1,0.777777777777778,0,19,"G-","50","Veillonellaceae spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__F0422","F0422 sp001553345","LPS"
+"275","MAG275",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG275",NA
+"276","MAG276",0,0.25,0,0,0,1,"G+","56.45",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Clostridium_E","Clostridium_E sporosphaeroides",NA
+"277","MAG277",0,0,0,0,0,1,"X","X","Roseomonas rosulenta","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","CAG-74","g__UBA11524","UBA11524 sp000437595",NA
+"278","MAG278",0.777777777777778,1,0,0.888888888888889,0,15,"G-","97.555","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella copri_B","LPS"
+"279","MAG279",0,0,0,0,0,0,"X","X","Laedolimicola ammoniilytica","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__CAG-217","CAG-217 sp000436335",NA
+"280","MAG280",0.777777777777778,1,1,0.777777777777778,0,20,"G-","95.583","Megasphaera massiliensis","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Megasphaeraceae","g__Megasphaera","Megasphaera sp001546855","LPS"
+"281","MAG281",0.888888888888889,1,0.8,0.888888888888889,0.2,19,"G-","97.846",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Sutterella","Sutterella wadsworthensis","LPS"
+"282","MAG282",0.777777777777778,1,0.4,0.777777777777778,0,17,"G-","X","Veillonella faecalis","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella sp018367495","LPS"
+"283","MAG283",0,0,0,0,0,0,"G+","92.955",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Butyricicoccaceae","g__Agathobaculum","Agathobaculum butyriciproducens",NA
+"284","MAG284",0,0,0,0,0,0,"G+","94.396","Corynebacterium tuberculostearicum","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Mycobacteriales","Mycobacteriaceae","g__Corynebacterium","Corynebacterium sp900539985",NA
+"285","MAG285",0,0,0,0,0,1,"G+","100","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Fusicatenibacter","Fusicatenibacter saccharivorans",NA
+"286","MAG286",0,0,0.4,0,0,4,"G+","83.673","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Roseburia","Roseburia intestinalis",NA
+"287","MAG287",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium duncaniae",NA
+"288","MAG288",0,0,0,0,0,0,"X","X","Clostridium lentum","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","TANB77","CAG-508","g__CAG-269","CAG-269 sp001916035",NA
+"289","MAG289",0,0,0,0,0,1,"X","X","Hominilimicola fabiformis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","UBA1381","UBA1381","g__CAG-41","CAG-41 sp900066215",NA
+"290","MAG290",0,0,0,0,0,0,"G+","89.457","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Slackia","Slackia exigua",NA
+"291","MAG291",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG291",NA
+"292","MAG292",1,1,1,0.888888888888889,0.2,27,"G-","97.31","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella quasipneumoniae","LPS"
+"293","MAG293",0.888888888888889,1,1,0.888888888888889,0,20,"G-","98.129",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Neisseriaceae","g__Eikenella","Eikenella corrodens","LPS"
+"294","MAG294",0,0,0,0,0,0,"G+","88.106",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Gordonibacter","Gordonibacter urolithinfaciens",NA
+"295","MAG295",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus pseudopneumoniae_C",NA
+"296","MAG296",0,0,0,0,0,0,"G+","87.353",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_A","Enterococcus_A malodoratus",NA
+"297","MAG297",0.666666666666667,1,0.8,0.666666666666667,0,19,"G-","94.948","Dialister succinatiphilus","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Dialisteraceae","g__Dialister","Dialister sp900547785","LPS"
+"298","MAG298",0,0,0,0,0,0,"G+","83.673","Roseburia intestinalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnospira","Lachnospira sp000437735",NA
+"299","MAG299",1,1,1,0.888888888888889,0.2,26,"G-","97.572",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Enterobacter","Enterobacter kobei","LPS"
+"300","MAG300",0.666666666666667,1,0,0.666666666666667,0,13,"G-","97.406","Duncaniella muris","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Muribaculaceae","g__UBA7173","UBA7173 sp900545955","LPS"
+"301","MAG301",0.777777777777778,1,0.8,0.777777777777778,0,19,"G-","96.952","Megasphaera vaginalis","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Dialisteraceae","g__Dialister","Dialister sp900541485","LPS"
+"302","MAG302",0,0,0,0,0,0,"G+","93.853",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Peptostreptococcaceae","g__Peptostreptococcus","Peptostreptococcus anaerobius",NA
+"303","MAG303",0.666666666666667,1,1,0.666666666666667,0.2,21,"G-","97.112","Mesosutterella multiformis","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Mesosutterella","Mesosutterella massiliensis","LPS"
+"304","MAG304",0,0.5,0,0,0,3,"G+","79.748","Gemmiger formicilis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Gemmiger","Gemmiger sp900540775",NA
+"305","MAG305",0.666666666666667,0.5,0.8,0.666666666666667,0,14,"G-","94.948","Dialister succinatiphilus","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Dialisteraceae","g__Allisonella","Allisonella pneumosinta","LPS"
+"306","MAG306",0,0,0,0,0,1,"G+","74.897","Pseudoflavonifractor gallinarum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__NSJ-51","NSJ-51 sp900549795",NA
+"307","MAG307",0,0,0.4,0,0,5,"G+","83.608","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Hungatella","Hungatella hathewayi",NA
+"308","MAG308",0.555555555555556,1,0.6,0.555555555555556,0,18,"G-","50","Veillonellaceae spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Megasphaeraceae","g__Anaeroglobus","Anaeroglobus geminatus","LPS"
+"309","MAG309",0.777777777777778,1,0.4,0.888888888888889,0,17,"G-","96.439",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Tannerellaceae","g__Parabacteroides","Parabacteroides goldsteinii","LPS"
+"310","MAG310",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900550735",NA
+"311","MAG311",0,0,0,0,0,0,"G+","91.812",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella intestinalis",NA
+"312","MAG312",0.666666666666667,1,0,0.777777777777778,0,14,"G-","97.018","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Phocaeicola","Phocaeicola massiliensis","LPS"
+"313","MAG313",0,0,0,0,0,3,"G+","59","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Coprobacillaceae","g__Faecalibacillus","Faecalibacillus intestinalis",NA
+"314","MAG314",0,0,0,0,0,1,"G+","82.953","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Roseburia","Roseburia hominis",NA
+"315","MAG315",0,0,0,0,0,1,"G+","50","Eisenbergiella spp","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eisenbergiella","Eisenbergiella sp900066775",NA
+"316","MAG316",0.777777777777778,1,0,0.888888888888889,0,14,"G-","97.794",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Barnesiellaceae","g__Barnesiella","Barnesiella intestinihominis","LPS"
+"317","MAG317",0,0.25,0,0,0,1,"G+","68.141","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Intestinimonas","Intestinimonas butyriciproducens",NA
+"318","MAG318",0.777777777777778,1,0,0.888888888888889,0,13,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides eggerthii","LPS"
+"319","MAG319",0,0,0.4,0,0,4,"G+","67.404",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eisenbergiella","Eisenbergiella tayi",NA
+"320","MAG320",0.666666666666667,0.75,0.4,0.666666666666667,0.2,13,"G-","98.842","Rhodovulum viride","NA","G-","Bacteria","Pseudomonadota","c__Alphaproteobacteria","RF32","CAG-239","g__Scatacola_A","Scatacola_A faecigallinarum","LPS"
+"321","MAG321",0.666666666666667,1,0.6,0.666666666666667,0,18,"G-","98.799","Bilophila wadsworthia","NA","G-","Bacteria","Desulfobacterota","c__Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","g__Mailhella","Mailhella excrementigallinarum","LPS"
+"322","MAG322",0.666666666666667,1,0,0.777777777777778,0,14,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes dispar","LPS"
+"323","MAG323",0,0.5,0,0,0,2,"G+","92.653","Monoglobus pectinilyticus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eubacterium_F","Eubacterium_F sp003491505",NA
+"324","MAG324",0.666666666666667,1,1,0.666666666666667,0,17,"G-","96.952","Megasphaera vaginalis","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Acidaminococcales","Acidaminococcaceae","g__Succiniclasticum","Succiniclasticum sp900544275","LPS"
+"325","MAG325",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp900755445","LPS"
+"326","MAG326",0,0,0,0,0,0,"G-","50","Dysosmobacter segnis","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Dysosmobacter","Dysosmobacter sp001916835",NA
+"327","MAG327",0,0,0,0,0,1,"G+","92.73",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Ligilactobacillus","Ligilactobacillus ruminis",NA
+"328","MAG328",0,0,0,0,0,1,"G-","100","Dysosmobacter welbionis","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Dysosmobacter","Dysosmobacter sp944387015",NA
+"329","MAG329",0,0,0,0,0,0,"X","X","Romboutsia timonensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","CAG-274","g__CAG-274","CAG-274 sp900545305",NA
+"330","MAG330",0,0,0,0,0,0,"G+","84.791","Lachnospira eligens","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnospira","Lachnospira rogosae",NA
+"331","MAG331",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium hattorii",NA
+"332","MAG332",0.888888888888889,1,1,0.777777777777778,0,21,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus","Haemophilus MAG332","LPS"
+"333","MAG333",0,0,0,0,0,0,"G+","50","Ruminococcus intestinalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Eubacterium_R","Eubacterium_R sp000434995",NA
+"334","MAG334",0,0.25,0,0,0,1,"X","X","Huintestinicola butyrica","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__CAG-353","CAG-353 sp900066885",NA
+"335","MAG335",0.777777777777778,1,0,0.888888888888889,0,16,"G-","97.658","Rikenella microfusus","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Muribaculaceae","g__UBA7173","UBA7173 sp900546835","LPS"
+"336","MAG336",0,0,0,0,0,0,"G-","50","Negativibacillus massiliensis","https://www.sciencedirect.com/science/article/pii/S2052297516301147?via%3Dihub","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__ER4","ER4 sp000765235",NA
+"337","MAG337",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900552385",NA
+"338","MAG338",0,0.5,0,0,0,3,"G+","79.748","Gemmiger formicilis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Gemmiger","Gemmiger qucibialis",NA
+"339","MAG339",0,0,0,0,0,0,"G+","85.558","Hominimerdicola aceti","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruminococcus_D","Ruminococcus_D bicirculans",NA
+"340","MAG340",0,0,0,0,0,0,"G+","85.558","Hominimerdicola aceti","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruminococcus_C","Ruminococcus_C sp000433635",NA
+"341","MAG341",0,0,0.2,0,0,2,"G+","81.043",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eisenbergiella","Eisenbergiella porci",NA
+"342","MAG342",0.777777777777778,1,0.4,0.888888888888889,0,18,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides cellulosilyticus","LPS"
+"343","MAG343",0,0,0,0,0,0,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium prausnitzii_A",NA
+"344","MAG344",0,0,0,0,0,0,"X","X","Fusobacterium perfoetens","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","TANB77","CAG-508","g__CAG-269","CAG-269 sp000431335",NA
+"345","MAG345",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp000436615",NA
+"346","MAG346",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG346",NA
+"347","MAG347",0,0,0,0,0,0,"X","X","Clostridium phoceensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-170","CAG-170 sp000432135",NA
+"348","MAG348",0,0,0,0,0,0,"G-","50","Massilioclostridium coli","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Eubacterium_R","Eubacterium_R sp000433975",NA
+"349","MAG349",0,0,0,0,0,0,"G+","92.833","Eubacterium ventriosum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eubacterium_G","Eubacterium_G sp900548465",NA
+"350","MAG350",0,0,0,0,0,1,"X","X","Butyrivibrio crossotus","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__COE1","COE1 sp001916965",NA
+"351","MAG351",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium sp900539885",NA
+"352","MAG352",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella aerofaciens_AG",NA
+"353","MAG353",0,0,0,0,0,0,"G+","92.038",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Coprococcus","Coprococcus eutactus_A",NA
+"354","MAG354",0.777777777777778,1,0.8,0.777777777777778,0,21,"G-","98.799",NA,"NA","G-","Bacteria","Desulfobacterota","c__Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","g__Bilophila","Bilophila wadsworthia","LPS"
+"355","MAG355",0,0,0,0,0,0,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium prausnitzii_J",NA
+"356","MAG356",0,0,0.4,0,0,3,"G+","50","Coprococcus spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Coprococcus","Coprococcus sp900066115",NA
+"357","MAG357",0.777777777777778,1,0,0.888888888888889,0,12,"G-","X",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Paraprevotella","Paraprevotella clara","LPS"
+"358","MAG358",0,0.25,0,0,0,1,"G+","92.599","Sellimonas caecigallum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruminiclostridium_E","Ruminiclostridium_E siraeum",NA
+"359","MAG359",0.666666666666667,1,0,0.777777777777778,0,14,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes sp900541585","LPS"
+"360","MAG360",0.666666666666667,1,0.8,0.666666666666667,0,16,"G-","94.68","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Negativicoccaceae","g__Negativicoccus","Negativicoccus succinicivorans","LPS"
+"361","MAG361",0.777777777777778,1,0,0.888888888888889,0,13,"G-","97.658","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Rikenella","Rikenella microfusus","LPS"
+"362","MAG362",0,0,0,0,0,0,"X","X","Angelakisella massiliensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-170","CAG-170 sp900545925",NA
+"363","MAG363",0,0,0,0,0,0,"G+","100","Clostridium saudiense","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium sp900766315",NA
+"364","MAG364",0,0,0,0,0,0,"G+","93.693","Schaalia odontolytica","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia odontolytica_B",NA
+"365","MAG365",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_O","LPS"
+"366","MAG366",0,0,0,0,0,0,"G+","94.626","Streptococcus cristatus","NA","G+","Bacteria","Patescibacteria","c__Saccharimonadia","Saccharimonadales","Nanogingivalaceae","g__Nanogingivalis","Nanogingivalis sp900556165",NA
+"367","MAG367",0,0,0,0,0,0,"G+","95.133","Rothia mucilaginosa","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Micrococcaceae","g__Rothia","Rothia sp015265375",NA
+"368","MAG368",0.888888888888889,1,1,0.888888888888889,0,20,"G-","98.182","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Neisseriaceae","g__Neisseria","Neisseria cinerea","LPS"
+"369","MAG369",0,0,0,0,0,1,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Fimivivens","Fimivivens sp900113995",NA
+"370","MAG370",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG370",NA
+"371","MAG371",0.666666666666667,1,0,0.777777777777778,0,14,"G-","97.322","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella timonensis","LPS"
+"372","MAG372",0,0,0,0,0,0,"G+","84.646","Pseudoflavonifractor capillosus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Marseille-P3106","Marseille-P3106 sp900543935",NA
+"373","MAG373",0,0,0,0,0,1,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp019041915",NA
+"374","MAG374",0.777777777777778,1,0,0.888888888888889,0,13,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides stercoris","LPS"
+"375","MAG375",0,0,0.4,0,0,2,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Copromonas","Copromonas sp000435795",NA
+"376","MAG376",0.777777777777778,0.75,1,0.666666666666667,0.2,23,"G-","97.051","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Klebsiella","Klebsiella terrigena","LPS"
+"377","MAG377",0,0,0.4,0,0,3,"G+","92.833","Eubacterium ventriosum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Copromonas","Copromonas sp900066535",NA
+"378","MAG378",0,0,0,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Lawsonibacter","Lawsonibacter asaccharolyticus",NA
+"379","MAG379",0,0,0,0,0,0,"G-","50",NA,"NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Dysosmobacter","Dysosmobacter faecalis",NA
+"380","MAG380",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Rubneribacter","Rubneribacter badeniensis",NA
+"381","MAG381",0,0.5,0,0,0,2,"G+","97.374","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Schleiferilactobacillus","Schleiferilactobacillus harbinensis",NA
+"382","MAG382",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp019041915",NA
+"383","MAG383",0.666666666666667,0.75,0,0.666666666666667,0.2,10,"G-","50","Haemophilus parainfluenzae","NA","G-","Bacteria","Pseudomonadota","c__Alphaproteobacteria","RF32","CAG-239","g__51-20","51-20 sp001917175","LPS"
+"384","MAG384",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900541745",NA
+"385","MAG385",0.888888888888889,1,1,0.777777777777778,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D pittmaniae","LPS"
+"386","MAG386",0,0,0,0,0,0,"X","X",NA,"NA","unknown","Bacteria","Bacillota","c__Bacilli","RF39","UBA660","g__CAG-417","CAG-417 sp000432835",NA
+"387","MAG387",0,0,0.2,0,0,2,"X","X","Laedolimicola ammoniilytica","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__CAG-177","CAG-177 sp003538135",NA
+"388","MAG388",0,0,0,0,0,0,"G+","94.683",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lactobacillus","Lactobacillus amylovorus",NA
+"389","MAG389",0,0,0,0,0,0,"G+","50","Limosilactobacillus pulli","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus sp012843675",NA
+"390","MAG390",0,0,0.4,0,0,6,"G+","82.978","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Hungatella","Hungatella effluvii",NA
+"391","MAG391",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp905216045",NA
+"392","MAG392",0,0,0,0,0,0,"G+","94.589",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Mycobacteriales","Mycobacteriaceae","g__Corynebacterium","Corynebacterium falsenii",NA
+"393","MAG393",0,0,0,0,0,0,"G+","92.088",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Propionibacteriales","Propionibacteriaceae","g__Cutibacterium","Cutibacterium granulosum",NA
+"394","MAG394",1,1,1,0.888888888888889,0,31,"G-","98.19",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Morganella","Morganella morganii","LPS"
+"395","MAG395",0,0,0,0,0,0,"G+","91.323",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Adlercreutzia","Adlercreutzia hattorii",NA
+"396","MAG396",0,0,0,0,0,0,"G+","91.528","Coprococcus comes","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Bariatricus","Bariatricus comes",NA
+"397","MAG397",0,0.5,0,0,0,3,"G+","79.748","Gemmiger formicilis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Gemmiger","Gemmiger MAG397",NA
+"398","MAG398",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A faecis",NA
+"399","MAG399",0,0,0,0,0,0,"G+","96.7",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Levilactobacillus","Levilactobacillus brevis",NA
+"400","MAG400",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG400",NA
+"401","MAG401",0,0,0,0,0,0,"G+","92.626","Winkia neuii","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Winkia","Winkia sp002849225",NA
+"402","MAG402",0.777777777777778,1,0,0.888888888888889,0,13,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides intestinalis","LPS"
+"403","MAG403",0,0,0,0,0,0,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Anaerovoracaceae","g__Fimisoma","Fimisoma sp000435715",NA
+"404","MAG404",0,0,0,0,0,0,"G+","X",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Micrococcaceae","g__Rothia","Rothia MAG404",NA
+"405","MAG405",0,0,0,0,0,2,"G+","85.895","Ethanoligenens harbinense","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Clostridium_E","Clostridium_E sp002397665",NA
+"406","MAG406",0.888888888888889,1,1,0.888888888888889,0,20,"G-","97.974","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Neisseriaceae","g__Neisseria","Neisseria perflava","LPS"
+"407","MAG407",0.777777777777778,0.75,0,0.777777777777778,0,11,"G-","X",NA,"NA","G-","Bacteria","Pseudomonadota","c__Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","g__Paracoccus","Paracoccus yeei","LPS"
+"408","MAG408",0,0.25,0,0,0,0,"G+","94.878","Listeria monocytogenes","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Listeriaceae","g__Listeria","Listeria monocytogenes_B",NA
+"409","MAG409",0,0,0,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp900066205",NA
+"410","MAG410",0,0,0,0,0,0,"X","X","Azohydromonas aeria","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-103","CAG-103 sp900757655",NA
+"411","MAG411",0,0,0,0,0,0,"G-","50","Neopoerus faecalis","(Dysosmobacter welbionis) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10353381/","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__ER4","ER4 sp900552015",NA
+"412","MAG412",0,0,0,0,0,0,"X","X","Clostridium tarantellae","NA","unknown","Bacteria","Bacillota","c__Bacilli","RF39","UBA660","g__CAG-302","CAG-302 sp934162325",NA
+"413","MAG413",0,0,0,0,0,0,"X","X","Clostridium segne","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Anaerovoracaceae","g__CAG-238","CAG-238 sp900542245",NA
+"414","MAG414",0,0,0,0,0,0,"X","X","Coprococcus hominis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Wujia","Wujia chipingensis",NA
+"415","MAG415",0,0,0,0,0,1,"X","X","Blautia difficilis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__CAG-95","CAG-95 sp000438155",NA
+"416","MAG416",0,0,0,0,0,0,"G+","81.424","Waltera intestinalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Acetatifactor","Acetatifactor intestinalis",NA
+"417","MAG417",0,0,0,0,0,0,"G+","90.77",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Anaerotignaceae","g__Anaerotignum","Anaerotignum faecicola",NA
+"418","MAG418",0,0,0,0,0,0,"X","X","Brotocaccenecus cirricatena","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Vescimonas","Vescimonas sp001916855",NA
+"419","MAG419",0,0,0,0,0,0,"G-","50","Dysosmobacter segnis","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Dysosmobacter","Dysosmobacter sp004553545",NA
+"420","MAG420",0,0,0,0,0,0,"G-","50","Flintibacter faecis","gammaproteo","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__ER4","ER4 sp900317525",NA
+"421","MAG421",0,0,0,0,0,0,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Faecousia","Faecousia sp000434635",NA
+"422","MAG422",1,1,1,0.888888888888889,0.4,34,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter_A","Citrobacter_A amalonaticus","LPS"
+"423","MAG423",0,0,0,0,0,2,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A MAG423",NA
+"424","MAG424",0.777777777777778,1,0.4,0.888888888888889,0,19,"G-","94.47","Butyricimonas faecihominis","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Marinifilaceae","g__Odoribacter","Odoribacter sp900544025","LPS"
+"425","MAG425",0,0,0,0,0,0,"G+","82.877","Roseburia amylophila","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__RUG115","RUG115 sp900066395",NA
+"426","MAG426",0,0.25,0,0,0,1,"G+","50","Clostridia spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","CAG-74","g__Egerieenecus","Egerieenecus merdigallinarum",NA
+"427","MAG427",0,0.25,0,0,0,3,"X","X","Harryflintia acetispora","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__DXWE01","DXWE01 sp019417045",NA
+"428","MAG428",0,0,0,0,0,0,"X","X","Solobacterium moorei","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-170","CAG-170 sp900549635",NA
+"429","MAG429",0,0,0,0,0,0,"X","X","Agathobaculum hominis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-170","CAG-170 sp900553545",NA
+"430","MAG430",0.666666666666667,1,0,0.777777777777778,0.2,14,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes avistercoris","LPS"
+"431","MAG431",0,0,0,0,0,0,"X","X","Hominenteromicrobium mulieris","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__UBA1417","UBA1417 sp900549945",NA
+"432","MAG432",0,0,0,0,0,0,"G+","89.953",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Anaerobutyricum","Anaerobutyricum hallii",NA
+"433","MAG433",0,0,0,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia sp900555025",NA
+"434","MAG434",0,0,0.2,0,0,2,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Pygmaiobacter","Pygmaiobacter massiliensis",NA
+"435","MAG435",0.777777777777778,1,0.2,0.888888888888889,0,21,"G-","97.067","Dysgonomonas mossii","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Dysgonomonadaceae","g__Dysgonomonas","Dysgonomonas sp900079735","LPS"
+"436","MAG436",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Anaerobutyricum","Anaerobutyricum soehngenii",NA
+"437","MAG437",0,0.25,0,0,0,1,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Faecousia","Faecousia gallistercoris",NA
+"438","MAG438",0.888888888888889,1,1,0.888888888888889,0.2,26,"G-","97.846","Sutterella wadsworthensis","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Burkholderiaceae_A","g__Sutterella","Sutterella wadsworthensis_A","LPS"
+"439","MAG439",0,0,0,0,0,0,"X","X",NA,"NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Evtepia","Evtepia gabavorous",NA
+"440","MAG440",0,0,0,0,0,0,"X","X","Brotocaccenecus cirricatena","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Vescimonas","Vescimonas sp000435555",NA
+"441","MAG441",0,0,0,0,0,0,"X","X","Romboutsia maritimum","NA","unknown","Bacteria","Bacillota","c__Bacilli","RF39","UBA660","g__UMGS872","UMGS872 sp900546275",NA
+"442","MAG442",0,0,0,0,0,0,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Faecousia","Faecousia sp000435995",NA
+"443","MAG443",0,0,0,0,0,0,"G+","82.995","Vescimonas fastidiosa","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Vescimonas","Vescimonas sp900545585",NA
+"444","MAG444",0,0.25,0.2,0,0,3,"G+","X","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Robinsoniella","Robinsoniella peoriensis",NA
+"445","MAG445",0.777777777777778,1,1,0.777777777777778,0,19,"G-","93.495",NA,"NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella tobetsuensis","LPS"
+"446","MAG446",0,0,0,0,0,0,"G+","84.189","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Ruminococcus_C","Ruminococcus_C callidus",NA
+"447","MAG447",0.666666666666667,1,0.4,0.777777777777778,0,20,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes_A","Alistipes_A pullistercoris","LPS"
+"448","MAG448",0,0,0.2,0,0,2,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Faecousia","Faecousia sp003525905",NA
+"449","MAG449",0.555555555555556,0.75,0,0.555555555555556,0,7,"X","X",NA,"NA","G-","Bacteria","Pseudomonadota","c__Alphaproteobacteria","RF32","CAG-239","g__CAG-267","CAG-267 sp001917135","LPS"
+"450","MAG450",0,0,0,0,0,0,"G+","86.915","Catenibacillus scindens","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Fusicatenibacter","Fusicatenibacter sp900543115",NA
+"451","MAG451",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp900548245",NA
+"452","MAG452",0,0,0,0,0,0,"G+","90.963","Mediterraneibacter gnavus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Scybalocola","Scybalocola sp900557175",NA
+"453","MAG453",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG453",NA
+"454","MAG454",0.666666666666667,1,1,0.666666666666667,0,17,"G-","95.663","NA","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Acidaminococcales","Acidaminococcaceae","g__Phascolarctobacterium_A","Phascolarctobacterium_A succinatutens","LPS"
+"455","MAG455",0,0,0,0,0,1,"X","X","Roseburia yibonii","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__CAG-45","CAG-45 sp000438375",NA
+"456","MAG456",0,0,0,0,0,0,"X","X","Lawsonibacter faecis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__CAG-103","CAG-103 sp900543625",NA
+"457","MAG457",0,0,0,0,0,0,"X","X","Simiaoa sunii","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Acetatifactor","Acetatifactor sp003447295",NA
+"458","MAG458",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella aerofaciens_J",NA
+"459","MAG459",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp900066335",NA
+"460","MAG460",0,0.25,0,0,0,3,"G+","50","Acutalibacter muris","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Acutalibacter","Acutalibacter ornithocaccae",NA
+"461","MAG461",0,0,0,0,0,0,"X","X","Fournierella massiliensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__CAG-115","CAG-115 sp003531585",NA
+"462","MAG462",0.777777777777778,1,0,0.888888888888889,0,15,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides salyersiae","LPS"
+"463","MAG463",0,0,0,0,0,0,"G+","50","Agathobaculum hominis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Butyricicoccaceae","g__Agathobaculum","Agathobaculum sp003481705",NA
+"464","MAG464",0,0.25,0,0,0,1,"G+","100","Clostridium innocuum","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Erysipelotrichaceae","g__Clostridium_AQ","Clostridium_AQ sp000165065",NA
+"465","MAG465",0,0,0,0,0,0,"X","X","Brotocaccenecus cirricatena","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Vescimonas","Vescimonas sp900548615",NA
+"466","MAG466",0,0,0,0,0,0,"X","X","Pseudoflavonifractor capillosus","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Scatomorpha","Scatomorpha sp900545405",NA
+"467","MAG467",0,0,0,0,0,1,"G+","61.654","Hominenteromicrobium mulieris","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Eubacterium_R","Eubacterium_R sp003526845",NA
+"468","MAG468",0.777777777777778,0.75,0,0.888888888888889,0,15,"G-","X","Prevotella merdae","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella sp003447235","LPS"
+"469","MAG469",0,0,0,0,0,0,"G+","93.421","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Dorea_A","Dorea_A longicatena_B",NA
+"470","MAG470",0,0.25,0,0,0,2,"G-","97.535","Desulfovibrio piger","NA","G- and few genes","Bacteria","Desulfobacterota","c__Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","g__Desulfovibrio","Desulfovibrio sp900556755",NA
+"471","MAG471",0,0,0,0,0,0,"G+","77.669","Vescimonas coprocola","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","CAG-138","g__PeH17","PeH17 sp000435055",NA
+"472","MAG472",0.777777777777778,1,0.4,0.888888888888889,0,17,"G-","98.05",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes_A","Alistipes_A indistinctus","LPS"
+"473","MAG473",0,0,0,0,0,0,"G+","93.729","Clostridium scindens","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Clostridium_AP","Clostridium_AP sp000509125",NA
+"474","MAG474",0,0,0,0,0,0,"G+","73.809","Clostridium butyricum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Eubacterium_R","Eubacterium_R sp000436835",NA
+"475","MAG475",0,0,0,0,0,0,"G+","91.099","Ruminococcus bovis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Ruminococcus_E","Ruminococcus_E sp934476515",NA
+"476","MAG476",0,0.25,0.2,0,0,5,"G+","84.582","Faecalibacterium duncaniae","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Anaeromassilibacillus","Anaeromassilibacillus sp001305115",NA
+"477","MAG477",0,0.25,0.2,0,0,4,"G+","87.569",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Anaerotruncus","Anaerotruncus colihominis",NA
+"478","MAG478",0,0,0.2,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A obeum",NA
+"479","MAG479",0,0,0.4,0,0,4,"G+","91.528","Coprococcus comes","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster sp900541315",NA
+"480","MAG480",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG480",NA
+"481","MAG481",0,0,0,0,0,0,"G+","77.669","Vescimonas coprocola","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","CAG-74","g__Ventricola","Ventricola sp900542445",NA
+"482","MAG482",0,0,0,0,0,1,"G-","94.364",NA,"NA","G- and few genes","Archaea","Methanobacteriota","c__Methanobacteria","Methanobacteriales","Methanobacteriaceae","g__Methanobrevibacter_A","Methanobrevibacter_A smithii",NA
+"483","MAG483",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG483",NA
+"484","MAG484",0,0,0,0,0,0,"G+","82.59","Clostridium cavendishii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","TANB77","CAG-508","g__Merdicola","Merdicola sp018371855",NA
+"485","MAG485",0,0,0,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A sp900066355",NA
+"486","MAG486",0,0,0,0,0,0,"G+","92.925",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Oliverpabstia","Oliverpabstia intestinalis",NA
+"487","MAG487",0,0,0,0,0,0,"G+","85.774","Coprococcus catus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eubacterium_I","Eubacterium_I ramulus",NA
+"488","MAG488",0.666666666666667,0.75,0,0.777777777777778,0,13,"G-","97.027","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Phocaeicola","Phocaeicola plebeius_A","LPS"
+"489","MAG489",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp902362275",NA
+"490","MAG490",0.777777777777778,1,0.2,0.888888888888889,0,17,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides luhongzhouii","LPS"
+"491","MAG491",0,0.5,0,0,0,3,"G+","79.748","Gemmiger formicilis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Gemmiger","Gemmiger sp900539695",NA
+"492","MAG492",0,0,0.2,0,0,1,"G-","96.792","Sandaracinus amylolyticus","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","Borkfalkiaceae","g__Borkfalkia","Borkfalkia ceftriaxoniphila",NA
+"493","MAG493",0,0,0,0,0,0,"X","X","Neglectibacter timonensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__CAG-964","CAG-964 sp000435335",NA
+"494","MAG494",0.666666666666667,1,0,0.777777777777778,0,13,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides sp900552405","LPS"
+"495","MAG495",0,0,0,0,0,0,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium prausnitzii_F",NA
+"496","MAG496",0,0,0,0,0,1,"G+","92.505",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Propionibacteriales","Propionibacteriaceae","g__Cutibacterium","Cutibacterium acnes",NA
+"497","MAG497",0,0,0,0,0,0,"X","X","Gordonibacter pamelaeae","NA","unknown","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__CAJFUR01","CAJFUR01 sp904420575",NA
+"498","MAG498",1,1,1,0.888888888888889,0.2,26,"G-","100","Atlantibacter subterranea","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Atlantibacter","Atlantibacter sp002345315","LPS"
+"499","MAG499",0,0,0,0,0,0,"G+","92.499",NA,"NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Dermabacteraceae","g__Dermabacter","Dermabacter hominis",NA
+"500","MAG500",0,0,0,0,0,0,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","UMGS416","g__NA","UMGS416 MAG500",NA
+"501","MAG501",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900542085",NA
+"502","MAG502",0,0,0,0,0,0,"G+","95.301",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lactobacillus","Lactobacillus delbrueckii",NA
+"503","MAG503",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia hansenii",NA
+"504","MAG504",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG504",NA
+"505","MAG505",0,0,0,0,0,0,"G+","93.384","Mediterraneibacter catenae","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Mediterraneibacter","Mediterraneibacter faecipullorum",NA
+"506","MAG506",0,0,0,0,0,0,"G+","92.038",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Coprococcus","Coprococcus eutactus",NA
+"507","MAG507",0,0,0,0,0,0,"X","X","Merdibacter massiliensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Oliverpabstia","Oliverpabstia sp000432335",NA
+"508","MAG508",0,0,0.4,0,0,4,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster MAG508",NA
+"509","MAG509",0,0,0.2,0,0,0,"G+","94.16",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Erysipelotrichaceae","g__Longicatena","Longicatena caecimuris",NA
+"510","MAG510",0,0,0,0,0,0,"G+","50","Pseudoflavonifractor spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Enterenecus","Enterenecus faecium",NA
+"511","MAG511",0,0.25,0,0,0,1,"G+","50","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Clostridium_E","Clostridium_E jeddahense",NA
+"512","MAG512",0.777777777777778,1,0,0.777777777777778,0,15,"G-","50","Veillonellaceae spp..","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__F0422","F0422 MAG512","LPS"
+"513","MAG513",1,1,1,0.888888888888889,0.2,27,"X","X","Leclercia tamurae","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Leclercia","Leclercia sp003024485","LPS"
+"514","MAG514",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG514",NA
+"515","MAG515",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG515",NA
+"516","MAG516",0,0,0,0,0,0,"G+","87.876","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Slackia_A","Slackia_A isoflavoniconvertens",NA
+"517","MAG517",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG517",NA
+"518","MAG518",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp015255025","LPS"
+"519","MAG519",0.555555555555556,0.5,0,0.555555555555556,0,10,"G-","X","NA","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Prevotella","Prevotella rara","LPS"
+"520","MAG520",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900543275",NA
+"521","MAG521",0,0,0.4,0,0,0,"G+","94.698","Holdemanella porci","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Erysipelotrichaceae","g__Holdemanella","Holdemanella sp900556915",NA
+"522","MAG522",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG522",NA
+"523","MAG523",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG523",NA
+"524","MAG524",1,1,1,0.888888888888889,0.2,33,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter","Citrobacter murliniae","LPS"
+"525","MAG525",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium pullorum_B",NA
+"526","MAG526",0.888888888888889,1,1,0.888888888888889,0,20,"G-","97.974","Neisseria perflava","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Neisseriaceae","g__Neisseria","Neisseria sp000186165","LPS"
+"527","MAG527",0,0,0,0,0,1,"G+","50","Anaerotardibacter muris","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Anaerotardibacter","Anaerotardibacter sp000435675",NA
+"528","MAG528",0,0,0,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG528",NA
+"529","MAG529",0,0,0.2,0,0,1,"G+","50","Agathobaculum massiliense","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Butyricicoccaceae","g__Agathobaculum","Agathobaculum sp900291975",NA
+"530","MAG530",0,0,0,0,0,0,"G+","73.889","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Intestinimonas","Intestinimonas massiliensis",NA
+"531","MAG531",0,0,0,0,0,0,"X","X","Hominenteromicrobium mulieris","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__UBA1417","UBA1417 sp003531055",NA
+"532","MAG532",0,0,0,0,0,0,"G-","X","Ruthenibacterium lactatiformans","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Negativibacillus","Negativibacillus faecipullorum",NA
+"533","MAG533",0,0,0,0,0,1,"G+","97.792","NA","NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Coprobacillaceae","g__Thomasclavelia","Thomasclavelia spiroformis",NA
+"534","MAG534",0,0,0,0,0,0,"G+","88.754","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Harryflintia","Harryflintia acetispora",NA
+"535","MAG535",0,0.25,0,0,0,1,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Fimivicinus","Fimivicinus sp900544375",NA
+"536","MAG536",0,0,0.4,0,0,2,"G+","93.054","Solobacterium moorei","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Copromonas","Copromonas sp900066785",NA
+"537","MAG537",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_J","LPS"
+"538","MAG538",0,0,0,0,0,0,"G+","93.693","Schaalia odontolytica","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Pauljensenia","Pauljensenia sp018382595",NA
+"539","MAG539",0.444444444444444,0.5,0.8,0.444444444444444,0.2,20,"G-","97.976","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Pseudescherichia","Pseudescherichia vulneris","LPS"
+"540","MAG540",0.666666666666667,1,0.8,0.666666666666667,0,17,"G-","89.707",NA,"NA","G-","Bacteria","Fusobacteriota","c__Fusobacteriia","Fusobacteriales","Fusobacteriaceae","g__Fusobacterium_C","Fusobacterium_C gonidiaformans","LPS"
+"541","MAG541",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp905216045",NA
+"542","MAG542",0,0,0,0,0,0,"G+","84.646","Clostridium phoceensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Oscillospiraceae","g__Lawsonibacter","Lawsonibacter sp900545895",NA
+"543","MAG543",0,0,0,0,0,0,"G+","91.156","Anthropogastromicrobium aceti","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__KLE1615","KLE1615 sp900066985",NA
+"544","MAG544",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG544",NA
+"545","MAG545",1,1,1,0.888888888888889,0.2,26,"G-","98.066",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Enterobacter","Enterobacter cloacae","LPS"
+"546","MAG546",0,0,0.4,0,0,4,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster sp000431375",NA
+"547","MAG547",0,0,0,0,0,0,"G+","92.699","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Peptostreptococcaceae","g__Intestinibacter","Intestinibacter bartlettii",NA
+"548","MAG548",0.888888888888889,0.75,0.6,0.777777777777778,0,18,"G-","98.935",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Aeromonadaceae","g__Aeromonas","Aeromonas caviae","LPS"
+"549","MAG549",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG549",NA
+"550","MAG550",0,0,0,0,0,1,"G+","95.081","Nanchangia anserum","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Nanchangia","Nanchangia sp900545825",NA
+"551","MAG551",0.666666666666667,0.75,1,0.777777777777778,0.2,16,"G-","50",NA,"NA","G-","Bacteria","Verrucomicrobiota","c__Verrucomicrobiae","Verrucomicrobiales","Akkermansiaceae","g__Akkermansia","Akkermansia sp004167605","LPS"
+"552","MAG552",0.777777777777778,1,0,0.888888888888889,0,14,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides intestinalis_A","LPS"
+"553","MAG553",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_L","LPS"
+"554","MAG554",0,0,0,0,0,0,"G+","91.645","Coprococcus aceti","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Hominisplanchenecus","Hominisplanchenecus faecis",NA
+"555","MAG555",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG555",NA
+"556","MAG556",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium globosum",NA
+"557","MAG557",0,0,0,0,0,0,"G+","90.699","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Peptoniphilus_A","Peptoniphilus_A grossensis",NA
+"558","MAG558",0,0,0,0,0,0,"G+","95.298",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Erysipelotrichales","Coprobacillaceae","g__Coprobacillus","Coprobacillus cateniformis",NA
+"559","MAG559",0,0,0.4,0,0,4,"X","X","Alitiscatomonas aceti","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__UMGS1370","UMGS1370 sp900542035",NA
+"560","MAG560",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia argi",NA
+"561","MAG561",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG561",NA
+"562","MAG562",0,0,0.4,0,0,3,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster porci",NA
+"563","MAG563",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG563",NA
+"564","MAG564",0,0,0,0,0,0,"G+","82.625","Anaerotignum lactatifermentans","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Anaerotignaceae","g__Anaerotignum","Anaerotignum sp001304995",NA
+"565","MAG565",0,0,0,0,0,1,"G+","94.548",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Atopobiaceae","g__Paratractidigestivibacter","Paratractidigestivibacter faecalis",NA
+"566","MAG566",0,0,0,0,0,0,"G+","92.925","Oliverpabstia intestinalis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Oliverpabstia","Oliverpabstia faecicola",NA
+"567","MAG567",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella MAG567",NA
+"568","MAG568",0,0,0,0,0,0,"G+","86.755","Faecalibacterium prausnitzii","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Ruminococcaceae","g__Faecalibacterium","Faecalibacterium prausnitzii_I",NA
+"569","MAG569",0.666666666666667,0.75,1,0.777777777777778,0.2,16,"G-","50",NA,"NA","G-","Bacteria","Verrucomicrobiota","c__Verrucomicrobiae","Verrucomicrobiales","Akkermansiaceae","g__Akkermansia","Akkermansia sp001580195","LPS"
+"570","MAG570",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900542165",NA
+"571","MAG571",0,0,0.2,0,0,1,"G-","95.624","Corallococcus coralloides","NA","G- and few genes","Bacteria","Bacillota_A","c__Clostridia","Christensenellales","CAG-74","g__Limiplasma","Limiplasma merdipullorum",NA
+"572","MAG572",0,0.25,1,0,0,6,"G-","98.29",NA,"NA","G- and few genes","Bacteria","Desulfobacterota","c__Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","g__Desulfovibrio","Desulfovibrio porci",NA
+"573","MAG573",0,0,0,0,0,0,"G+","91.841","NA","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Eggerthellaceae","g__Senegalimassilia","Senegalimassilia faecalis",NA
+"574","MAG574",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG574",NA
+"575","MAG575",0,0,0,0,0,0,"X","X","Clostridium thermobutyricum","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","TANB77","CAG-508","g__CAG-245","CAG-245 sp000435175",NA
+"576","MAG576",0,0,0,0,0,1,"G+","91.395","Terrisporobacter othiniensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Peptostreptococcales","Peptostreptococcaceae","g__Terrisporobacter","Terrisporobacter sp900557165",NA
+"577","MAG577",0,0,0,0,0,0,"G+","92.094",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella vaginalis",NA
+"578","MAG578",0.888888888888889,1,0,0.888888888888889,0.2,16,"G-","97.285",NA,"NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Pseudomonadales","Moraxellaceae","g__Acinetobacter","Acinetobacter nosocomialis","LPS"
+"579","MAG579",0,0,0.4,0,0,4,"G+","95.11","Amedibacillus dolichus","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Ventrimonas","Ventrimonas sp003480315",NA
+"580","MAG580",0.888888888888889,1,1,0.888888888888889,0,20,"G-","50","Eikenella spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Burkholderiales","Neisseriaceae","g__Eikenella","Eikenella MAG580","LPS"
+"581","MAG581",0,0,0,0,0,1,"G+","91.084",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_A","Enterococcus_A gilvus",NA
+"582","MAG582",0,0,0,0,0,1,"G+","94.93",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Lactococcus","Lactococcus lactis",NA
+"583","MAG583",0,0,0,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia_A","Blautia_A luti",NA
+"584","MAG584",0.777777777777778,1,0,0.888888888888889,0,16,"G-","97.734","Muribaculum gordoncarteri","NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Muribaculaceae","g__UBA7173","UBA7173 sp900540205","LPS"
+"585","MAG585",0.666666666666667,1,0.8,0.666666666666667,0,20,"G-","97.929","Selenomonas artemidis","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Selenomonadales","Selenomonadaceae","g__Centipeda","Centipeda artemidis","LPS"
+"586","MAG586",0,0,0,0,0,1,"G+","95.508",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Lactobacillus","Lactobacillus crispatus",NA
+"587","MAG587",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Anaerococcus","Anaerococcus octavius",NA
+"588","MAG588",0,0,0,0,0,0,"G+","91.068","Clostridium sporogenes","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium_F","Clostridium_F botulinum_A",NA
+"589","MAG589",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900547855",NA
+"590","MAG590",0,0,0,0,0,0,"G+","92.833","Eubacterium ventriosum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Eubacterium_G","Eubacterium_G sp000435815",NA
+"591","MAG591",0,0,0.4,0,0,4,"G+","94.11",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Lactococcus","Lactococcus cremoris",NA
+"592","MAG592",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Clostridium_E","Clostridium_E MAG592",NA
+"593","MAG593",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900545505",NA
+"594","MAG594",0,0,0,0,0,2,"G+","77.31","Paenibacillus aquistagni","NA","G+","Bacteria","Bacillota","c__Bacilli","Paenibacillales","Paenibacillaceae","g__Paenibacillus_B","Paenibacillus_B aquistagni",NA
+"595","MAG595",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp905216045",NA
+"596","MAG596",0,0.25,0.2,0,0,3,"G+","91.486","Blautia pseudococcoides","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Robinsoniella","Robinsoniella sp900555455",NA
+"597","MAG597",1,1,1,0.888888888888889,0.2,34,"G-","100","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Citrobacter_A","Citrobacter_A farmeri","LPS"
+"598","MAG598",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus parasanguinis_C",NA
+"599","MAG599",0,0,0.4,0,0,4,"G+","85.389","Clostridium fessum","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Ventrisoma","Ventrisoma faecale",NA
+"600","MAG600",0.777777777777778,1,0,0.888888888888889,0,15,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Bacteroidaceae","g__Bacteroides","Bacteroides sp902362375","LPS"
+"601","MAG601",0.111111111111111,0,0,0.111111111111111,0,1,"G+","50","Roseburia spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Butyribacter","Butyribacter sp003524945",NA
+"602","MAG602",0,0,0.4,0,0,2,"X","X","Tepiditoga spiralis","NA","unknown","Bacteria","Bacillota","c__Bacilli","RF39","UBA660","g__CAG-533","CAG-533 sp000434495",NA
+"603","MAG603",0,0,0,0,0,1,"G+","91.654",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_C","Enterococcus_C canintestini",NA
+"604","MAG604",0,0,0,0,0,0,"G+","92.714","Clostridium perfringens","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Anaerotignaceae","g__Metalachnospira","Metalachnospira sp900548595",NA
+"605","MAG605",0,0,0,0,0,0,"G+","95.596","Traorella massiliensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Acutalibacteraceae","g__Eubacterium_R","Eubacterium_R sp900539775",NA
+"606","MAG606",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG606",NA
+"607","MAG607",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_L","LPS"
+"608","MAG608",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp900755445","LPS"
+"609","MAG609",0.555555555555556,1,0.2,0.555555555555556,0,12,"G-","X",NA,"NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella MAG609","LPS"
+"610","MAG610",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG610",NA
+"611","MAG611",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus gordonii",NA
+"612","MAG612",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus parasanguinis",NA
+"613","MAG613",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus pseudopneumoniae_L",NA
+"614","MAG614",0.888888888888889,1,1,0.888888888888889,0,23,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp900764435","LPS"
+"615","MAG615",0,0,0.2,0,0,1,"G+","86.774",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Bacillales","Bacillaceae_G","g__Bacillus_A","Bacillus_A mobilis",NA
+"616","MAG616",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus mitis_BB",NA
+"617","MAG617",1,1,1,0.888888888888889,0,22,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D sp900764435","LPS"
+"618","MAG618",1,1,1,0.888888888888889,0,22,"G-","98.281","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus","Haemophilus seminalis","LPS"
+"619","MAG619",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus sp020089495",NA
+"620","MAG620",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus sp900550895",NA
+"621","MAG621",0,0,0,0,0,0,"G+","50","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Bifidobacteriaceae","g__Bifidobacterium","Bifidobacterium swidsinskii",NA
+"622","MAG622",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus pseudopneumoniae_E",NA
+"623","MAG623",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG623",NA
+"624","MAG624",0,0,0,0,0,0,"G+","101","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Finegoldia","Finegoldia magna_F",NA
+"625","MAG625",0.777777777777778,1,1,0.777777777777778,0,19,"G-","90.712","Veillonella dispar","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella sp900552715","LPS"
+"626","MAG626",0,0,0,0,0,0,"X","X","NA","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Scatomonas","Scatomonas hejianensis",NA
+"627","MAG627",0.444444444444444,1,0.6,0.444444444444444,0,13,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae","LPS"
+"628","MAG628",0,0,0,0,0,0,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Clostridiales","Clostridiaceae","g__Clostridium","Clostridium MAG628",NA
+"629","MAG629",1,1,1,0.888888888888889,0.2,29,"G-","98.399","NA","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Serratia_J","Serratia_J liquefaciens","LPS"
+"630","MAG630",0,0.25,0,0,0,3,"X","X","Coprococcus phoceensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Muricomes","Muricomes sp000509105",NA
+"631","MAG631",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG631",NA
+"632","MAG632",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG632",NA
+"633","MAG633",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG633",NA
+"634","MAG634",0,0,0,0,0,0,"G+","91.42","NA","NA","G+","Bacteria","Actinomycetota","c__Actinomycetia","Actinomycetales","Actinomycetaceae","g__Varibaculum","Varibaculum cambriense",NA
+"635","MAG635",0,0,0.2,0,0,2,"G+","89.696","Enterocloster lavalensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnoclostridium_A","Lachnoclostridium_A avicola",NA
+"636","MAG636",0,0,0,0,0,0,"G+","94.293",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Enterococcaceae","g__Enterococcus_B","Enterococcus_B hirae",NA
+"637","MAG637",1,1,1,0.888888888888889,0,23,"G-","50","Haemophilus spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales_A","Pasteurellaceae","g__Haemophilus_D","Haemophilus_D parainfluenzae_K","LPS"
+"638","MAG638",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900762345",NA
+"639","MAG639",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus mitis_Y",NA
+"640","MAG640",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900762345",NA
+"641","MAG641",0,0.5,0,0,0,12,"X","X","Claveliimonas bilis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnoclostridium_B","Lachnoclostridium_B faecipullorum",NA
+"642","MAG642",0,0,0.2,0,0,0,"G+","89.733",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Bacillales","Bacillaceae_G","g__Bacillus_A","Bacillus_A cereus",NA
+"643","MAG643",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus MAG643",NA
+"644","MAG644",0,0,0,0,0,0,"X","X","Campylobacter magnus","NA","unknown","Bacteria","Patescibacteria","c__Saccharimonadia","Saccharimonadales","Nanogingivalaceae","g__Nanogingivalis","Nanogingivalis sp934717805",NA
+"645","MAG645",0,0,0,0,0,0,"G+","X","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Peptoniphilus_A","Peptoniphilus_A MAG645",NA
+"646","MAG646",0,0,0,0,0,0,"G+","77.458",NA,"NA","G+","Bacteria","Bacillota_B","c__Peptococcia","Peptococcales","Peptococcaceae","g__Peptococcus","Peptococcus niger",NA
+"647","MAG647",0,0.25,0.2,0,0,3,"X","X","Coprococcus phoceensis","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Muricomes","Muricomes MAG647",NA
+"648","MAG648",0,0,0,0,0,0,"G+","102","NA","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Tissierellales","Peptoniphilaceae","g__Finegoldia","Finegoldia magna_H",NA
+"649","MAG649",1,1,1,0.888888888888889,0.2,27,"G-","50","Enterobacter spp..","NA","G-","Bacteria","Pseudomonadota","c__Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","g__Enterobacter","Enterobacter soli","LPS"
+"650","MAG650",0,0,0.2,0,0,1,"G+","50",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Blautia","Blautia coccoides",NA
+"651","MAG651",0.777777777777778,1,1,0.777777777777778,0,23,"G-","X","Veillonella nakazawae","NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Veillonellaceae","g__Veillonella","Veillonella sp900550175","LPS"
+"652","MAG652",0.666666666666667,1,1,0.666666666666667,0,17,"G-","50",NA,"NA","G-","Bacteria","Bacillota_C","c__Negativicutes","Veillonellales","Megasphaeraceae","g__Anaeroglobus","Anaeroglobus massiliensis","LPS"
+"653","MAG653",0,0,0,0,0,0,"G+","100","Collinsella aerofaciens","NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Coriobacteriaceae","g__Collinsella","Collinsella sp900754525",NA
+"654","MAG654",0,0,0.4,0,0,4,"G+","50","Enterocloster spp..","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Enterocloster","Enterocloster sp001517625",NA
+"655","MAG655",0.666666666666667,1,0.2,0.777777777777778,0,15,"G-","50",NA,"NA","G-","Bacteria","Bacteroidota","c__Bacteroidia","Bacteroidales","Rikenellaceae","g__Alistipes","Alistipes timonensis","LPS"
+"656","MAG656",0,0,0,0,0,0,"G+","50","Streptococcus spp..","NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Streptococcaceae","g__Streptococcus","Streptococcus vulneris",NA
+"657","MAG657",0,0,0,0,0,0,"X","X","Provencibacterium massiliense","NA","unknown","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnoclostridium_A","Lachnoclostridium_A sp002160755",NA
+"658","MAG658",0,0.5,0,0,0,2,"G+","50","inferred","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Mediterraneibacter","Mediterraneibacter caccogallinarum",NA
+"659","MAG659",0,0,0,0,0,0,"G+","92.931","Claveliimonas monacensis / Sellimonas monacensis","NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Lachnoclostridium_B","Lachnoclostridium_B monacensis",NA
+"660","MAG660",0,0,0,0,0,0,"G+","91.343",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Oscillospirales","Butyricicoccaceae","g__Butyricicoccus","Butyricicoccus pullicaecorum",NA
+"661","MAG661",0,0,0,0,0,0,"G+","96.693",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus pontis",NA
+"662","MAG662",0,0,0,0,0,0,"G+","95.788",NA,"NA","G+","Bacteria","Bacillota","c__Bacilli","Lactobacillales","Lactobacillaceae","g__Limosilactobacillus","Limosilactobacillus portuensis",NA
+"663","MAG663",0,0,0,0,0,1,"G+","95.613",NA,"NA","G+","Bacteria","Actinomycetota","c__Coriobacteriia","Coriobacteriales","Atopobiaceae","g__Parolsenella","Parolsenella catena",NA
+"664","MAG664",0,0,0,0,0,1,"G+","85.774",NA,"NA","G+","Bacteria","Bacillota_A","c__Clostridia","Lachnospirales","Lachnospiraceae","g__Coprococcus_A","Coprococcus_A catus_A",NA

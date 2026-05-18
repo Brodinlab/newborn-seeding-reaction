@@ -1,0 +1,778 @@
+"","Compound","subject","BinGroupStr","batch","SampleID","value_combat_log","value_combat_lin"
+"1","3-Hydroxydodecanoic acid","632","CB","batch_1","batch_1_632_CB",0.275382461958447,0.317034294069341
+"2","3-Hydroxydodecanoic acid","632","3m","batch_1","batch_1_632_3m",0.274198408887379,0.315475778433443
+"3","3-Hydroxydodecanoic acid","716","1w","batch_1","batch_1_716_1w",0.277081863892073,0.31927436754883
+"4","3-Hydroxydodecanoic acid","716","CB","batch_1","batch_1_716_CB",0.301106344324313,0.351353042623209
+"5","3-Hydroxydodecanoic acid","632","1w","batch_1","batch_1_632_1w",0.401256722825122,0.493700686341883
+"6","3-Hydroxydodecanoic acid","683","1w","batch_1","batch_1_683_1w",0.317524449885885,0.373722831821226
+"7","3-Hydroxydodecanoic acid","751","1w","batch_1","batch_1_751_1w",0.324595749931741,0.383471264570246
+"8","3-Hydroxydodecanoic acid","716","3m","batch_1","batch_1_716_3m",0.286251581812078,0.33142737603245
+"9","3-Hydroxydodecanoic acid","683","CB","batch_1","batch_1_683_CB",0.243608021430663,0.275844128905363
+"10","3-Hydroxydodecanoic acid","683","3m","batch_1","batch_1_683_3m",0.243132325812916,0.275237359774465
+"11","3-Hydroxyhexadecanoic acid","683","CB","batch_1","batch_1_683_CB",0.0419276595210218,0.0428190379933898
+"12","3-Hydroxyhexadecanoic acid","632","3m","batch_1","batch_1_632_3m",0.0237427713667756,0.0240268749761086
+"13","3-Hydroxyhexadecanoic acid","716","3m","batch_1","batch_1_716_3m",0.0300428521981715,0.0304986921415435
+"14","3-Hydroxyhexadecanoic acid","716","CB","batch_1","batch_1_716_CB",0.0548503910452851,0.0563825585621186
+"15","3-Hydroxyhexadecanoic acid","683","1w","batch_1","batch_1_683_1w",0.0564968775461015,0.0581233108538108
+"16","3-Hydroxyhexadecanoic acid","751","1w","batch_1","batch_1_751_1w",0.0699159921344789,0.0724180859155669
+"17","3-Hydroxyhexadecanoic acid","716","1w","batch_1","batch_1_716_1w",0.0514041079232765,0.0527482312376554
+"18","3-Hydroxyhexadecanoic acid","632","1w","batch_1","batch_1_632_1w",0.113812636016827,0.120542155972805
+"19","3-Hydroxyhexadecanoic acid","683","3m","batch_1","batch_1_683_3m",0.0209241029565085,0.0211445468442905
+"20","3-Hydroxyhexadecanoic acid","632","CB","batch_1","batch_1_632_CB",0.0630571919070782,0.0650877518891695
+"21","3-Hydroxytetradecanoic acid","683","1w","batch_1","batch_1_683_1w",0.0725732235012674,0.0752715383544452
+"22","3-Hydroxytetradecanoic acid","632","CB","batch_1","batch_1_632_CB",0.0618164031609288,0.0637670225354681
+"23","3-Hydroxytetradecanoic acid","716","1w","batch_1","batch_1_716_1w",0.0619419277072996,0.0639005597893423
+"24","3-Hydroxytetradecanoic acid","683","3m","batch_1","batch_1_683_3m",0.0488145816064398,0.0500256386218716
+"25","3-Hydroxytetradecanoic acid","683","CB","batch_1","batch_1_683_CB",0.057415883212216,0.0590961791391952
+"26","3-Hydroxytetradecanoic acid","632","3m","batch_1","batch_1_632_3m",0.0499043295034652,0.0511705255591478
+"27","3-Hydroxytetradecanoic acid","716","CB","batch_1","batch_1_716_CB",0.0762535114927309,0.0792361382444142
+"28","3-Hydroxytetradecanoic acid","716","3m","batch_1","batch_1_716_3m",0.0553296209738957,0.0568889300247326
+"29","3-Hydroxytetradecanoic acid","751","1w","batch_1","batch_1_751_1w",0.0760274946847474,0.0789922403009434
+"30","3-Hydroxytetradecanoic acid","632","1w","batch_1","batch_1_632_1w",0.0978782404943924,0.102828497080677
+"31","Myristic acid","683","3m","batch_1","batch_1_683_3m",1.28388041889065,2.61062330783499
+"32","Myristic acid","683","1w","batch_1","batch_1_683_1w",3.10067825475653,21.2130122544945
+"33","Myristic acid","716","CB","batch_1","batch_1_716_CB",1.6173543360316,4.03973920664714
+"34","Myristic acid","683","CB","batch_1","batch_1_683_CB",1.357645973843,2.88703234764331
+"35","Myristic acid","716","3m","batch_1","batch_1_716_3m",2.57123622118525,12.0819866779027
+"36","Myristic acid","632","3m","batch_1","batch_1_632_3m",0.939379652977318,1.55839383395582
+"37","Myristic acid","632","CB","batch_1","batch_1_632_CB",1.90296179114922,5.70572601926038
+"38","Myristic acid","632","1w","batch_1","batch_1_632_1w",3.47797107844679,31.3939306115621
+"39","Myristic acid","751","1w","batch_1","batch_1_751_1w",2.85999365736845,16.4614161848996
+"40","Myristic acid","716","1w","batch_1","batch_1_716_1w",2.57820328628137,12.1734479690984
+"41","Palmitic acid","683","3m","batch_1","batch_1_683_3m",3.98895604025984,52.998487680738
+"42","Palmitic acid","716","1w","batch_1","batch_1_716_1w",5.3802245816298,216.071020114642
+"43","Palmitic acid","683","CB","batch_1","batch_1_683_CB",4.0198554890684,54.6930569896877
+"44","Palmitic acid","632","3m","batch_1","batch_1_632_3m",4.03032758091481,55.2793442668899
+"45","Palmitic acid","683","1w","batch_1","batch_1_683_1w",5.93108267634105,375.561987958935
+"46","Palmitic acid","716","CB","batch_1","batch_1_716_CB",4.35524533015875,76.8859307609219
+"47","Palmitic acid","716","3m","batch_1","batch_1_716_3m",4.85983097631058,128.002395803657
+"48","Palmitic acid","632","CB","batch_1","batch_1_632_CB",4.6534359592156,103.944953385333
+"49","Palmitic acid","632","1w","batch_1","batch_1_632_1w",6.3773263301611,587.352542413616
+"50","Palmitic acid","751","1w","batch_1","batch_1_751_1w",5.70611907775725,299.701800525653
+"51","3-Hydroxydodecanoic acid","663","1w","batch_2","batch_2_663_1w",0.256505330351217,0.292405654757374
+"52","3-Hydroxydodecanoic acid","751","3m","batch_2","batch_2_751_3m",0.331020011789649,0.392387656198275
+"53","3-Hydroxydodecanoic acid","663","3m","batch_2","batch_2_663_3m",0.279911067006808,0.323012147675058
+"54","3-Hydroxydodecanoic acid","690","1w","batch_2","batch_2_690_1w",0.387402325413698,0.473149057366886
+"55","3-Hydroxydodecanoic acid","633","CB","batch_2","batch_2_633_CB",0.299798754226382,0.349587181528711
+"56","3-Hydroxydodecanoic acid","634","1w","batch_2","batch_2_634_1w",0.342145052384459,0.407964511312495
+"57","3-Hydroxydodecanoic acid","750","3m","batch_2","batch_2_750_3m",0.322615080144136,0.380733776759135
+"58","3-Hydroxydodecanoic acid","677","1w","batch_2","batch_2_677_1w",0.349687343642308,0.418623937454731
+"59","3-Hydroxydodecanoic acid","751","CB","batch_2","batch_2_751_CB",0.313207578272377,0.367805428248882
+"60","3-Hydroxydodecanoic acid","633","1w","batch_2","batch_2_633_1w",0.308386463440444,0.361226951748903
+"61","3-Hydroxydodecanoic acid","750","1w","batch_2","batch_2_750_1w",0.254616025338758,0.289966211427594
+"62","3-Hydroxydodecanoic acid","634","3m","batch_2","batch_2_634_3m",0.270928053511026,0.311180732140888
+"63","3-Hydroxydodecanoic acid","668","1w","batch_2","batch_2_668_1w",0.283452101466127,0.327705283654278
+"64","3-Hydroxydodecanoic acid","690","3m","batch_2","batch_2_690_3m",0.279094570056856,0.321932353176176
+"65","3-Hydroxydodecanoic acid","665","1w","batch_2","batch_2_665_1w",0.302654733358205,0.353447083632017
+"66","3-Hydroxydodecanoic acid","668","CB","batch_2","batch_2_668_CB",0.253791773042076,0.288903391891076
+"67","3-Hydroxydodecanoic acid","750","CB","batch_2","batch_2_750_CB",0.25928426989608,0.296002166869743
+"68","3-Hydroxydodecanoic acid","665","CB","batch_2","batch_2_665_CB",0.25592176908636,0.29165167689631
+"69","3-Hydroxydodecanoic acid","677","CB","batch_2","batch_2_677_CB",0.261900009912187,0.299396609152417
+"70","3-Hydroxydodecanoic acid","634","CB","batch_2","batch_2_634_CB",0.255816529013046,0.291515750531713
+"71","3-Hydroxydodecanoic acid","668","3m","batch_2","batch_2_668_3m",0.309043243220432,0.362121271740283
+"72","3-Hydroxydodecanoic acid","690","CB","batch_2","batch_2_690_CB",0.293434101797426,0.341024805374082
+"73","3-Hydroxydodecanoic acid","665","3m","batch_2","batch_2_665_3m",0.277440186867378,0.319747178569921
+"74","3-Hydroxydodecanoic acid","677","3m","batch_2","batch_2_677_3m",0.34853072930191,0.416984085186174
+"75","3-Hydroxydodecanoic acid","751","1w","batch_2","batch_2_751_1w",0.330987653677251,0.392342601890935
+"76","3-Hydroxydodecanoic acid","633","3m","batch_2","batch_2_633_3m",0.27159703033706,0.312058175127221
+"77","3-Hydroxydodecanoic acid","663","CB","batch_2","batch_2_663_CB",0.253791773042076,0.288903391891076
+"78","3-Hydroxyhexadecanoic acid","690","1w","batch_2","batch_2_690_1w",0.0912956158206901,0.095592831966122
+"79","3-Hydroxyhexadecanoic acid","677","1w","batch_2","batch_2_677_1w",0.0781184346658987,0.0812507086535871
+"80","3-Hydroxyhexadecanoic acid","750","1w","batch_2","batch_2_750_1w",0.0314184547324162,0.0319172241984468
+"81","3-Hydroxyhexadecanoic acid","663","1w","batch_2","batch_2_663_1w",0.0308891377607146,0.0313711574322406
+"82","3-Hydroxyhexadecanoic acid","751","3m","batch_2","batch_2_751_3m",0.0437801762178213,0.0447526681611097
+"83","3-Hydroxyhexadecanoic acid","663","3m","batch_2","batch_2_663_3m",0.0443457133943441,0.0453436817395493
+"84","3-Hydroxyhexadecanoic acid","668","CB","batch_2","batch_2_668_CB",0.046656953287186,0.0477625159348091
+"85","3-Hydroxyhexadecanoic acid","633","CB","batch_2","batch_2_633_CB",0.0642909975467856,0.0664026741766944
+"86","3-Hydroxyhexadecanoic acid","634","1w","batch_2","batch_2_634_1w",0.0553679267101542,0.0569294157087527
+"87","3-Hydroxyhexadecanoic acid","750","3m","batch_2","batch_2_750_3m",0.0558191653952913,0.0574064507688221
+"88","3-Hydroxyhexadecanoic acid","668","3m","batch_2","batch_2_668_3m",0.0409120285125344,0.041760456297355
+"89","3-Hydroxyhexadecanoic acid","751","CB","batch_2","batch_2_751_CB",0.0666234025075631,0.0688928599961022
+"90","3-Hydroxyhexadecanoic acid","633","1w","batch_2","batch_2_633_1w",0.0459475042607852,0.0470194454544611
+"91","3-Hydroxyhexadecanoic acid","677","3m","batch_2","batch_2_677_3m",0.0404025361540852,0.0412298224939495
+"92","3-Hydroxyhexadecanoic acid","634","3m","batch_2","batch_2_634_3m",0.0537022026992622,0.0551703284868356
+"93","3-Hydroxyhexadecanoic acid","668","1w","batch_2","batch_2_668_1w",0.0539413752388473,0.0554227264361207
+"94","3-Hydroxyhexadecanoic acid","690","3m","batch_2","batch_2_690_3m",0.0433498093887601,0.0443031380065319
+"95","3-Hydroxyhexadecanoic acid","665","1w","batch_2","batch_2_665_1w",0.0633881420319162,0.0654403011485135
+"96","3-Hydroxyhexadecanoic acid","750","CB","batch_2","batch_2_750_CB",0.0393562077673039,0.0401409239455857
+"97","3-Hydroxyhexadecanoic acid","665","CB","batch_2","batch_2_665_CB",0.0418719505245674,0.0427609452094601
+"98","3-Hydroxyhexadecanoic acid","677","CB","batch_2","batch_2_677_CB",0.0349618613846216,0.0355802124510439
+"99","3-Hydroxyhexadecanoic acid","634","CB","batch_2","batch_2_634_CB",0.0521211981934422,0.0535034174872051
+"100","3-Hydroxyhexadecanoic acid","690","CB","batch_2","batch_2_690_CB",0.0547019002571752,0.0562257071292368
+"101","3-Hydroxyhexadecanoic acid","665","3m","batch_2","batch_2_665_3m",0.0443187997898511,0.0453155481517295
+"102","3-Hydroxyhexadecanoic acid","751","1w","batch_2","batch_2_751_1w",0.0655848967649793,0.0677833848206734
+"103","3-Hydroxyhexadecanoic acid","633","3m","batch_2","batch_2_633_3m",0.0441029940432782,0.0450899873889862
+"104","3-Hydroxyhexadecanoic acid","663","CB","batch_2","batch_2_663_CB",0.0375688483641966,0.0382834787401828
+"105","3-Hydroxytetradecanoic acid","690","1w","batch_2","batch_2_690_1w",0.0904681479891877,0.094686639115668
+"106","3-Hydroxytetradecanoic acid","663","3m","batch_2","batch_2_663_3m",0.0637338815093782,0.0658087296079611
+"107","3-Hydroxytetradecanoic acid","677","1w","batch_2","batch_2_677_1w",0.0910676747433166,0.0953431298154108
+"108","3-Hydroxytetradecanoic acid","633","1w","batch_2","batch_2_633_1w",0.0707953045919837,0.0733614912113945
+"109","3-Hydroxytetradecanoic acid","750","1w","batch_2","batch_2_750_1w",0.0454939671566275,0.0465446909547012
+"110","3-Hydroxytetradecanoic acid","663","1w","batch_2","batch_2_663_1w",0.0484734543057091,0.0496675072977294
+"111","3-Hydroxytetradecanoic acid","751","3m","batch_2","batch_2_751_3m",0.0652912531052895,0.0674698830309578
+"112","3-Hydroxytetradecanoic acid","665","1w","batch_2","batch_2_665_1w",0.070319531860791,0.0728509365467881
+"113","3-Hydroxytetradecanoic acid","668","CB","batch_2","batch_2_668_CB",0.055577494060634,0.0571509368170321
+"114","3-Hydroxytetradecanoic acid","633","CB","batch_2","batch_2_633_CB",0.0827077685723169,0.0862243332746742
+"115","3-Hydroxytetradecanoic acid","634","1w","batch_2","batch_2_634_1w",0.074398644182547,0.0772361538378815
+"116","3-Hydroxytetradecanoic acid","750","3m","batch_2","batch_2_750_3m",0.0734934789620471,0.0762615183068002
+"117","3-Hydroxytetradecanoic acid","634","CB","batch_2","batch_2_634_CB",0.0680480027147687,0.0704166901525957
+"118","3-Hydroxytetradecanoic acid","668","3m","batch_2","batch_2_668_3m",0.0606939440063561,0.0625736573798073
+"119","3-Hydroxytetradecanoic acid","751","CB","batch_2","batch_2_751_CB",0.070496822920028,0.0730411602877179
+"120","3-Hydroxytetradecanoic acid","665","3m","batch_2","batch_2_665_3m",0.0645730977880064,0.0667035490647621
+"121","3-Hydroxytetradecanoic acid","677","3m","batch_2","batch_2_677_3m",0.0611476818857246,0.063055896694628
+"122","3-Hydroxytetradecanoic acid","634","3m","batch_2","batch_2_634_3m",0.0624222533068893,0.0644117012109546
+"123","3-Hydroxytetradecanoic acid","668","1w","batch_2","batch_2_668_1w",0.0604819611618239,0.0623484338659949
+"124","3-Hydroxytetradecanoic acid","690","3m","batch_2","batch_2_690_3m",0.05766172080095,0.0593565767965668
+"125","3-Hydroxytetradecanoic acid","750","CB","batch_2","batch_2_750_CB",0.0515729601241838,0.0529260051018329
+"126","3-Hydroxytetradecanoic acid","665","CB","batch_2","batch_2_665_CB",0.0566814850802461,0.0583186664205483
+"127","3-Hydroxytetradecanoic acid","677","CB","batch_2","batch_2_677_CB",0.0538403579039177,0.0553161158299223
+"128","3-Hydroxytetradecanoic acid","633","3m","batch_2","batch_2_633_3m",0.0672219792635136,0.0695328659439302
+"129","3-Hydroxytetradecanoic acid","690","CB","batch_2","batch_2_690_CB",0.0631785063314297,0.0652169702345399
+"130","3-Hydroxytetradecanoic acid","663","CB","batch_2","batch_2_663_CB",0.0534028031239091,0.0548544582266318
+"131","3-Hydroxytetradecanoic acid","751","1w","batch_2","batch_2_751_1w",0.077495062487618,0.0805768970835791
+"159","Myristic acid","677","1w","batch_2","batch_2_677_1w",3.11489966988968,21.5311696853499
+"160","Myristic acid","751","3m","batch_2","batch_2_751_3m",2.74789979874753,14.609813683589
+"161","Myristic acid","663","3m","batch_2","batch_2_663_3m",2.33993054232769,9.38051553124541
+"162","Myristic acid","690","1w","batch_2","batch_2_690_1w",3.09780020354326,21.1491739766069
+"163","Myristic acid","663","1w","batch_2","batch_2_663_1w",1.94465039406483,5.99118726717419
+"164","Myristic acid","634","1w","batch_2","batch_2_634_1w",3.03065620650822,19.7108187052781
+"165","Myristic acid","750","3m","batch_2","batch_2_750_3m",3.20092683752885,23.5552784070926
+"166","Myristic acid","668","3m","batch_2","batch_2_668_3m",2.47315538779205,10.8598101729977
+"167","Myristic acid","751","CB","batch_2","batch_2_751_CB",1.80245155087905,5.06449667733569
+"168","Myristic acid","633","1w","batch_2","batch_2_633_1w",2.67220794582989,13.4718870860888
+"169","Myristic acid","750","1w","batch_2","batch_2_750_1w",1.70796806610062,4.51773839950715
+"170","Myristic acid","668","1w","batch_2","batch_2_668_1w",2.48496481913234,11.0006980524346
+"171","Myristic acid","690","3m","batch_2","batch_2_690_3m",2.06630752807241,6.89561488942376
+"172","Myristic acid","665","1w","batch_2","batch_2_665_1w",2.9988624875022,19.0627023636732
+"173","Myristic acid","668","CB","batch_2","batch_2_668_CB",1.50591492851427,3.50827649465298
+"174","Myristic acid","633","CB","batch_2","batch_2_633_CB",1.54324371920985,3.67974545835419
+"175","Myristic acid","665","CB","batch_2","batch_2_665_CB",1.55844146453252,3.75141023010894
+"176","Myristic acid","677","CB","batch_2","batch_2_677_CB",1.53261516553426,3.6302699249971
+"177","Myristic acid","634","CB","batch_2","batch_2_634_CB",2.04613743640061,6.73795496591735
+"178","Myristic acid","690","CB","batch_2","batch_2_690_CB",1.52323445260772,3.58703778324104
+"179","Myristic acid","665","3m","batch_2","batch_2_665_3m",2.78586403911562,15.2138212019132
+"180","Myristic acid","677","3m","batch_2","batch_2_677_3m",1.13585807507487,2.11384430907095
+"181","Myristic acid","634","3m","batch_2","batch_2_634_3m",2.01031791049914,6.46569039145017
+"182","Myristic acid","750","CB","batch_2","batch_2_750_CB",1.32814796779112,2.77404725396395
+"183","Myristic acid","633","3m","batch_2","batch_2_633_3m",0.551552824382441,0.735946546161451
+"184","Myristic acid","751","1w","batch_2","batch_2_751_1w",2.77136289919312,14.9803988474801
+"185","Myristic acid","663","CB","batch_2","batch_2_663_CB",0.7256903023441,1.06615688073802
+"240","Palmitic acid","663","3m","batch_2","batch_2_663_3m",4.4507938559447,84.6949464492257
+"241","Palmitic acid","690","1w","batch_2","batch_2_690_1w",6.03139056529933,415.293510390846
+"242","Palmitic acid","750","3m","batch_2","batch_2_750_3m",5.30406065400724,200.151962350814
+"243","Palmitic acid","677","1w","batch_2","batch_2_677_1w",6.018649192439,410.023007578431
+"244","Palmitic acid","634","1w","batch_2","batch_2_634_1w",5.87805008699839,356.112224598559
+"245","Palmitic acid","633","1w","batch_2","batch_2_633_1w",5.87659769316804,355.59393347933
+"246","Palmitic acid","750","1w","batch_2","batch_2_750_1w",4.31853074662662,74.0782382615859
+"247","Palmitic acid","663","1w","batch_2","batch_2_663_1w",4.69071088000304,107.930588867224
+"248","Palmitic acid","751","3m","batch_2","batch_2_751_3m",4.97141688091705,143.231100958181
+"249","Palmitic acid","665","1w","batch_2","batch_2_665_1w",5.75396669537542,314.439434039967
+"250","Palmitic acid","668","CB","batch_2","batch_2_668_CB",4.22285772093366,67.2281830665471
+"251","Palmitic acid","633","CB","batch_2","batch_2_633_CB",4.47687065664242,86.9589876703024
+"252","Palmitic acid","665","CB","batch_2","batch_2_665_CB",4.03124964593189,55.3312614132365
+"253","Palmitic acid","677","CB","batch_2","batch_2_677_CB",4.30689083834969,73.2094008581621
+"254","Palmitic acid","634","CB","batch_2","batch_2_634_CB",4.52791027808924,91.564923879028
+"255","Palmitic acid","668","3m","batch_2","batch_2_668_3m",4.88946518913821,131.882488046244
+"256","Palmitic acid","751","CB","batch_2","batch_2_751_CB",4.99506020694415,146.681836587901
+"257","Palmitic acid","665","3m","batch_2","batch_2_665_3m",5.11578393323381,165.631357653996
+"258","Palmitic acid","677","3m","batch_2","batch_2_677_3m",3.88379418799713,47.6082946423567
+"259","Palmitic acid","634","3m","batch_2","batch_2_634_3m",4.66594786140869,105.266263189981
+"260","Palmitic acid","668","1w","batch_2","batch_2_668_1w",5.41934728284,224.73173542896
+"261","Palmitic acid","690","3m","batch_2","batch_2_690_3m",4.7887350464225,119.149289223541
+"262","Palmitic acid","750","CB","batch_2","batch_2_750_CB",4.2579355758836,69.6639524036267
+"263","Palmitic acid","633","3m","batch_2","batch_2_633_3m",4.13786121271409,61.6686431137747
+"264","Palmitic acid","690","CB","batch_2","batch_2_690_CB",4.22239668083815,67.1967343886175
+"265","Palmitic acid","663","CB","batch_2","batch_2_663_CB",3.64704237608778,37.3610405702558
+"266","Palmitic acid","751","1w","batch_2","batch_2_751_1w",5.73954425966818,309.922678682529
+"267","3-Hydroxydodecanoic acid","801","1w","batch_3","batch_3_801_1w",0.282846543513956,0.326901524547543
+"268","3-Hydroxydodecanoic acid","776","CB","batch_3","batch_3_776_CB",0.338629733946448,0.403023756956187
+"269","3-Hydroxydodecanoic acid","734","1w","batch_3","batch_3_734_1w",0.319284551069429,0.376142852118912
+"270","3-Hydroxydodecanoic acid","699","CB","batch_3","batch_3_699_CB",0.330253392326542,0.391320633773182
+"271","3-Hydroxydodecanoic acid","744","3m","batch_3","batch_3_744_3m",0.288409873611364,0.334304088094814
+"272","3-Hydroxydodecanoic acid","718","CB","batch_3","batch_3_718_CB",0.352811790334921,0.423063283963461
+"273","3-Hydroxydodecanoic acid","718","3m","batch_3","batch_3_718_3m",0.235654329229647,0.265736706355464
+"274","3-Hydroxydodecanoic acid","782","CB","batch_3","batch_3_782_CB",0.301077307692748,0.351313804452471
+"275","3-Hydroxydodecanoic acid","801","3m","batch_3","batch_3_801_3m",0.258154642107596,0.294538993384417
+"276","3-Hydroxydodecanoic acid","844","CB","batch_3","batch_3_844_CB",0.253631275259823,0.28869654235503
+"277","3-Hydroxydodecanoic acid","641","1w","batch_3","batch_3_641_1w",0.294866334726411,0.342946841331963
+"278","3-Hydroxydodecanoic acid","762","3m","batch_3","batch_3_762_3m",0.292903660952277,0.340313659669991
+"279","3-Hydroxydodecanoic acid","822","CB","batch_3","batch_3_822_CB",0.257052040746548,0.293112419544039
+"280","3-Hydroxydodecanoic acid","641","3m","batch_3","batch_3_641_3m",0.25585290513658,0.291562731722692
+"281","3-Hydroxydodecanoic acid","737","1w","batch_3","batch_3_737_1w",0.314891481130817,0.370110620034115
+"282","3-Hydroxydodecanoic acid","162","1w","batch_3","batch_3_162_1w",0.338122421414998,0.402312165937143
+"283","3-Hydroxydodecanoic acid","695","CB","batch_3","batch_3_695_CB",0.309253899142181,0.362408240877128
+"284","3-Hydroxydodecanoic acid","641","CB","batch_3","batch_3_641_CB",0.295650055999252,0.343999749879331
+"285","3-Hydroxydodecanoic acid","793","CB","batch_3","batch_3_793_CB",0.278090523233127,0.320605737299462
+"286","3-Hydroxydodecanoic acid","782","3m","batch_3","batch_3_782_3m",0.270421309635842,0.310516467655811
+"287","3-Hydroxydodecanoic acid","522","1w","batch_3","batch_3_522_1w",0.30809967986444,0.360836630187509
+"288","3-Hydroxydodecanoic acid","606","1w","batch_3","batch_3_606_1w",0.280699778848354,0.324056034631326
+"289","3-Hydroxydodecanoic acid","730","1w","batch_3","batch_3_730_1w",0.35183043158195,0.421667433380829
+"290","3-Hydroxydodecanoic acid","847","3m","batch_3","batch_3_847_3m",0.280641345628034,0.323978668033749
+"291","3-Hydroxydodecanoic acid","45","1w","batch_3","batch_3_45_1w",0.332025180103557,0.393787943795425
+"292","3-Hydroxydodecanoic acid","42","1w","batch_3","batch_3_42_1w",0.317023439609058,0.373034754946158
+"293","3-Hydroxydodecanoic acid","787","3m","batch_3","batch_3_787_3m",0.256534536648272,0.292443401692064
+"294","3-Hydroxydodecanoic acid","831","3m","batch_3","batch_3_831_3m",0.253161918239968,0.288091825511561
+"295","3-Hydroxydodecanoic acid","681","CB","batch_3","batch_3_681_CB",0.236894908628293,0.267307927648347
+"296","3-Hydroxydodecanoic acid","776","3m","batch_3","batch_3_776_3m",0.326565957687811,0.386199677273359
+"297","3-Hydroxydodecanoic acid","337","CB","batch_3","batch_3_337_CB",0.326016994830411,0.3854389139721
+"298","3-Hydroxydodecanoic acid","656","3m","batch_3","batch_3_656_3m",0.264077648358823,0.302229308343855
+"299","3-Hydroxydodecanoic acid","762","CB","batch_3","batch_3_762_CB",0.283435367939576,0.327683066648548
+"300","3-Hydroxydodecanoic acid","337","3m","batch_3","batch_3_337_3m",0.256516491491455,0.29242007955863
+"301","3-Hydroxydodecanoic acid","725","1w","batch_3","batch_3_725_1w",0.260096760500423,0.297055584341482
+"302","3-Hydroxydodecanoic acid","847","CB","batch_3","batch_3_847_CB",0.368329709864577,0.44531849618889
+"303","3-Hydroxydodecanoic acid","779","1w","batch_3","batch_3_779_1w",0.295401887183544,0.343666252436636
+"304","3-Hydroxydodecanoic acid","786","3m","batch_3","batch_3_786_3m",0.290269098817237,0.336787167474309
+"305","3-Hydroxydodecanoic acid","801","CB","batch_3","batch_3_801_CB",0.290096674118635,0.336556692220247
+"306","3-Hydroxydodecanoic acid","786","1w","batch_3","batch_3_786_1w",0.417493839193523,0.518152050828684
+"307","3-Hydroxydodecanoic acid","822","3m","batch_3","batch_3_822_3m",0.274255814840234,0.315551296741541
+"308","3-Hydroxydodecanoic acid","746","1w","batch_3","batch_3_746_1w",0.362526437987119,0.436955210687287
+"309","3-Hydroxydodecanoic acid","860","1w","batch_3","batch_3_860_1w",0.292003953981811,0.339108312438737
+"310","3-Hydroxydodecanoic acid","652","CB","batch_3","batch_3_652_CB",0.282416425259509,0.326330922701914
+"311","3-Hydroxydodecanoic acid","718","1w","batch_3","batch_3_718_1w",0.272898065773383,0.313766320245297
+"312","3-Hydroxydodecanoic acid","270","1w","batch_3","batch_3_270_1w",0.26535844658777,0.30389826990902
+"313","3-Hydroxydodecanoic acid","744","1w","batch_3","batch_3_744_1w",0.304692279271608,0.356207605596355
+"314","3-Hydroxydodecanoic acid","652","1w","batch_3","batch_3_652_1w",0.340667510217858,0.405885720506677
+"315","3-Hydroxydodecanoic acid","787","CB","batch_3","batch_3_787_CB",0.330790208980992,0.392067718366856
+"316","3-Hydroxydodecanoic acid","685","1w","batch_3","batch_3_685_1w",0.334751538068561,0.397593093400504
+"317","3-Hydroxydodecanoic acid","699","1w","batch_3","batch_3_699_1w",0.325579851380974,0.38483341078178
+"318","3-Hydroxydodecanoic acid","800","3m","batch_3","batch_3_800_3m",0.270261439830326,0.310306972389431
+"319","3-Hydroxydodecanoic acid","844","3m","batch_3","batch_3_844_3m",0.290648264611113,0.337294127546793
+"320","3-Hydroxydodecanoic acid","844","1w","batch_3","batch_3_844_1w",0.287062366191135,0.33250731429016
+"321","3-Hydroxydodecanoic acid","786","CB","batch_3","batch_3_786_CB",0.306255752422873,0.358329658229135
+"322","3-Hydroxydodecanoic acid","791","3m","batch_3","batch_3_791_3m",0.286646763050456,0.331953635128733
+"323","3-Hydroxydodecanoic acid","800","CB","batch_3","batch_3_800_CB",0.346009667988338,0.413416280643739
+"324","3-Hydroxydodecanoic acid","791","CB","batch_3","batch_3_791_CB",0.248505127679267,0.28210739658797
+"325","3-Hydroxydodecanoic acid","831","1w","batch_3","batch_3_831_1w",0.305559470438692,0.357384206948074
+"326","3-Hydroxydodecanoic acid","818","1w","batch_3","batch_3_818_1w",0.296103155864939,0.344608853967554
+"327","3-Hydroxydodecanoic acid","790","CB","batch_3","batch_3_790_CB",0.264280893439231,0.302494006942772
+"328","3-Hydroxydodecanoic acid","744","CB","batch_3","batch_3_744_CB",0.286419105367554,0.331650440164067
+"329","3-Hydroxydodecanoic acid","681","1w","batch_3","batch_3_681_1w",0.296100306914031,0.344605023248395
+"330","3-Hydroxydodecanoic acid","762","1w","batch_3","batch_3_762_1w",0.294882886482228,0.342969069644115
+"331","3-Hydroxydodecanoic acid","653","1w","batch_3","batch_3_653_1w",0.374260901925676,0.453916430573753
+"332","3-Hydroxydodecanoic acid","793","3m","batch_3","batch_3_793_3m",0.276414718793111,0.318394513648077
+"333","3-Hydroxydodecanoic acid","811","1w","batch_3","batch_3_811_1w",0.405722408166099,0.50038599974365
+"334","3-Hydroxydodecanoic acid","793","1w","batch_3","batch_3_793_1w",0.294192151936482,0.342041754814907
+"335","3-Hydroxydodecanoic acid","756","1w","batch_3","batch_3_756_1w",0.339197500789449,0.403820573506934
+"336","3-Hydroxydodecanoic acid","822","1w","batch_3","batch_3_822_1w",0.247079585557869,0.280281000601478
+"337","3-Hydroxydodecanoic acid","823","1w","batch_3","batch_3_823_1w",0.307763315926099,0.360378970793513
+"338","3-Hydroxydodecanoic acid","790","3m","batch_3","batch_3_790_3m",0.2773099515368,0.31957531205163
+"339","3-Hydroxydodecanoic acid","787","1w","batch_3","batch_3_787_1w",0.322128837945822,0.380062568930247
+"340","3-Hydroxyhexadecanoic acid","787","CB","batch_3","batch_3_787_CB",0.0558375313020234,0.0574258711754109
+"341","3-Hydroxyhexadecanoic acid","746","1w","batch_3","batch_3_746_1w",0.0974192653897381,0.102322442397948
+"342","3-Hydroxyhexadecanoic acid","270","1w","batch_3","batch_3_270_1w",0.02746649586802,0.0278471774028662
+"343","3-Hydroxyhexadecanoic acid","818","1w","batch_3","batch_3_818_1w",0.0641084707837335,0.0662080449115321
+"344","3-Hydroxyhexadecanoic acid","822","3m","batch_3","batch_3_822_3m",0.0330591768775038,0.0336117033446926
+"345","3-Hydroxyhexadecanoic acid","695","CB","batch_3","batch_3_695_CB",0.0654433111548898,0.0676322127608369
+"346","3-Hydroxyhexadecanoic acid","730","1w","batch_3","batch_3_730_1w",0.0593821317507442,0.0611806740995952
+"347","3-Hydroxyhexadecanoic acid","685","1w","batch_3","batch_3_685_1w",0.0574965742783815,0.0591816421870676
+"348","3-Hydroxyhexadecanoic acid","681","CB","batch_3","batch_3_681_CB",0.0281439265834708,0.028543708550788
+"349","3-Hydroxyhexadecanoic acid","641","1w","batch_3","batch_3_641_1w",0.0526634181444058,0.0540748029528754
+"350","3-Hydroxyhexadecanoic acid","811","1w","batch_3","batch_3_811_1w",0.124366903710167,0.132431288026577
+"351","3-Hydroxyhexadecanoic acid","337","CB","batch_3","batch_3_337_CB",0.0413679432982308,0.0422355185782649
+"352","3-Hydroxyhexadecanoic acid","337","3m","batch_3","batch_3_337_3m",0.0195020496454358,0.0196934568685563
+"353","3-Hydroxyhexadecanoic acid","822","CB","batch_3","batch_3_822_CB",0.0448501773271018,0.0458711529582396
+"354","3-Hydroxyhexadecanoic acid","737","1w","batch_3","batch_3_737_1w",0.0696636264623332,0.0721474785519345
+"355","3-Hydroxyhexadecanoic acid","793","3m","batch_3","batch_3_793_3m",0.0742445823543158,0.0770702056500532
+"356","3-Hydroxyhexadecanoic acid","800","CB","batch_3","batch_3_800_CB",0.0766639307489723,0.0796791684454253
+"357","3-Hydroxyhexadecanoic acid","762","CB","batch_3","batch_3_762_CB",0.0511739783721985,0.0525059906342323
+"358","3-Hydroxyhexadecanoic acid","652","1w","batch_3","batch_3_652_1w",0.0565968573539777,0.0582291071077958
+"359","3-Hydroxyhexadecanoic acid","793","1w","batch_3","batch_3_793_1w",0.0348026049603922,0.0354153027812169
+"360","3-Hydroxyhexadecanoic acid","744","1w","batch_3","batch_3_744_1w",0.0577478498287822,0.0594478220780313
+"361","3-Hydroxyhexadecanoic acid","522","1w","batch_3","batch_3_522_1w",0.0519393083208417,0.053311813310772
+"362","3-Hydroxyhexadecanoic acid","744","CB","batch_3","batch_3_744_CB",0.0618688196173755,0.0638227828946417
+"363","3-Hydroxyhexadecanoic acid","641","3m","batch_3","batch_3_641_3m",0.0259612864525936,0.0263012159435768
+"364","3-Hydroxyhexadecanoic acid","790","3m","batch_3","batch_3_790_3m",0.0385140933547132,0.0392653749903446
+"365","3-Hydroxyhexadecanoic acid","786","3m","batch_3","batch_3_786_3m",0.0465287037854141,0.0476281495305616
+"366","3-Hydroxyhexadecanoic acid","718","CB","batch_3","batch_3_718_CB",0.0809207800014526,0.0842849961084715
+"367","3-Hydroxyhexadecanoic acid","718","3m","batch_3","batch_3_718_3m",0.0318204581791823,0.0323321418729318
+"368","3-Hydroxyhexadecanoic acid","656","3m","batch_3","batch_3_656_3m",0.0345698632087229,0.0351743464513293
+"369","3-Hydroxyhexadecanoic acid","762","1w","batch_3","batch_3_762_1w",0.0489195581726721,0.0501358724937554
+"370","3-Hydroxyhexadecanoic acid","162","1w","batch_3","batch_3_162_1w",0.0696828403519215,0.0721680788731153
+"371","3-Hydroxyhexadecanoic acid","725","1w","batch_3","batch_3_725_1w",0.0528184909403997,0.0542382739543811
+"372","3-Hydroxyhexadecanoic acid","782","3m","batch_3","batch_3_782_3m",0.0306754708192122,0.031150811052685
+"373","3-Hydroxyhexadecanoic acid","782","CB","batch_3","batch_3_782_CB",0.0493680718521548,0.0506069784387174
+"374","3-Hydroxyhexadecanoic acid","844","1w","batch_3","batch_3_844_1w",0.0525532395524356,0.0539586728728966
+"375","3-Hydroxyhexadecanoic acid","762","3m","batch_3","batch_3_762_3m",0.0368528520750474,0.0375403376971821
+"376","3-Hydroxyhexadecanoic acid","641","CB","batch_3","batch_3_641_CB",0.0459651916790605,0.0470379646891134
+"377","3-Hydroxyhexadecanoic acid","606","1w","batch_3","batch_3_606_1w",0.0452763256569509,0.0463169441831567
+"378","3-Hydroxyhexadecanoic acid","653","1w","batch_3","batch_3_653_1w",0.0742146126569151,0.0770379266656087
+"379","3-Hydroxyhexadecanoic acid","45","1w","batch_3","batch_3_45_1w",0.066906963554,0.0691959993512368
+"380","3-Hydroxyhexadecanoic acid","776","CB","batch_3","batch_3_776_CB",0.0795549383023979,0.0828050453664188
+"381","3-Hydroxyhexadecanoic acid","831","3m","batch_3","batch_3_831_3m",0.0303507134995547,0.0308159916495936
+"382","3-Hydroxyhexadecanoic acid","791","CB","batch_3","batch_3_791_CB",0.0377817402972363,0.038504544447733
+"383","3-Hydroxyhexadecanoic acid","734","1w","batch_3","batch_3_734_1w",0.0653112815688984,0.0674912630267672
+"384","3-Hydroxyhexadecanoic acid","699","CB","batch_3","batch_3_699_CB",0.0520029645445051,0.0533788652972628
+"385","3-Hydroxyhexadecanoic acid","756","1w","batch_3","batch_3_756_1w",0.05647684319365,0.0581021122508149
+"386","3-Hydroxyhexadecanoic acid","699","1w","batch_3","batch_3_699_1w",0.0760979320782671,0.0790682443787112
+"387","3-Hydroxyhexadecanoic acid","744","3m","batch_3","batch_3_744_3m",0.0347559616019068,0.0353670086603768
+"388","3-Hydroxyhexadecanoic acid","776","3m","batch_3","batch_3_776_3m",0.0598640237714121,0.0616921718323705
+"389","3-Hydroxyhexadecanoic acid","801","1w","batch_3","batch_3_801_1w",0.042214303353183,0.0431179984842343
+"390","3-Hydroxyhexadecanoic acid","847","CB","batch_3","batch_3_847_CB",0.0771560274332367,0.0802106057328258
+"391","3-Hydroxyhexadecanoic acid","793","CB","batch_3","batch_3_793_CB",0.047166043642627,0.0482960575253798
+"392","3-Hydroxyhexadecanoic acid","681","1w","batch_3","batch_3_681_1w",0.0564530355382047,0.0580769216201665
+"393","3-Hydroxyhexadecanoic acid","787","1w","batch_3","batch_3_787_1w",0.089831866586124,0.0939903319121705
+"394","3-Hydroxyhexadecanoic acid","831","1w","batch_3","batch_3_831_1w",0.0574923653369871,0.0591771841629914
+"395","3-Hydroxyhexadecanoic acid","847","3m","batch_3","batch_3_847_3m",0.0352993482972513,0.0359297662013147
+"396","3-Hydroxyhexadecanoic acid","823","1w","batch_3","batch_3_823_1w",0.0529799423229435,0.0544084959221579
+"397","3-Hydroxyhexadecanoic acid","779","1w","batch_3","batch_3_779_1w",0.0711600225024822,0.0737530367691773
+"398","3-Hydroxyhexadecanoic acid","791","3m","batch_3","batch_3_791_3m",0.0343995551817367,0.0349980629624711
+"399","3-Hydroxyhexadecanoic acid","822","1w","batch_3","batch_3_822_1w",0.0374636414850168,0.0381742499215929
+"400","3-Hydroxyhexadecanoic acid","787","3m","batch_3","batch_3_787_3m",0.0313870598413487,0.0318848277781462
+"401","3-Hydroxyhexadecanoic acid","800","3m","batch_3","batch_3_800_3m",0.03239803551634,0.032928565746373
+"402","3-Hydroxyhexadecanoic acid","801","3m","batch_3","batch_3_801_3m",0.032560287813578,0.033096174376123
+"403","3-Hydroxyhexadecanoic acid","718","1w","batch_3","batch_3_718_1w",0.0570042397880978,0.0586602988813198
+"404","3-Hydroxyhexadecanoic acid","42","1w","batch_3","batch_3_42_1w",0.0373037138514212,0.0380082304464479
+"405","3-Hydroxyhexadecanoic acid","790","CB","batch_3","batch_3_790_CB",0.0442888227855509,0.0452842131927139
+"406","3-Hydroxyhexadecanoic acid","786","CB","batch_3","batch_3_786_CB",0.0611650870757799,0.0630743995455718
+"407","3-Hydroxyhexadecanoic acid","786","1w","batch_3","batch_3_786_1w",0.0980566738839634,0.10302529606476
+"408","3-Hydroxyhexadecanoic acid","801","CB","batch_3","batch_3_801_CB",0.0593303646065179,0.0611257412284602
+"409","3-Hydroxyhexadecanoic acid","844","3m","batch_3","batch_3_844_3m",0.0330167611101019,0.0335678628408706
+"410","3-Hydroxyhexadecanoic acid","652","CB","batch_3","batch_3_652_CB",0.045574137971177,0.0466285966583869
+"411","3-Hydroxyhexadecanoic acid","860","1w","batch_3","batch_3_860_1w",0.054085033983902,0.0555743580318443
+"412","3-Hydroxyhexadecanoic acid","844","CB","batch_3","batch_3_844_CB",0.0318617355120114,0.0323747546698073
+"413","3-Hydroxytetradecanoic acid","787","3m","batch_3","batch_3_787_3m",0.0477132197199376,0.0488698170094132
+"414","3-Hydroxytetradecanoic acid","718","3m","batch_3","batch_3_718_3m",0.0520555464228747,0.0534342553928799
+"415","3-Hydroxytetradecanoic acid","793","CB","batch_3","batch_3_793_CB",0.066400033342113,0.0686541289535788
+"416","3-Hydroxytetradecanoic acid","787","1w","batch_3","batch_3_787_1w",0.0987597381100566,0.103801066367117
+"417","3-Hydroxytetradecanoic acid","801","CB","batch_3","batch_3_801_CB",0.061605870797186,0.0635430887232266
+"418","3-Hydroxytetradecanoic acid","685","1w","batch_3","batch_3_685_1w",0.0703018187919716,0.0728319332326201
+"419","3-Hydroxytetradecanoic acid","718","CB","batch_3","batch_3_718_CB",0.0943736181098926,0.098970264416845
+"420","3-Hydroxytetradecanoic acid","45","1w","batch_3","batch_3_45_1w",0.0822626300439087,0.0857409205742305
+"421","3-Hydroxytetradecanoic acid","791","3m","batch_3","batch_3_791_3m",0.0487146142648634,0.0499206755967162
+"422","3-Hydroxytetradecanoic acid","162","1w","batch_3","batch_3_162_1w",0.0941791489060944,0.0987565693237567
+"423","3-Hydroxytetradecanoic acid","641","CB","batch_3","batch_3_641_CB",0.0634404201047356,0.0654960017701096
+"424","3-Hydroxytetradecanoic acid","762","CB","batch_3","batch_3_762_CB",0.062197364348459,0.0641723536864448
+"425","3-Hydroxytetradecanoic acid","270","1w","batch_3","batch_3_270_1w",0.0534952053863981,0.054951933668575
+"426","3-Hydroxytetradecanoic acid","681","CB","batch_3","batch_3_681_CB",0.0393762996422894,0.0401618225369421
+"427","3-Hydroxytetradecanoic acid","695","CB","batch_3","batch_3_695_CB",0.0683918437675229,0.0707848066373765
+"428","3-Hydroxytetradecanoic acid","793","1w","batch_3","batch_3_793_1w",0.0628230936284628,0.0648384458620723
+"429","3-Hydroxytetradecanoic acid","746","1w","batch_3","batch_3_746_1w",0.113833235784847,0.120565239119028
+"430","3-Hydroxytetradecanoic acid","699","CB","batch_3","batch_3_699_CB",0.0597725337126923,0.0615950419965022
+"431","3-Hydroxytetradecanoic acid","653","1w","batch_3","batch_3_653_1w",0.0855512493544509,0.0893173867264079
+"432","3-Hydroxytetradecanoic acid","744","CB","batch_3","batch_3_744_CB",0.0712717040269999,0.073872961841862
+"433","3-Hydroxytetradecanoic acid","800","3m","batch_3","batch_3_800_3m",0.0499248238635419,0.0511920688471578
+"434","3-Hydroxytetradecanoic acid","656","3m","batch_3","batch_3_656_3m",0.0516066191954939,0.0529614462097769
+"435","3-Hydroxytetradecanoic acid","652","CB","batch_3","batch_3_652_CB",0.0550322589502751,0.0565746981163917
+"436","3-Hydroxytetradecanoic acid","606","1w","batch_3","batch_3_606_1w",0.0586495457417581,0.0604035526736411
+"437","3-Hydroxytetradecanoic acid","847","3m","batch_3","batch_3_847_3m",0.0526141407463804,0.0540228621690257
+"438","3-Hydroxytetradecanoic acid","641","3m","batch_3","batch_3_641_3m",0.05021612481907,0.0514983267056943
+"439","3-Hydroxytetradecanoic acid","793","3m","batch_3","batch_3_793_3m",0.0748557973007513,0.0777287282870449
+"440","3-Hydroxytetradecanoic acid","337","3m","batch_3","batch_3_337_3m",0.0526719049933922,0.0540837487645093
+"441","3-Hydroxytetradecanoic acid","822","1w","batch_3","batch_3_822_1w",0.0588915338659945,0.06066018879048
+"442","3-Hydroxytetradecanoic acid","737","1w","batch_3","batch_3_737_1w",0.084176245371125,0.0878206002600528
+"443","3-Hydroxytetradecanoic acid","831","1w","batch_3","batch_3_831_1w",0.0665872338849602,0.0688542003127841
+"444","3-Hydroxytetradecanoic acid","800","CB","batch_3","batch_3_800_CB",0.0807117353460146,0.0840583558148598
+"445","3-Hydroxytetradecanoic acid","791","CB","batch_3","batch_3_791_CB",0.0497500284373006,0.051008341339254
+"446","3-Hydroxytetradecanoic acid","779","1w","batch_3","batch_3_779_1w",0.0723701173005722,0.0750531662146929
+"447","3-Hydroxytetradecanoic acid","718","1w","batch_3","batch_3_718_1w",0.0619033591499705,0.0638595274708933
+"448","3-Hydroxytetradecanoic acid","844","3m","batch_3","batch_3_844_3m",0.0512303394267617,0.0525653126535086
+"449","3-Hydroxytetradecanoic acid","652","1w","batch_3","batch_3_652_1w",0.0959404667220417,0.10069353414928
+"450","3-Hydroxytetradecanoic acid","744","1w","batch_3","batch_3_744_1w",0.0713412760216317,0.0739476759247723
+"451","3-Hydroxytetradecanoic acid","786","1w","batch_3","batch_3_786_1w",0.108127623640803,0.114189933288838
+"452","3-Hydroxytetradecanoic acid","844","CB","batch_3","batch_3_844_CB",0.0483097609637689,0.0494956977779546
+"453","3-Hydroxytetradecanoic acid","860","1w","batch_3","batch_3_860_1w",0.0598548256005683,0.0616824062513033
+"454","3-Hydroxytetradecanoic acid","782","CB","batch_3","batch_3_782_CB",0.0661467078478754,0.0683834459050987
+"455","3-Hydroxytetradecanoic acid","725","1w","batch_3","batch_3_725_1w",0.0629135465049643,0.0649347679187478
+"456","3-Hydroxytetradecanoic acid","744","3m","batch_3","batch_3_744_3m",0.056934384253416,0.0585863481830579
+"457","3-Hydroxytetradecanoic acid","699","1w","batch_3","batch_3_699_1w",0.0865025756844697,0.0903541761224805
+"458","3-Hydroxytetradecanoic acid","844","1w","batch_3","batch_3_844_1w",0.0624471838052817,0.0644382378559451
+"459","3-Hydroxytetradecanoic acid","681","1w","batch_3","batch_3_681_1w",0.0670629143635521,0.0693627543353549
+"460","3-Hydroxytetradecanoic acid","730","1w","batch_3","batch_3_730_1w",0.0802478756360138,0.0835556214284352
+"461","3-Hydroxytetradecanoic acid","337","CB","batch_3","batch_3_337_CB",0.068075684790852,0.0704463219189858
+"462","3-Hydroxytetradecanoic acid","811","1w","batch_3","batch_3_811_1w",0.12510675406999,0.133269427733248
+"463","3-Hydroxytetradecanoic acid","776","3m","batch_3","batch_3_776_3m",0.0562666811515855,0.057879762715726
+"464","3-Hydroxytetradecanoic acid","734","1w","batch_3","batch_3_734_1w",0.0788059708723492,0.0819943632794827
+"465","3-Hydroxytetradecanoic acid","847","CB","batch_3","batch_3_847_CB",0.0949711995230866,0.0996271848826945
+"466","3-Hydroxytetradecanoic acid","641","1w","batch_3","batch_3_641_1w",0.0689724426994519,0.0714066836655358
+"467","3-Hydroxytetradecanoic acid","756","1w","batch_3","batch_3_756_1w",0.0754456386182965,0.0783646047347592
+"468","3-Hydroxytetradecanoic acid","786","CB","batch_3","batch_3_786_CB",0.0704134000297302,0.0729516478264642
+"469","3-Hydroxytetradecanoic acid","818","1w","batch_3","batch_3_818_1w",0.0744749185023429,0.0773183224264118
+"470","3-Hydroxytetradecanoic acid","831","3m","batch_3","batch_3_831_3m",0.0433748198755392,0.0443292568629797
+"471","3-Hydroxytetradecanoic acid","762","3m","batch_3","batch_3_762_3m",0.0606297632524043,0.0625054627897608
+"472","3-Hydroxytetradecanoic acid","822","3m","batch_3","batch_3_822_3m",0.0479216394465428,0.0490884449523155
+"473","3-Hydroxytetradecanoic acid","762","1w","batch_3","batch_3_762_1w",0.0537739135258339,0.0552459983364066
+"474","3-Hydroxytetradecanoic acid","42","1w","batch_3","batch_3_42_1w",0.0536303386459353,0.0550945023946981
+"475","3-Hydroxytetradecanoic acid","822","CB","batch_3","batch_3_822_CB",0.0562093053264556,0.057819067732681
+"476","3-Hydroxytetradecanoic acid","801","3m","batch_3","batch_3_801_3m",0.0441932424080317,0.0451843093075037
+"477","3-Hydroxytetradecanoic acid","786","3m","batch_3","batch_3_786_3m",0.0593561271414851,0.0611530788696152
+"478","3-Hydroxytetradecanoic acid","787","CB","batch_3","batch_3_787_CB",0.0769606235681644,0.0799995490266932
+"479","3-Hydroxytetradecanoic acid","790","3m","batch_3","batch_3_790_3m",0.0593870775983176,0.0611859225504362
+"480","3-Hydroxytetradecanoic acid","522","1w","batch_3","batch_3_522_1w",0.0604006293237579,0.062262034628754
+"481","3-Hydroxytetradecanoic acid","790","CB","batch_3","batch_3_790_CB",0.0564362994921684,0.0580592137442767
+"482","3-Hydroxytetradecanoic acid","782","3m","batch_3","batch_3_782_3m",0.0499625859325271,0.051231764784074
+"483","3-Hydroxytetradecanoic acid","823","1w","batch_3","batch_3_823_1w",0.0653838468430442,0.0675687286335396
+"484","3-Hydroxytetradecanoic acid","801","1w","batch_3","batch_3_801_1w",0.0615390765741347,0.0634720525613627
+"485","3-Hydroxytetradecanoic acid","776","CB","batch_3","batch_3_776_CB",0.104465343566006,0.110116920505765
+"486","Myristic acid","844","3m","batch_3","batch_3_844_3m",2.65433552156912,13.2155370026094
+"487","Myristic acid","652","1w","batch_3","batch_3_652_1w",1.67774711218991,4.35348158170962
+"488","Myristic acid","782","3m","batch_3","batch_3_782_3m",2.52692742318078,11.5149937211891
+"489","Myristic acid","641","CB","batch_3","batch_3_641_CB",1.79455204231122,5.01677885568526
+"490","Myristic acid","337","CB","batch_3","batch_3_337_CB",2.1903459124144,7.9383044504753
+"491","Myristic acid","744","CB","batch_3","batch_3_744_CB",1.60123065764517,3.95913166388306
+"492","Myristic acid","737","1w","batch_3","batch_3_737_1w",2.17772011907249,7.8261607072581
+"493","Myristic acid","823","1w","batch_3","batch_3_823_1w",3.23002824358839,24.2803709692719
+"494","Myristic acid","800","CB","batch_3","batch_3_800_CB",1.48620497997252,3.42028856418166
+"495","Myristic acid","791","3m","batch_3","batch_3_791_3m",1.39054595801939,3.01704259103971
+"496","Myristic acid","844","1w","batch_3","batch_3_844_1w",2.71392032609098,14.0883108190172
+"497","Myristic acid","762","3m","batch_3","batch_3_762_3m",2.52165751756679,11.4492143632573
+"498","Myristic acid","801","1w","batch_3","batch_3_801_1w",2.32243296411047,9.20046149740637
+"499","Myristic acid","776","CB","batch_3","batch_3_776_CB",1.32178156252973,2.75009646079338
+"500","Myristic acid","42","1w","batch_3","batch_3_42_1w",1.92385328963863,5.84729230124349
+"501","Myristic acid","756","1w","batch_3","batch_3_756_1w",1.89216176113772,5.63369365301923
+"502","Myristic acid","762","1w","batch_3","batch_3_762_1w",3.1665101200874,22.7245439052903
+"503","Myristic acid","762","CB","batch_3","batch_3_762_CB",1.1269824278173,2.08632921314126
+"504","Myristic acid","718","1w","batch_3","batch_3_718_1w",3.2208735467775,24.0499929671289
+"505","Myristic acid","45","1w","batch_3","batch_3_45_1w",3.28328964372393,25.6633414798176
+"506","Myristic acid","681","1w","batch_3","batch_3_681_1w",3.27468183188089,25.434813427543
+"507","Myristic acid","793","3m","batch_3","batch_3_793_3m",1.56893700596592,3.80154147011051
+"508","Myristic acid","685","1w","batch_3","batch_3_685_1w",2.39513790662721,9.96971075058402
+"509","Myristic acid","746","1w","batch_3","batch_3_746_1w",3.85251315189093,46.1113124642038
+"510","Myristic acid","653","1w","batch_3","batch_3_653_1w",3.09358875803871,21.0560900838843
+"511","Myristic acid","606","1w","batch_3","batch_3_606_1w",2.42418743593815,10.2930493640313
+"512","Myristic acid","776","3m","batch_3","batch_3_776_3m",1.75826115631909,4.80233925645471
+"513","Myristic acid","800","3m","batch_3","batch_3_800_3m",2.46612250212206,10.7766940994911
+"514","Myristic acid","786","CB","batch_3","batch_3_786_CB",1.86430983302009,5.45148174944408
+"515","Myristic acid","744","1w","batch_3","batch_3_744_1w",3.40192209275131,29.0217492126705
+"516","Myristic acid","787","1w","batch_3","batch_3_787_1w",2.33564571397463,9.33613195987617
+"517","Myristic acid","779","1w","batch_3","batch_3_779_1w",3.14349017120912,22.1846441910139
+"518","Myristic acid","801","CB","batch_3","batch_3_801_CB",1.8050918340414,5.08052982250854
+"519","Myristic acid","786","1w","batch_3","batch_3_786_1w",3.90910750028537,48.8544370407487
+"520","Myristic acid","801","3m","batch_3","batch_3_801_3m",2.06335372444109,6.87232720404863
+"521","Myristic acid","162","1w","batch_3","batch_3_162_1w",3.15144897372715,22.3699024345757
+"522","Myristic acid","790","3m","batch_3","batch_3_790_3m",3.17328672080303,22.8858616421022
+"523","Myristic acid","860","1w","batch_3","batch_3_860_1w",2.91817093551824,17.5074052452318
+"524","Myristic acid","790","CB","batch_3","batch_3_790_CB",1.09476910815062,1.98849258514755
+"525","Myristic acid","725","1w","batch_3","batch_3_725_1w",3.32918893908905,26.9156911930777
+"526","Myristic acid","793","1w","batch_3","batch_3_793_1w",2.20722459162002,8.09045163360369
+"527","Myristic acid","831","1w","batch_3","batch_3_831_1w",2.41053727231622,10.1399447214194
+"528","Myristic acid","787","3m","batch_3","batch_3_787_3m",1.63804839043503,4.14511844517505
+"529","Myristic acid","730","1w","batch_3","batch_3_730_1w",1.39962515893234,3.05368019621353
+"530","Myristic acid","847","3m","batch_3","batch_3_847_3m",1.35891201854111,2.89195662085569
+"531","Myristic acid","782","CB","batch_3","batch_3_782_CB",2.14628070452394,7.55298807648734
+"532","Myristic acid","699","CB","batch_3","batch_3_699_CB",1.42622732026307,3.16296399874077
+"533","Myristic acid","847","CB","batch_3","batch_3_847_CB",1.85955508666338,5.42087940095683
+"534","Myristic acid","718","3m","batch_3","batch_3_718_3m",3.06147263346156,20.3589879737094
+"535","Myristic acid","786","3m","batch_3","batch_3_786_3m",1.53265005844719,3.63043149142118
+"536","Myristic acid","734","1w","batch_3","batch_3_734_1w",2.09040807826003,7.08821511569123
+"537","Myristic acid","822","CB","batch_3","batch_3_822_CB",1.37412345550401,2.95161144114658
+"538","Myristic acid","695","CB","batch_3","batch_3_695_CB",1.64432065995775,4.17749143471428
+"539","Myristic acid","652","CB","batch_3","batch_3_652_CB",1.63668960425301,4.13813207689216
+"540","Myristic acid","656","3m","batch_3","batch_3_656_3m",1.40794299258271,3.08753865305156
+"541","Myristic acid","270","1w","batch_3","batch_3_270_1w",1.59046820740558,3.90604543746933
+"542","Myristic acid","811","1w","batch_3","batch_3_811_1w",3.00597372515517,19.2058814951809
+"543","Myristic acid","844","CB","batch_3","batch_3_844_CB",0.964361444282761,1.62311211832916
+"544","Myristic acid","641","3m","batch_3","batch_3_641_3m",2.01716542384831,6.51698723353626
+"545","Myristic acid","787","CB","batch_3","batch_3_787_CB",1.53412362223818,3.63725975731074
+"546","Myristic acid","681","CB","batch_3","batch_3_681_CB",1.49500655344087,3.45936577694202
+"547","Myristic acid","818","1w","batch_3","batch_3_818_1w",2.86057419375228,16.4715561153226
+"548","Myristic acid","744","3m","batch_3","batch_3_744_3m",2.1732114761332,7.7864562739197
+"549","Myristic acid","822","3m","batch_3","batch_3_822_3m",1.47575877682425,3.37435367218559
+"550","Myristic acid","337","3m","batch_3","batch_3_337_3m",1.01121919857261,1.7489504892776
+"551","Myristic acid","822","1w","batch_3","batch_3_822_1w",2.62586415092803,12.8165085774761
+"552","Myristic acid","522","1w","batch_3","batch_3_522_1w",2.65275296501594,13.1930579032834
+"553","Myristic acid","641","1w","batch_3","batch_3_641_1w",3.14058964623716,22.117493984076
+"554","Myristic acid","831","3m","batch_3","batch_3_831_3m",2.03085358509532,6.62058840403995
+"555","Myristic acid","791","CB","batch_3","batch_3_791_CB",1.26310642633832,2.53638997710973
+"556","Myristic acid","793","CB","batch_3","batch_3_793_CB",1.69604573724493,4.45234470493141
+"557","Myristic acid","699","1w","batch_3","batch_3_699_1w",2.83190378260076,15.9777520259814
+"558","Myristic acid","718","CB","batch_3","batch_3_718_CB",1.81305792352017,5.12916131137536
+"705","Palmitic acid","42","1w","batch_3","batch_3_42_1w",5.05632348935072,156.012196862122
+"706","Palmitic acid","790","3m","batch_3","batch_3_790_3m",5.0543613615259,155.704420908448
+"707","Palmitic acid","762","3m","batch_3","batch_3_762_3m",4.6277517475321,101.28384550461
+"708","Palmitic acid","779","1w","batch_3","batch_3_779_1w",5.90212394777917,364.813612337903
+"709","Palmitic acid","786","CB","batch_3","batch_3_786_CB",4.62522623532691,101.025852323985
+"710","Palmitic acid","762","CB","batch_3","batch_3_762_CB",4.62629194876365,101.134640603972
+"711","Palmitic acid","695","CB","batch_3","batch_3_695_CB",3.80912935943388,44.1111461700533
+"712","Palmitic acid","45","1w","batch_3","batch_3_45_1w",6.14088104253979,463.462601956383
+"713","Palmitic acid","822","3m","batch_3","batch_3_822_3m",4.4108715113529,81.3411935278672
+"714","Palmitic acid","822","CB","batch_3","batch_3_822_CB",4.43693772056742,83.5157341989622
+"715","Palmitic acid","844","3m","batch_3","batch_3_844_3m",4.78236831376137,118.386760802705
+"716","Palmitic acid","762","1w","batch_3","batch_3_762_1w",5.44540514209756,230.691128529586
+"717","Palmitic acid","822","1w","batch_3","batch_3_822_1w",5.415577165747,223.882302591553
+"718","Palmitic acid","522","1w","batch_3","batch_3_522_1w",5.71802689294162,303.303906031643
+"719","Palmitic acid","606","1w","batch_3","batch_3_606_1w",5.17820714858848,176.364537508658
+"720","Palmitic acid","823","1w","batch_3","batch_3_823_1w",5.9927576195848,399.517563542197
+"721","Palmitic acid","641","CB","batch_3","batch_3_641_CB",4.43464836247154,83.322468729989
+"722","Palmitic acid","791","3m","batch_3","batch_3_791_3m",4.23621128341424,68.1453826838968
+"723","Palmitic acid","699","CB","batch_3","batch_3_699_CB",4.32498854966131,74.5646476139645
+"724","Palmitic acid","756","1w","batch_3","batch_3_756_1w",4.50099408320627,89.1066603112943
+"725","Palmitic acid","641","1w","batch_3","batch_3_641_1w",5.62245944184124,275.568752219268
+"726","Palmitic acid","791","CB","batch_3","batch_3_791_CB",4.15890082111653,63.0011352265069
+"727","Palmitic acid","776","3m","batch_3","batch_3_776_3m",4.18284960247272,64.5523855562479
+"728","Palmitic acid","718","CB","batch_3","batch_3_718_CB",4.97419281343828,143.63203298457
+"729","Palmitic acid","685","1w","batch_3","batch_3_685_1w",5.29565913290559,198.469059266416
+"730","Palmitic acid","793","3m","batch_3","batch_3_793_3m",3.96112930889941,51.5165999371539
+"731","Palmitic acid","793","1w","batch_3","batch_3_793_1w",5.0601217973432,156.609711598511
+"732","Palmitic acid","844","1w","batch_3","batch_3_844_1w",5.88345262100709,358.046756518798
+"733","Palmitic acid","831","1w","batch_3","batch_3_831_1w",5.40305700664268,221.084292697814
+"734","Palmitic acid","776","CB","batch_3","batch_3_776_CB",3.75361437703923,41.6750472992349
+"735","Palmitic acid","656","3m","batch_3","batch_3_656_3m",4.31879253129103,74.0978951658193
+"736","Palmitic acid","270","1w","batch_3","batch_3_270_1w",4.83678772165406,125.063748773699
+"737","Palmitic acid","790","CB","batch_3","batch_3_790_CB",4.09066259193404,58.7794879911702
+"738","Palmitic acid","787","1w","batch_3","batch_3_787_1w",5.37639957481801,215.24230790936
+"739","Palmitic acid","652","1w","batch_3","batch_3_652_1w",3.97323219232484,52.1560640984979
+"740","Palmitic acid","793","CB","batch_3","batch_3_793_CB",4.57583798613047,96.1093813650658
+"741","Palmitic acid","786","3m","batch_3","batch_3_786_3m",4.07307972928481,57.7375801682769
+"742","Palmitic acid","725","1w","batch_3","batch_3_725_1w",6.03147329472952,415.32795154038
+"743","Palmitic acid","162","1w","batch_3","batch_3_162_1w",6.11633982119665,452.202851562767
+"744","Palmitic acid","782","3m","batch_3","batch_3_782_3m",4.65569285140584,104.182070304047
+"745","Palmitic acid","730","1w","batch_3","batch_3_730_1w",4.73239462233718,112.567187523022
+"746","Palmitic acid","800","3m","batch_3","batch_3_800_3m",4.80743933675769,121.417745207767
+"747","Palmitic acid","801","CB","batch_3","batch_3_801_CB",4.73214723286952,112.539095671914
+"748","Palmitic acid","681","CB","batch_3","batch_3_681_CB",4.3402588518023,75.7273977931907
+"749","Palmitic acid","737","1w","batch_3","batch_3_737_1w",5.2298148619113,185.758224258609
+"750","Palmitic acid","847","3m","batch_3","batch_3_847_3m",4.00016697320703,53.6072672224952
+"751","Palmitic acid","746","1w","batch_3","batch_3_746_1w",6.52065363957539,678.022076018204
+"752","Palmitic acid","744","CB","batch_3","batch_3_744_CB",4.07970968892794,58.1283017572868
+"753","Palmitic acid","734","1w","batch_3","batch_3_734_1w",5.15001783004643,171.434564805741
+"754","Palmitic acid","782","CB","batch_3","batch_3_782_CB",5.10536616538697,163.904441776774
+"755","Palmitic acid","844","CB","batch_3","batch_3_844_CB",4.31473906565358,73.7941045466924
+"756","Palmitic acid","831","3m","batch_3","batch_3_831_3m",4.45237590617937,84.8306274581516
+"757","Palmitic acid","718","1w","batch_3","batch_3_718_1w",6.02240529975309,411.569757163664
+"758","Palmitic acid","818","1w","batch_3","batch_3_818_1w",5.93710266349167,377.835723350058
+"759","Palmitic acid","337","CB","batch_3","batch_3_337_CB",4.98926767759222,145.828858051349
+"760","Palmitic acid","681","1w","batch_3","batch_3_681_1w",6.19009007747608,486.890052139641
+"761","Palmitic acid","811","1w","batch_3","batch_3_811_1w",6.07162221673216,432.383153042242
+"762","Palmitic acid","641","3m","batch_3","batch_3_641_3m",4.54490289181101,93.1512839047983
+"763","Palmitic acid","786","1w","batch_3","batch_3_786_1w",6.62990965957959,756.413742475025
+"764","Palmitic acid","801","1w","batch_3","batch_3_801_1w",5.32819933720751,205.066583452348
+"765","Palmitic acid","860","1w","batch_3","batch_3_860_1w",5.77916180748198,322.487931585638
+"766","Palmitic acid","653","1w","batch_3","batch_3_653_1w",6.19661039488914,490.08164393062
+"767","Palmitic acid","652","CB","batch_3","batch_3_652_CB",4.33388021959506,75.2395395307828
+"768","Palmitic acid","787","CB","batch_3","batch_3_787_CB",4.52717147906512,91.4965622594562
+"769","Palmitic acid","337","3m","batch_3","batch_3_337_3m",4.12575659239947,60.9146356766442
+"770","Palmitic acid","699","1w","batch_3","batch_3_699_1w",5.55060561315129,256.393389535322
+"771","Palmitic acid","847","CB","batch_3","batch_3_847_CB",4.55985773711568,94.5698828157302
+"772","Palmitic acid","744","3m","batch_3","batch_3_744_3m",4.83298727968399,124.585560051754
+"773","Palmitic acid","800","CB","batch_3","batch_3_800_CB",4.42705622944503,82.684705385755
+"774","Palmitic acid","787","3m","batch_3","batch_3_787_3m",4.53893884912054,92.5914327757267
+"775","Palmitic acid","718","3m","batch_3","batch_3_718_3m",4.7232367922867,111.531906220871
+"776","Palmitic acid","801","3m","batch_3","batch_3_801_3m",4.639411586905,102.483438654813
+"777","Palmitic acid","744","1w","batch_3","batch_3_744_1w",5.97160686484033,391.13527315452
+"821","3-Hydroxytridecanoic acid","663","3m","batch_2","batch_2_663_3m",NA,NA
+"831","3-Hydroxytridecanoic acid","690","1w","batch_2","batch_2_690_1w",NA,NA
+"841","3-Hydroxytridecanoic acid","751","3m","batch_2","batch_2_751_3m",NA,NA
+"851","3-Hydroxytridecanoic acid","750","3m","batch_2","batch_2_750_3m",NA,NA
+"861","3-Hydroxytridecanoic acid","677","1w","batch_2","batch_2_677_1w",NA,NA
+"871","3-Hydroxytridecanoic acid","751","CB","batch_2","batch_2_751_CB",NA,NA
+"881","3-Hydroxytridecanoic acid","633","1w","batch_2","batch_2_633_1w",NA,NA
+"891","3-Hydroxytridecanoic acid","750","1w","batch_2","batch_2_750_1w",NA,NA
+"901","3-Hydroxytridecanoic acid","663","1w","batch_2","batch_2_663_1w",NA,NA
+"911","3-Hydroxytridecanoic acid","690","3m","batch_2","batch_2_690_3m",NA,NA
+"921","3-Hydroxytridecanoic acid","665","1w","batch_2","batch_2_665_1w",NA,NA
+"931","3-Hydroxytridecanoic acid","668","CB","batch_2","batch_2_668_CB",NA,NA
+"941","3-Hydroxytridecanoic acid","633","CB","batch_2","batch_2_633_CB",NA,NA
+"951","3-Hydroxytridecanoic acid","634","1w","batch_2","batch_2_634_1w",NA,NA
+"961","3-Hydroxytridecanoic acid","677","CB","batch_2","batch_2_677_CB",NA,NA
+"971","3-Hydroxytridecanoic acid","634","CB","batch_2","batch_2_634_CB",NA,NA
+"981","3-Hydroxytridecanoic acid","668","3m","batch_2","batch_2_668_3m",NA,NA
+"991","3-Hydroxytridecanoic acid","690","CB","batch_2","batch_2_690_CB",NA,NA
+"1001","3-Hydroxytridecanoic acid","665","3m","batch_2","batch_2_665_3m",NA,NA
+"1011","3-Hydroxytridecanoic acid","677","3m","batch_2","batch_2_677_3m",NA,NA
+"1021","3-Hydroxytridecanoic acid","634","3m","batch_2","batch_2_634_3m",NA,NA
+"1031","3-Hydroxytridecanoic acid","668","1w","batch_2","batch_2_668_1w",NA,NA
+"1041","3-Hydroxytridecanoic acid","750","CB","batch_2","batch_2_750_CB",NA,NA
+"1051","3-Hydroxytridecanoic acid","665","CB","batch_2","batch_2_665_CB",NA,NA
+"1061","3-Hydroxytridecanoic acid","633","3m","batch_2","batch_2_633_3m",NA,NA
+"1071","3-Hydroxytridecanoic acid","663","CB","batch_2","batch_2_663_CB",NA,NA
+"1081","3-Hydroxytridecanoic acid","751","1w","batch_2","batch_2_751_1w",NA,NA
+"136","N-acetylglucosamine","677","1w","batch_2","batch_2_677_1w",1.2324083784224,2.42947908170905
+"137","N-acetylglucosamine","663","1w","batch_2","batch_2_663_1w",0.400371506161867,0.492379022670076
+"138","N-acetylglucosamine","751","3m","batch_2","batch_2_751_3m",0.914585663246999,1.49574096044132
+"139","N-acetylglucosamine","663","3m","batch_2","batch_2_663_3m",-0.277916545152776,-0.242639975757872
+"140","N-acetylglucosamine","690","1w","batch_2","batch_2_690_1w",1.60191749404138,3.96253894599211
+"141","N-acetylglucosamine","633","CB","batch_2","batch_2_633_CB",1.11324115931772,2.04420918879243
+"142","N-acetylglucosamine","634","1w","batch_2","batch_2_634_1w",1.55114492092313,3.71686753256137
+"143","N-acetylglucosamine","750","3m","batch_2","batch_2_750_3m",0.622419379000781,0.863430938224782
+"144","N-acetylglucosamine","634","CB","batch_2","batch_2_634_CB",1.63217733226441,4.11499965658309
+"145","N-acetylglucosamine","668","3m","batch_2","batch_2_668_3m",1.14730601022165,2.14969622040882
+"146","N-acetylglucosamine","751","CB","batch_2","batch_2_751_CB",1.97157857618345,6.18200488648762
+"147","N-acetylglucosamine","633","1w","batch_2","batch_2_633_1w",1.63809784139155,4.14537288249464
+"148","N-acetylglucosamine","750","1w","batch_2","batch_2_750_1w",1.52838196915593,3.61071051174723
+"149","N-acetylglucosamine","634","3m","batch_2","batch_2_634_3m",1.1304031391148,2.09690473193453
+"150","N-acetylglucosamine","668","1w","batch_2","batch_2_668_1w",1.44448933844699,3.23968654500838
+"151","N-acetylglucosamine","690","3m","batch_2","batch_2_690_3m",0.39953406445075,0.491129765390783
+"152","N-acetylglucosamine","665","1w","batch_2","batch_2_665_1w",1.66754235496628,4.29912840403922
+"153","N-acetylglucosamine","668","CB","batch_2","batch_2_668_CB",1.30995260195626,2.7059980509895
+"154","N-acetylglucosamine","750","CB","batch_2","batch_2_750_CB",0.828544127074975,1.28998238884293
+"155","N-acetylglucosamine","665","CB","batch_2","batch_2_665_CB",1.43813117907877,3.21281545813486
+"156","N-acetylglucosamine","677","CB","batch_2","batch_2_677_CB",1.33404167255527,2.79635605039866
+"157","N-acetylglucosamine","633","3m","batch_2","batch_2_633_3m",1.39929712990278,3.05235068950296
+"158","N-acetylglucosamine","690","CB","batch_2","batch_2_690_CB",1.85642007288407,5.40078137581321
+"1591","N-acetylglucosamine","665","3m","batch_2","batch_2_665_3m",1.01735597510656,1.76587205295513
+"1601","N-acetylglucosamine","677","3m","batch_2","batch_2_677_3m",0.537969998786284,0.712526899531134
+"1611","N-acetylglucosamine","751","1w","batch_2","batch_2_751_1w",1.56903909596634,3.80203168450379
+"1621","N-acetylglucosamine","663","CB","batch_2","batch_2_663_CB",1.38358605570707,2.98918143495065
+"1631","N-acetylmuramic acid","690","1w","batch_2","batch_2_690_1w",2.59141264779336,12.3486151821736
+"1641","N-acetylmuramic acid","677","1w","batch_2","batch_2_677_1w",1.92794500443853,5.87536686587858
+"1651","N-acetylmuramic acid","750","3m","batch_2","batch_2_750_3m",2.39914507890188,10.0137564618029
+"1661","N-acetylmuramic acid","750","1w","batch_2","batch_2_750_1w",2.2417631569784,8.40990781426778
+"1671","N-acetylmuramic acid","663","1w","batch_2","batch_2_663_1w",1.92794500443853,5.87536686587858
+"1681","N-acetylmuramic acid","751","3m","batch_2","batch_2_751_3m",2.16000376560683,7.67117031062012
+"1691","N-acetylmuramic acid","663","3m","batch_2","batch_2_663_3m",2.07594571210181,6.97208218976077
+"1701","N-acetylmuramic acid","668","CB","batch_2","batch_2_668_CB",1.68923837394044,4.41535465884852
+"1711","N-acetylmuramic acid","633","CB","batch_2","batch_2_633_CB",2.70781642852059,13.996493821116
+"1721","N-acetylmuramic acid","634","1w","batch_2","batch_2_634_1w",2.32046104132263,9.18036679404639
+"1731","N-acetylmuramic acid","677","CB","batch_2","batch_2_677_CB",1.68923837394044,4.41535465884852
+"1741","N-acetylmuramic acid","634","CB","batch_2","batch_2_634_CB",2.63448343444935,12.9361116882787
+"1751","N-acetylmuramic acid","668","3m","batch_2","batch_2_668_3m",2.28509081545539,8.82657858870594
+"1761","N-acetylmuramic acid","751","CB","batch_2","batch_2_751_CB",2.95101179355236,18.1252947919573
+"1771","N-acetylmuramic acid","633","1w","batch_2","batch_2_633_1w",2.18448912382157,7.88610769282213
+"1781","N-acetylmuramic acid","677","3m","batch_2","batch_2_677_3m",2.07594571210181,6.97208218976077
+"1791","N-acetylmuramic acid","634","3m","batch_2","batch_2_634_3m",2.17534252211614,7.8052005816636
+"1801","N-acetylmuramic acid","668","1w","batch_2","batch_2_668_1w",2.23978951200122,8.39135431201033
+"1811","N-acetylmuramic acid","690","3m","batch_2","batch_2_690_3m",2.27708747955407,8.74824705440637
+"1821","N-acetylmuramic acid","665","1w","batch_2","batch_2_665_1w",2.4642112800138,10.7542077164469
+"1831","N-acetylmuramic acid","750","CB","batch_2","batch_2_750_CB",1.79811866893288,5.03827677406333
+"1841","N-acetylmuramic acid","665","CB","batch_2","batch_2_665_CB",2.28430363868188,8.81884637798547
+"1851","N-acetylmuramic acid","633","3m","batch_2","batch_2_633_3m",2.46388394714386,10.7503608075454
+"186","N-acetylmuramic acid","690","CB","batch_2","batch_2_690_CB",2.72417423473538,14.243820910329
+"187","N-acetylmuramic acid","665","3m","batch_2","batch_2_665_3m",2.07594571210181,6.97208218976077
+"188","N-acetylmuramic acid","751","1w","batch_2","batch_2_751_1w",2.55925291586103,11.9261567806675
+"189","N-acetylmuramic acid","663","CB","batch_2","batch_2_663_CB",1.95593229331473,6.07050773901319
+"5091","N-acetylglucosamine","844","1w","batch_3","batch_3_844_1w",1.00727902797657,1.73814046604305
+"5101","N-acetylglucosamine","162","1w","batch_3","batch_3_162_1w",1.00727902797657,1.73814046604305
+"5111","N-acetylglucosamine","652","1w","batch_3","batch_3_652_1w",1.00727902797657,1.73814046604305
+"5121","N-acetylglucosamine","652","CB","batch_3","batch_3_652_CB",1.00487844264063,1.73157520957458
+"5131","N-acetylglucosamine","725","1w","batch_3","batch_3_725_1w",1.00727902797657,1.73814046604305
+"5141","N-acetylglucosamine","718","1w","batch_3","batch_3_718_1w",1.77899807662466,4.92391813218367
+"5151","N-acetylglucosamine","823","1w","batch_3","batch_3_823_1w",1.00727902797657,1.73814046604305
+"5161","N-acetylglucosamine","801","1w","batch_3","batch_3_801_1w",1.00727902797657,1.73814046604305
+"5171","N-acetylglucosamine","681","1w","batch_3","batch_3_681_1w",1.00727902797657,1.73814046604305
+"5181","N-acetylglucosamine","641","3m","batch_3","batch_3_641_3m",0.99998267178954,1.71823472590753
+"5191","N-acetylglucosamine","42","1w","batch_3","batch_3_42_1w",1.77409171395014,4.89492442635336
+"5201","N-acetylglucosamine","730","1w","batch_3","batch_3_730_1w",2.80541707934091,15.5339704456739
+"5211","N-acetylglucosamine","641","CB","batch_3","batch_3_641_CB",1.00487844264063,1.73157520957458
+"5221","N-acetylglucosamine","786","1w","batch_3","batch_3_786_1w",1.77630062914805,4.90796020667547
+"5231","N-acetylglucosamine","606","1w","batch_3","batch_3_606_1w",1.00727902797657,1.73814046604305
+"5241","N-acetylglucosamine","653","1w","batch_3","batch_3_653_1w",1.00727902797657,1.73814046604305
+"5251","N-acetylglucosamine","787","CB","batch_3","batch_3_787_CB",1.78505348142402,4.95989868292791
+"5261","N-acetylglucosamine","847","CB","batch_3","batch_3_847_CB",1.00487844264063,1.73157520957458
+"5271","N-acetylglucosamine","801","3m","batch_3","batch_3_801_3m",0.99998267178954,1.71823472590753
+"5281","N-acetylglucosamine","337","3m","batch_3","batch_3_337_3m",1.77545412523245,4.90296121136037
+"5291","N-acetylglucosamine","737","1w","batch_3","batch_3_737_1w",1.00727902797657,1.73814046604305
+"5301","N-acetylglucosamine","699","CB","batch_3","batch_3_699_CB",1.91361315528772,5.77753289058944
+"5311","N-acetylglucosamine","793","3m","batch_3","batch_3_793_3m",1.74424329138958,4.72157027540728
+"5321","N-acetylglucosamine","718","3m","batch_3","batch_3_718_3m",0.99998267178954,1.71823472590753
+"5331","N-acetylglucosamine","844","3m","batch_3","batch_3_844_3m",0.99998267178954,1.71823472590753
+"5341","N-acetylglucosamine","756","1w","batch_3","batch_3_756_1w",1.00727902797657,1.73814046604305
+"5351","N-acetylglucosamine","782","3m","batch_3","batch_3_782_3m",0.99998267178954,1.71823472590753
+"5361","N-acetylglucosamine","744","1w","batch_3","batch_3_744_1w",1.00727902797657,1.73814046604305
+"5371","N-acetylglucosamine","685","1w","batch_3","batch_3_685_1w",1.00727902797657,1.73814046604305
+"5381","N-acetylglucosamine","776","CB","batch_3","batch_3_776_CB",1.00487844264063,1.73157520957458
+"5391","N-acetylglucosamine","831","3m","batch_3","batch_3_831_3m",0.99998267178954,1.71823472590753
+"5401","N-acetylglucosamine","656","3m","batch_3","batch_3_656_3m",1.7378529278303,4.68512393792001
+"5411","N-acetylglucosamine","791","CB","batch_3","batch_3_791_CB",1.00487844264063,1.73157520957458
+"5421","N-acetylglucosamine","695","CB","batch_3","batch_3_695_CB",1.00487844264063,1.73157520957458
+"5431","N-acetylglucosamine","762","CB","batch_3","batch_3_762_CB",1.00487844264063,1.73157520957458
+"5441","N-acetylglucosamine","822","3m","batch_3","batch_3_822_3m",0.99998267178954,1.71823472590753
+"5451","N-acetylglucosamine","786","CB","batch_3","batch_3_786_CB",1.00487844264063,1.73157520957458
+"5461","N-acetylglucosamine","734","1w","batch_3","batch_3_734_1w",1.00727902797657,1.73814046604305
+"5471","N-acetylglucosamine","822","1w","batch_3","batch_3_822_1w",1.00727902797657,1.73814046604305
+"5481","N-acetylglucosamine","844","CB","batch_3","batch_3_844_CB",1.00487844264063,1.73157520957458
+"5491","N-acetylglucosamine","337","CB","batch_3","batch_3_337_CB",1.00487844264063,1.73157520957458
+"5501","N-acetylglucosamine","818","1w","batch_3","batch_3_818_1w",1.00727902797657,1.73814046604305
+"5511","N-acetylglucosamine","45","1w","batch_3","batch_3_45_1w",1.79049352635006,4.99240914853797
+"5521","N-acetylglucosamine","793","1w","batch_3","batch_3_793_1w",1.00727902797657,1.73814046604305
+"5531","N-acetylglucosamine","762","1w","batch_3","batch_3_762_1w",1.77503485109506,4.90048677116104
+"5541","N-acetylglucosamine","790","3m","batch_3","batch_3_790_3m",0.99998267178954,1.71823472590753
+"5551","N-acetylglucosamine","522","1w","batch_3","batch_3_522_1w",1.00727902797657,1.73814046604305
+"5561","N-acetylglucosamine","699","1w","batch_3","batch_3_699_1w",1.00727902797657,1.73814046604305
+"5571","N-acetylglucosamine","787","3m","batch_3","batch_3_787_3m",0.99998267178954,1.71823472590753
+"5581","N-acetylglucosamine","800","CB","batch_3","batch_3_800_CB",1.00487844264063,1.73157520957458
+"559","N-acetylglucosamine","791","3m","batch_3","batch_3_791_3m",0.99998267178954,1.71823472590753
+"560","N-acetylglucosamine","744","CB","batch_3","batch_3_744_CB",1.00487844264063,1.73157520957458
+"561","N-acetylglucosamine","787","1w","batch_3","batch_3_787_1w",1.00727902797657,1.73814046604305
+"562","N-acetylglucosamine","776","3m","batch_3","batch_3_776_3m",0.99998267178954,1.71823472590753
+"563","N-acetylglucosamine","270","1w","batch_3","batch_3_270_1w",1.74446577202819,4.72284335562863
+"564","N-acetylglucosamine","790","CB","batch_3","batch_3_790_CB",2.12600160383677,7.38128801566705
+"565","N-acetylglucosamine","641","1w","batch_3","batch_3_641_1w",1.78991551370923,4.98894646113603
+"566","N-acetylglucosamine","811","1w","batch_3","batch_3_811_1w",1.87412584182122,5.51512138368811
+"567","N-acetylglucosamine","782","CB","batch_3","batch_3_782_CB",1.00487844264063,1.73157520957458
+"568","N-acetylglucosamine","860","1w","batch_3","batch_3_860_1w",1.74951942048283,4.75183779625568
+"569","N-acetylglucosamine","801","CB","batch_3","batch_3_801_CB",1.00487844264063,1.73157520957458
+"570","N-acetylglucosamine","718","CB","batch_3","batch_3_718_CB",1.00487844264063,1.73157520957458
+"571","N-acetylglucosamine","681","CB","batch_3","batch_3_681_CB",1.00487844264063,1.73157520957458
+"572","N-acetylglucosamine","744","3m","batch_3","batch_3_744_3m",0.99998267178954,1.71823472590753
+"573","N-acetylglucosamine","831","1w","batch_3","batch_3_831_1w",1.00727902797657,1.73814046604305
+"574","N-acetylglucosamine","786","3m","batch_3","batch_3_786_3m",0.99998267178954,1.71823472590753
+"575","N-acetylglucosamine","800","3m","batch_3","batch_3_800_3m",0.99998267178954,1.71823472590753
+"576","N-acetylglucosamine","822","CB","batch_3","batch_3_822_CB",1.00487844264063,1.73157520957458
+"577","N-acetylglucosamine","847","3m","batch_3","batch_3_847_3m",0.99998267178954,1.71823472590753
+"578","N-acetylglucosamine","746","1w","batch_3","batch_3_746_1w",1.81635366839294,5.1493947872143
+"579","N-acetylglucosamine","779","1w","batch_3","batch_3_779_1w",1.77940520218096,4.92633040166369
+"580","N-acetylglucosamine","793","CB","batch_3","batch_3_793_CB",1.00487844264063,1.73157520957458
+"581","N-acetylglucosamine","762","3m","batch_3","batch_3_762_3m",0.99998267178954,1.71823472590753
+"582","N-acetylmuramic acid","822","1w","batch_3","batch_3_822_1w",2.32219523839616,9.1980368736197
+"583","N-acetylmuramic acid","718","1w","batch_3","batch_3_718_1w",2.24081888695608,8.4010265142386
+"584","N-acetylmuramic acid","42","1w","batch_3","batch_3_42_1w",1.07744008478814,1.93715106134767
+"585","N-acetylmuramic acid","641","CB","batch_3","batch_3_641_CB",3.17846965532907,23.0099818747597
+"586","N-acetylmuramic acid","725","1w","batch_3","batch_3_725_1w",2.25781308402128,8.5621546552924
+"587","N-acetylmuramic acid","822","3m","batch_3","batch_3_822_3m",1.85634243598746,5.40028445830114
+"588","N-acetylmuramic acid","790","CB","batch_3","batch_3_790_CB",3.13867634688245,22.0733055840526
+"589","N-acetylmuramic acid","337","CB","batch_3","batch_3_337_CB",3.09988286119786,21.1953511923071
+"590","N-acetylmuramic acid","762","3m","batch_3","batch_3_762_3m",1.06479419590807,1.90024204095545
+"591","N-acetylmuramic acid","744","CB","batch_3","batch_3_744_CB",2.77857155304987,15.0960122190021
+"592","N-acetylmuramic acid","522","1w","batch_3","batch_3_522_1w",1.8621046351119,5.4372706303095
+"593","N-acetylmuramic acid","737","1w","batch_3","batch_3_737_1w",3.47566891982497,31.3194404219257
+"594","N-acetylmuramic acid","787","1w","batch_3","batch_3_787_1w",2.11918602043741,7.3243588712415
+"595","N-acetylmuramic acid","776","CB","batch_3","batch_3_776_CB",2.86032244046851,16.4671581473227
+"596","N-acetylmuramic acid","793","3m","batch_3","batch_3_793_3m",2.31258381087218,9.10048872077595
+"597","N-acetylmuramic acid","831","1w","batch_3","batch_3_831_1w",1.1616738681169,2.19527727504909
+"598","N-acetylmuramic acid","786","1w","batch_3","batch_3_786_1w",2.64234121694513,13.0460499927288
+"599","N-acetylmuramic acid","786","CB","batch_3","batch_3_786_CB",2.82804557052971,15.9123744595332
+"600","N-acetylmuramic acid","746","1w","batch_3","batch_3_746_1w",2.32885410807191,9.26617086804638
+"601","N-acetylmuramic acid","606","1w","batch_3","batch_3_606_1w",1.94929867999021,6.02375994947159
+"602","N-acetylmuramic acid","653","1w","batch_3","batch_3_653_1w",2.41649724787681,10.2065367660652
+"603","N-acetylmuramic acid","641","1w","batch_3","batch_3_641_1w",2.52326901733037,11.4692924428255
+"604","N-acetylmuramic acid","822","CB","batch_3","batch_3_822_CB",3.1757864636357,22.9456448437285
+"605","N-acetylmuramic acid","786","3m","batch_3","batch_3_786_3m",2.21673682404007,8.17733469315787
+"606","N-acetylmuramic acid","779","1w","batch_3","batch_3_779_1w",2.12373232942544,7.36229013709162
+"607","N-acetylmuramic acid","793","1w","batch_3","batch_3_793_1w",2.45711710376504,10.671116376029
+"608","N-acetylmuramic acid","782","CB","batch_3","batch_3_782_CB",2.85319411789479,16.3430893362143
+"609","N-acetylmuramic acid","823","1w","batch_3","batch_3_823_1w",1.87801325660094,5.54049765493554
+"610","N-acetylmuramic acid","699","CB","batch_3","batch_3_699_CB",2.08494326409809,7.04413507749187
+"611","N-acetylmuramic acid","793","CB","batch_3","batch_3_793_CB",2.30420883698805,9.0162506298009
+"612","N-acetylmuramic acid","270","1w","batch_3","batch_3_270_1w",1.08460661398478,1.95827584546234
+"613","N-acetylmuramic acid","847","CB","batch_3","batch_3_847_CB",2.90168264125018,17.2047516786264
+"614","N-acetylmuramic acid","787","CB","batch_3","batch_3_787_CB",2.19730776019039,8.00074867682565
+"615","N-acetylmuramic acid","652","1w","batch_3","batch_3_652_1w",2.19086164604659,7.94291542360993
+"616","N-acetylmuramic acid","801","1w","batch_3","batch_3_801_1w",2.52842100529876,11.533699858116
+"617","N-acetylmuramic acid","791","CB","batch_3","batch_3_791_CB",2.05821168897545,6.83195131445971
+"618","N-acetylmuramic acid","811","1w","batch_3","batch_3_811_1w",2.0057905350935,6.4319668056553
+"619","N-acetylmuramic acid","762","1w","batch_3","batch_3_762_1w",2.60055502870065,12.4712128702112
+"620","N-acetylmuramic acid","734","1w","batch_3","batch_3_734_1w",1.9932400419398,6.33927483878397
+"621","N-acetylmuramic acid","337","3m","batch_3","batch_3_337_3m",0.563309092078695,0.75647523239159
+"622","N-acetylmuramic acid","800","CB","batch_3","batch_3_800_CB",1.73334246400417,4.65953913509013
+"623","N-acetylmuramic acid","756","1w","batch_3","batch_3_756_1w",2.41991878624364,10.2449460334894
+"624","N-acetylmuramic acid","685","1w","batch_3","batch_3_685_1w",2.5526525568014,11.841120448532
+"625","N-acetylmuramic acid","695","CB","batch_3","batch_3_695_CB",2.3394006009756,9.3750159241727
+"626","N-acetylmuramic acid","818","1w","batch_3","batch_3_818_1w",2.3286508821415,9.26408472790597
+"627","N-acetylmuramic acid","718","CB","batch_3","batch_3_718_CB",3.18586144253812,23.1881161057542
+"628","N-acetylmuramic acid","744","1w","batch_3","batch_3_744_1w",2.22850005977722,8.28592729257135
+"629","N-acetylmuramic acid","791","3m","batch_3","batch_3_791_3m",1.92738812264388,5.87153916512679
+"630","N-acetylmuramic acid","656","3m","batch_3","batch_3_656_3m",1.8900071997783,5.6194163392016
+"631","N-acetylmuramic acid","831","3m","batch_3","batch_3_831_3m",1.64376495380745,4.17461507016164
+"632","N-acetylmuramic acid","162","1w","batch_3","batch_3_162_1w",2.32881250485383,9.26574377118524
+"633","N-acetylmuramic acid","641","3m","batch_3","batch_3_641_3m",2.17130613121015,7.76973098285066
+"634","N-acetylmuramic acid","718","3m","batch_3","batch_3_718_3m",2.24514223278451,8.44175838854702
+"635","N-acetylmuramic acid","844","1w","batch_3","batch_3_844_1w",1.88878577642823,5.61133616518224
+"636","N-acetylmuramic acid","762","CB","batch_3","batch_3_762_CB",3.14658535786291,22.2565161634929
+"637","N-acetylmuramic acid","699","1w","batch_3","batch_3_699_1w",2.34692320819722,9.45335739048589
+"638","N-acetylmuramic acid","800","3m","batch_3","batch_3_800_3m",2.23243325979134,8.32252262312935
+"639","N-acetylmuramic acid","860","1w","batch_3","batch_3_860_1w",2.18986615612494,7.93401727118098
+"640","N-acetylmuramic acid","844","3m","batch_3","batch_3_844_3m",2.15635769569655,7.63961218399228
+"641","N-acetylmuramic acid","730","1w","batch_3","batch_3_730_1w",2.13434088967386,7.45147421675891
+"642","N-acetylmuramic acid","782","3m","batch_3","batch_3_782_3m",2.22579163072319,8.26081104543883
+"643","N-acetylmuramic acid","790","3m","batch_3","batch_3_790_3m",2.27011728360781,8.6805361156966
+"644","N-acetylmuramic acid","744","3m","batch_3","batch_3_744_3m",1.9685433060311,6.16023861139503
+"645","N-acetylmuramic acid","847","3m","batch_3","batch_3_847_3m",1.70218866826114,4.48594116705655
+"646","N-acetylmuramic acid","801","3m","batch_3","batch_3_801_3m",1.97462381813004,6.20390916401352
+"647","N-acetylmuramic acid","681","CB","batch_3","batch_3_681_CB",1.96798981907097,6.15627660925159
+"648","N-acetylmuramic acid","776","3m","batch_3","batch_3_776_3m",2.1456782587191,7.54783691650501
+"649","N-acetylmuramic acid","45","1w","batch_3","batch_3_45_1w",2.37468108265633,9.74758504818468
+"650","N-acetylmuramic acid","801","CB","batch_3","batch_3_801_CB",3.2169985966358,23.9531133164619
+"651","N-acetylmuramic acid","787","3m","batch_3","batch_3_787_3m",1.79323847092854,5.00888057577742
+"652","N-acetylmuramic acid","681","1w","batch_3","batch_3_681_1w",2.60846469763416,12.5781882162099
+"653","N-acetylmuramic acid","844","CB","batch_3","batch_3_844_CB",1.84230944632912,5.31109658256025
+"654","N-acetylmuramic acid","652","CB","batch_3","batch_3_652_CB",2.98493291201328,18.7851748442977

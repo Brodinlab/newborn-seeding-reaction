@@ -1,0 +1,217 @@
+"","Compound","subject","BinGroupStr","value","Batch","sample_type","value_imputed","min_value"
+"2","3-Hydroxydodecanoic acid",663,"1w",0.008556954,"main","sample",0.008556954,0.003107443
+"3","3-Hydroxydodecanoic acid",751,"3m",0.064961301,"main","sample",0.064961301,0.003107443
+"4","3-Hydroxydodecanoic acid",663,"3m",0.021262801,"main","sample",0.021262801,0.003107443
+"5","3-Hydroxydodecanoic acid",690,"1w",0.122803284,"main","sample",0.122803284,0.003107443
+"6","3-Hydroxydodecanoic acid",633,"CB",0.040049742,"main","sample",0.040049742,0.003107443
+"7","3-Hydroxydodecanoic acid",634,"1w",0.081908994,"main","sample",0.081908994,0.003107443
+"8","3-Hydroxydodecanoic acid",750,"3m",0.05764865,"main","sample",0.05764865,0.003107443
+"10","3-Hydroxydodecanoic acid",677,"1w",0.088619257,"main","sample",0.088619257,0.003107443
+"11","3-Hydroxydodecanoic acid",751,"CB",0.051545461,"main","sample",0.051545461,0.003107443
+"12","3-Hydroxydodecanoic acid",633,"1w",0.052377765,"main","sample",0.052377765,0.003107443
+"13","3-Hydroxydodecanoic acid",750,"1w",0.006996078,"main","sample",0.006996078,0.003107443
+"14","3-Hydroxydodecanoic acid",634,"3m",0.013769665,"main","sample",0.013769665,0.003107443
+"15","3-Hydroxydodecanoic acid",668,"1w",0.031084563,"main","sample",0.031084563,0.003107443
+"16","3-Hydroxydodecanoic acid",690,"3m",0.020579442,"main","sample",0.020579442,0.003107443
+"17","3-Hydroxydodecanoic acid",665,"1w",0.047444441,"main","sample",0.047444441,0.003107443
+"18","3-Hydroxydodecanoic acid",668,"CB",0,"main","sample",0.0015537215,0.003107443
+"19","3-Hydroxydodecanoic acid",750,"CB",0.006073575,"main","sample",0.006073575,0.003107443
+"20","3-Hydroxydodecanoic acid",665,"CB",0.00330411,"main","sample",0.00330411,0.003107443
+"21","3-Hydroxydodecanoic acid",677,"CB",0.008233269,"main","sample",0.008233269,0.003107443
+"22","3-Hydroxydodecanoic acid",634,"CB",0.003217554,"main","sample",0.003217554,0.003107443
+"23","3-Hydroxydodecanoic acid",668,"3m",0.045946424,"main","sample",0.045946424,0.003107443
+"24","3-Hydroxydodecanoic acid",690,"CB",0.034637235,"main","sample",0.034637235,0.003107443
+"25","3-Hydroxydodecanoic acid",665,"3m",0.019196224,"main","sample",0.019196224,0.003107443
+"26","3-Hydroxydodecanoic acid",677,"3m",0.080359178,"main","sample",0.080359178,0.003107443
+"27","3-Hydroxydodecanoic acid",751,"1w",0.072058201,"main","sample",0.072058201,0.003107443
+"35","3-Hydroxydodecanoic acid",633,"3m",0.014325789,"main","sample",0.014325789,0.003107443
+"36","3-Hydroxydodecanoic acid",663,"CB",0,"main","sample",0.0015537215,0.003107443
+"38","3-Hydroxyhexadecanoic acid",690,"1w",0.054407969,"main","sample",0.054407969,0.000154847
+"39","3-Hydroxyhexadecanoic acid",677,"1w",0.046130825,"main","sample",0.046130825,0.000154847
+"40","3-Hydroxyhexadecanoic acid",750,"1w",0.017316308,"main","sample",0.017316308,0.000154847
+"42","3-Hydroxyhexadecanoic acid",663,"1w",0.016994303,"main","sample",0.016994303,0.000154847
+"43","3-Hydroxyhexadecanoic acid",751,"3m",0.014171469,"main","sample",0.014171469,0.000154847
+"44","3-Hydroxyhexadecanoic acid",663,"3m",0.014514557,"main","sample",0.014514557,0.000154847
+"45","3-Hydroxyhexadecanoic acid",668,"CB",0.022802748,"main","sample",0.022802748,0.000154847
+"46","3-Hydroxyhexadecanoic acid",633,"CB",0.033646898,"main","sample",0.033646898,0.000154847
+"47","3-Hydroxyhexadecanoic acid",634,"1w",0.031992911,"main","sample",0.031992911,0.000154847
+"48","3-Hydroxyhexadecanoic acid",750,"3m",0.021500143,"main","sample",0.021500143,0.000154847
+"50","3-Hydroxyhexadecanoic acid",668,"3m",0.012433268,"main","sample",0.012433268,0.000154847
+"51","3-Hydroxyhexadecanoic acid",751,"CB",0.035089806,"main","sample",0.035089806,0.000154847
+"52","3-Hydroxyhexadecanoic acid",633,"1w",0.026194837,"main","sample",0.026194837,0.000154847
+"53","3-Hydroxyhexadecanoic acid",677,"3m",0.012124809,"main","sample",0.012124809,0.000154847
+"54","3-Hydroxyhexadecanoic acid",634,"3m",0.020207626,"main","sample",0.020207626,0.000154847
+"55","3-Hydroxyhexadecanoic acid",668,"1w",0.031112798,"main","sample",0.031112798,0.000154847
+"56","3-Hydroxyhexadecanoic acid",690,"3m",0.013910461,"main","sample",0.013910461,0.000154847
+"57","3-Hydroxyhexadecanoic acid",665,"1w",0.036954997,"main","sample",0.036954997,0.000154847
+"59","3-Hydroxyhexadecanoic acid",750,"CB",0.018346485,"main","sample",0.018346485,0.000154847
+"60","3-Hydroxyhexadecanoic acid",665,"CB",0.019879859,"main","sample",0.019879859,0.000154847
+"61","3-Hydroxyhexadecanoic acid",677,"CB",0.015673609,"main","sample",0.015673609,0.000154847
+"62","3-Hydroxyhexadecanoic acid",634,"CB",0.026150794,"main","sample",0.026150794,0.000154847
+"64","3-Hydroxyhexadecanoic acid",690,"CB",0.027735847,"main","sample",0.027735847,0.000154847
+"65","3-Hydroxyhexadecanoic acid",665,"3m",0.014498227,"main","sample",0.014498227,0.000154847
+"67","3-Hydroxyhexadecanoic acid",751,"1w",0.038318281,"main","sample",0.038318281,0.000154847
+"71","3-Hydroxyhexadecanoic acid",633,"3m",0.014367295,"main","sample",0.014367295,0.000154847
+"74","3-Hydroxyhexadecanoic acid",663,"CB",0.01725847,"main","sample",0.01725847,0.000154847
+"75","3-Hydroxytetradecanoic acid",690,"1w",0.032582631,"main","sample",0.032582631,0.000107225
+"76","3-Hydroxytetradecanoic acid",663,"3m",0.008085717,"main","sample",0.008085717,0.000107225
+"78","3-Hydroxytetradecanoic acid",677,"1w",0.032967012,"main","sample",0.032967012,0.000107225
+"79","3-Hydroxytetradecanoic acid",633,"1w",0.020048611,"main","sample",0.020048611,0.000107225
+"80","3-Hydroxytetradecanoic acid",750,"1w",0.004151954,"main","sample",0.004151954,0.000107225
+"82","3-Hydroxytetradecanoic acid",663,"1w",0.006011001,"main","sample",0.006011001,0.000107225
+"83","3-Hydroxytetradecanoic acid",751,"3m",0.009060813,"main","sample",0.009060813,0.000107225
+"84","3-Hydroxytetradecanoic acid",665,"1w",0.019747377,"main","sample",0.019747377,0.000107225
+"85","3-Hydroxytetradecanoic acid",668,"CB",0.007228532,"main","sample",0.007228532,0.000107225
+"86","3-Hydroxytetradecanoic acid",633,"CB",0.024336259,"main","sample",0.024336259,0.000107225
+"87","3-Hydroxytetradecanoic acid",634,"1w",0.022332945,"main","sample",0.022332945,0.000107225
+"88","3-Hydroxytetradecanoic acid",750,"3m",0.014211948,"main","sample",0.014211948,0.000107225
+"89","3-Hydroxytetradecanoic acid",634,"CB",0.015056374,"main","sample",0.015056374,0.000107225
+"90","3-Hydroxytetradecanoic acid",668,"3m",0.006185076,"main","sample",0.006185076,0.000107225
+"91","3-Hydroxytetradecanoic acid",751,"CB",0.01660065,"main","sample",0.01660065,0.000107225
+"92","3-Hydroxytetradecanoic acid",665,"3m",0.008611047,"main","sample",0.008611047,0.000107225
+"93","3-Hydroxytetradecanoic acid",677,"3m",0.006468536,"main","sample",0.006468536,0.000107225
+"94","3-Hydroxytetradecanoic acid",634,"3m",0.007265216,"main","sample",0.007265216,0.000107225
+"95","3-Hydroxytetradecanoic acid",668,"1w",0.013538648,"main","sample",0.013538648,0.000107225
+"96","3-Hydroxytetradecanoic acid",690,"3m",0.004292828,"main","sample",0.004292828,0.000107225
+"99","3-Hydroxytetradecanoic acid",750,"CB",0.00472768,"main","sample",0.00472768,0.000107225
+"100","3-Hydroxytetradecanoic acid",665,"CB",0.007919074,"main","sample",0.007919074,0.000107225
+"101","3-Hydroxytetradecanoic acid",677,"CB",0.006142918,"main","sample",0.006142918,0.000107225
+"102","3-Hydroxytetradecanoic acid",633,"3m",0.010270982,"main","sample",0.010270982,0.000107225
+"104","3-Hydroxytetradecanoic acid",690,"CB",0.011992537,"main","sample",0.011992537,0.000107225
+"105","3-Hydroxytetradecanoic acid",663,"CB",0.005869655,"main","sample",0.005869655,0.000107225
+"107","3-Hydroxytetradecanoic acid",751,"1w",0.024300003,"main","sample",0.024300003,0.000107225
+"112","3-Hydroxytridecanoic acid",663,"3m",4.42e-05,"main","sample",4.42e-05,3.07e-05
+"113","3-Hydroxytridecanoic acid",690,"1w",0,"main","sample",1.535e-05,3.07e-05
+"114","3-Hydroxytridecanoic acid",751,"3m",0,"main","sample",1.535e-05,3.07e-05
+"115","3-Hydroxytridecanoic acid",750,"3m",0,"main","sample",1.535e-05,3.07e-05
+"117","3-Hydroxytridecanoic acid",677,"1w",0,"main","sample",1.535e-05,3.07e-05
+"118","3-Hydroxytridecanoic acid",751,"CB",0,"main","sample",1.535e-05,3.07e-05
+"119","3-Hydroxytridecanoic acid",633,"1w",0.000121686,"main","sample",0.000121686,3.07e-05
+"120","3-Hydroxytridecanoic acid",750,"1w",0,"main","sample",1.535e-05,3.07e-05
+"122","3-Hydroxytridecanoic acid",663,"1w",3.07e-05,"main","sample",3.07e-05,3.07e-05
+"123","3-Hydroxytridecanoic acid",690,"3m",0,"main","sample",1.535e-05,3.07e-05
+"124","3-Hydroxytridecanoic acid",665,"1w",0.000614643,"main","sample",0.000614643,3.07e-05
+"125","3-Hydroxytridecanoic acid",668,"CB",0,"main","sample",1.535e-05,3.07e-05
+"126","3-Hydroxytridecanoic acid",633,"CB",0.005459848,"main","sample",0.005459848,3.07e-05
+"127","3-Hydroxytridecanoic acid",634,"1w",0.001351417,"main","sample",0.001351417,3.07e-05
+"128","3-Hydroxytridecanoic acid",677,"CB",0,"main","sample",1.535e-05,3.07e-05
+"129","3-Hydroxytridecanoic acid",634,"CB",0.000709744,"main","sample",0.000709744,3.07e-05
+"130","3-Hydroxytridecanoic acid",668,"3m",0,"main","sample",1.535e-05,3.07e-05
+"131","3-Hydroxytridecanoic acid",690,"CB",0,"main","sample",1.535e-05,3.07e-05
+"132","3-Hydroxytridecanoic acid",665,"3m",0,"main","sample",1.535e-05,3.07e-05
+"133","3-Hydroxytridecanoic acid",677,"3m",0,"main","sample",1.535e-05,3.07e-05
+"134","3-Hydroxytridecanoic acid",634,"3m",0,"main","sample",1.535e-05,3.07e-05
+"135","3-Hydroxytridecanoic acid",668,"1w",0,"main","sample",1.535e-05,3.07e-05
+"139","3-Hydroxytridecanoic acid",750,"CB",0,"main","sample",1.535e-05,3.07e-05
+"140","3-Hydroxytridecanoic acid",665,"CB",0,"main","sample",1.535e-05,3.07e-05
+"142","3-Hydroxytridecanoic acid",633,"3m",0,"main","sample",1.535e-05,3.07e-05
+"145","3-Hydroxytridecanoic acid",663,"CB",0,"main","sample",1.535e-05,3.07e-05
+"147","3-Hydroxytridecanoic acid",751,"1w",0,"main","sample",1.535e-05,3.07e-05
+"149","Myristic acid",677,"1w",13.07407825,"main","sample",13.07407825,0.286004364
+"150","Myristic acid",751,"3m",8.401115745,"main","sample",8.401115745,0.286004364
+"151","Myristic acid",663,"3m",5.49686695,"main","sample",5.49686695,0.286004364
+"152","Myristic acid",690,"1w",12.85778618,"main","sample",12.85778618,0.286004364
+"153","Myristic acid",663,"1w",3.876411469,"main","sample",3.876411469,0.286004364
+"154","Myristic acid",634,"1w",12.04015178,"main","sample",12.04015178,0.286004364
+"155","Myristic acid",750,"3m",13.17027846,"main","sample",13.17027846,0.286004364
+"157","Myristic acid",668,"3m",6.330071331,"main","sample",6.330071331,0.286004364
+"158","Myristic acid",751,"CB",2.839155543,"main","sample",2.839155543,0.286004364
+"159","Myristic acid",633,"1w",8.425109199,"main","sample",8.425109199,0.286004364
+"160","Myristic acid",750,"1w",2.935509207,"main","sample",2.935509207,0.286004364
+"162","Myristic acid",668,"1w",6.954886296,"main","sample",6.954886296,0.286004364
+"163","Myristic acid",690,"3m",4.070769594,"main","sample",4.070769594,0.286004364
+"164","Myristic acid",665,"1w",11.66999755,"main","sample",11.66999755,0.286004364
+"165","Myristic acid",668,"CB",1.934894567,"main","sample",1.934894567,0.286004364
+"166","Myristic acid",633,"CB",2.035818827,"main","sample",2.035818827,0.286004364
+"167","Myristic acid",665,"CB",2.077895778,"main","sample",2.077895778,0.286004364
+"168","Myristic acid",677,"CB",2.006734561,"main","sample",2.006734561,0.286004364
+"169","Myristic acid",634,"CB",3.787292693,"main","sample",3.787292693,0.286004364
+"171","Myristic acid",690,"CB",1.981296496,"main","sample",1.981296496,0.286004364
+"172","Myristic acid",665,"3m",8.729996871,"main","sample",8.729996871,0.286004364
+"173","Myristic acid",677,"3m",1.183131739,"main","sample",1.183131739,0.286004364
+"174","Myristic acid",634,"3m",3.820035786,"main","sample",3.820035786,0.286004364
+"179","Myristic acid",750,"CB",1.498432132,"main","sample",1.498432132,0.286004364
+"182","Myristic acid",633,"3m",0.286004364,"main","sample",0.286004364,0.286004364
+"183","Myristic acid",751,"1w",9.310724113,"main","sample",9.310724113,0.286004364
+"184","Myristic acid",663,"CB",0.447737324,"main","sample",0.447737324,0.286004364
+"186","N-acetylglucosamine",677,"1w",20.52540301,"main","sample",20.52540301,0.215383461
+"189","N-acetylglucosamine",663,"1w",7.800626734,"main","sample",7.800626734,0.215383461
+"190","N-acetylglucosamine",751,"3m",14.6906524,"main","sample",14.6906524,0.215383461
+"191","N-acetylglucosamine",663,"3m",3.354311721,"main","sample",3.354311721,0.215383461
+"192","N-acetylglucosamine",690,"1w",31.0226441,"main","sample",31.0226441,0.215383461
+"193","N-acetylglucosamine",633,"CB",18.09671408,"main","sample",18.09671408,0.215383461
+"194","N-acetylglucosamine",634,"1w",29.32172712,"main","sample",29.32172712,0.215383461
+"195","N-acetylglucosamine",750,"3m",10.46153338,"main","sample",10.46153338,0.215383461
+"196","N-acetylglucosamine",634,"CB",32.35990414,"main","sample",32.35990414,0.215383461
+"197","N-acetylglucosamine",668,"3m",19.15054758,"main","sample",19.15054758,0.215383461
+"198","N-acetylglucosamine",751,"CB",47.04794141,"main","sample",47.04794141,0.215383461
+"199","N-acetylglucosamine",633,"1w",32.29262502,"main","sample",32.29262502,0.215383461
+"200","N-acetylglucosamine",750,"1w",28.58877709,"main","sample",28.58877709,0.215383461
+"201","N-acetylglucosamine",634,"3m",18.78771839,"main","sample",18.78771839,0.215383461
+"202","N-acetylglucosamine",668,"1w",26.03719372,"main","sample",26.03719372,0.215383461
+"203","N-acetylglucosamine",690,"3m",8.019622735,"main","sample",8.019622735,0.215383461
+"204","N-acetylglucosamine",665,"1w",33.36325189,"main","sample",33.36325189,0.215383461
+"205","N-acetylglucosamine",668,"CB",22.59357133,"main","sample",22.59357133,0.215383461
+"206","N-acetylglucosamine",750,"CB",13.06200991,"main","sample",13.06200991,0.215383461
+"207","N-acetylglucosamine",665,"CB",26.07908901,"main","sample",26.07908901,0.215383461
+"208","N-acetylglucosamine",677,"CB",23.21250392,"main","sample",23.21250392,0.215383461
+"209","N-acetylglucosamine",633,"3m",25.41978585,"main","sample",25.41978585,0.215383461
+"211","N-acetylglucosamine",690,"CB",41.45343751,"main","sample",41.45343751,0.215383461
+"212","N-acetylglucosamine",665,"3m",16.52344457,"main","sample",16.52344457,0.215383461
+"213","N-acetylglucosamine",677,"3m",9.466883754,"main","sample",9.466883754,0.215383461
+"214","N-acetylglucosamine",751,"1w",29.9106301,"main","sample",29.9106301,0.215383461
+"222","N-acetylglucosamine",663,"CB",24.53698229,"main","sample",24.53698229,0.215383461
+"223","N-acetylmuramic acid",690,"1w",0.575209891,"main","sample",0.575209891,0.100737837
+"225","N-acetylmuramic acid",677,"1w",0,"main","sample",0.0503689185,0.100737837
+"226","N-acetylmuramic acid",750,"3m",0.27960589,"main","sample",0.27960589,0.100737837
+"227","N-acetylmuramic acid",750,"1w",0.272294638,"main","sample",0.272294638,0.100737837
+"229","N-acetylmuramic acid",663,"1w",0,"main","sample",0.0503689185,0.100737837
+"230","N-acetylmuramic acid",751,"3m",0.10570622,"main","sample",0.10570622,0.100737837
+"231","N-acetylmuramic acid",663,"3m",0,"main","sample",0.0503689185,0.100737837
+"232","N-acetylmuramic acid",668,"CB",0,"main","sample",0.0503689185,0.100737837
+"233","N-acetylmuramic acid",633,"CB",0.956760935,"main","sample",0.956760935,0.100737837
+"234","N-acetylmuramic acid",634,"1w",0.334946028,"main","sample",0.334946028,0.100737837
+"235","N-acetylmuramic acid",677,"CB",0,"main","sample",0.0503689185,0.100737837
+"236","N-acetylmuramic acid",634,"CB",0.871047837,"main","sample",0.871047837,0.100737837
+"237","N-acetylmuramic acid",668,"3m",0.193496948,"main","sample",0.193496948,0.100737837
+"238","N-acetylmuramic acid",751,"CB",1.270124399,"main","sample",1.270124399,0.100737837
+"239","N-acetylmuramic acid",633,"1w",0.228555394,"main","sample",0.228555394,0.100737837
+"240","N-acetylmuramic acid",677,"3m",0,"main","sample",0.0503689185,0.100737837
+"241","N-acetylmuramic acid",634,"3m",0.116114191,"main","sample",0.116114191,0.100737837
+"242","N-acetylmuramic acid",668,"1w",0.270761804,"main","sample",0.270761804,0.100737837
+"243","N-acetylmuramic acid",690,"3m",0.187676835,"main","sample",0.187676835,0.100737837
+"244","N-acetylmuramic acid",665,"1w",0.45745787,"main","sample",0.45745787,0.100737837
+"246","N-acetylmuramic acid",750,"CB",0.122598074,"main","sample",0.122598074,0.100737837
+"247","N-acetylmuramic acid",665,"CB",0.510753069,"main","sample",0.510753069,0.100737837
+"249","N-acetylmuramic acid",633,"3m",0.331218561,"main","sample",0.331218561,0.100737837
+"251","N-acetylmuramic acid",690,"CB",0.97640966,"main","sample",0.97640966,0.100737837
+"252","N-acetylmuramic acid",665,"3m",0,"main","sample",0.0503689185,0.100737837
+"254","N-acetylmuramic acid",751,"1w",0.544569627,"main","sample",0.544569627,0.100737837
+"259","N-acetylmuramic acid",663,"CB",0.236195498,"main","sample",0.236195498,0.100737837
+"260","Palmitic acid",663,"3m",61.39272738,"main","sample",61.39272738,12.8945883
+"261","Palmitic acid",690,"1w",287.9066587,"main","sample",287.9066587,12.8945883
+"262","Palmitic acid",750,"3m",133.673304,"main","sample",133.673304,12.8945883
+"264","Palmitic acid",677,"1w",284.6063812,"main","sample",284.6063812,12.8945883
+"265","Palmitic acid",634,"1w",250.5984346,"main","sample",250.5984346,12.8945883
+"266","Palmitic acid",633,"1w",250.2691457,"main","sample",250.2691457,12.8945883
+"267","Palmitic acid",750,"1w",60.65737801,"main","sample",60.65737801,12.8945883
+"269","Palmitic acid",663,"1w",85.24509368,"main","sample",85.24509368,12.8945883
+"270","Palmitic acid",751,"3m",98.77345026,"main","sample",98.77345026,12.8945883
+"271","Palmitic acid",665,"1w",223.9653732,"main","sample",223.9653732,12.8945883
+"272","Palmitic acid",668,"CB",49.23683985,"main","sample",49.23683985,12.8945883
+"273","Palmitic acid",633,"CB",62.16787086,"main","sample",62.16787086,12.8945883
+"274","Palmitic acid",665,"CB",41.26557034,"main","sample",41.26557034,12.8945883
+"275","Palmitic acid",677,"CB",53.19141551,"main","sample",53.19141551,12.8945883
+"276","Palmitic acid",634,"CB",65.14299391,"main","sample",65.14299391,12.8945883
+"277","Palmitic acid",668,"3m",91.66631954,"main","sample",91.66631954,12.8945883
+"278","Palmitic acid",751,"CB",99.79158782,"main","sample",99.79158782,12.8945883
+"279","Palmitic acid",665,"3m",112.6450508,"main","sample",112.6450508,12.8945883
+"280","Palmitic acid",677,"3m",36.41893368,"main","sample",36.41893368,12.8945883
+"281","Palmitic acid",634,"3m",74.75134762,"main","sample",74.75134762,12.8945883
+"282","Palmitic acid",668,"1w",165.3701747,"main","sample",165.3701747,12.8945883
+"283","Palmitic acid",690,"3m",83.62038844,"main","sample",83.62038844,12.8945883
+"286","Palmitic acid",750,"CB",50.8512392,"main","sample",50.8512392,12.8945883
+"289","Palmitic acid",633,"3m",46.05291303,"main","sample",46.05291303,12.8945883
+"291","Palmitic acid",690,"CB",49.2159594,"main","sample",49.2159594,12.8945883
+"292","Palmitic acid",663,"CB",28.89010528,"main","sample",28.89010528,12.8945883
+"294","Palmitic acid",751,"1w",221.058658,"main","sample",221.058658,12.8945883

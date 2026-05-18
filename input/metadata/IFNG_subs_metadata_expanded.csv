@@ -1,0 +1,249 @@
+"","subject","IFNG_category","mode_delivery","group","sex","abx_category","pre_intrapartal_antibiotics","Allergy","Eczema","Asthma","allergy_asthma_eczema","allergy_eczema","age_solid_food","age_breastFeeding_stop"
+"1",58,"IFNgLOW","C-section","Term",1,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"2",150,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"3",153,"IFNgLOW","C-section","Term",0,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"4",165,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"5",174,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",122,184
+"6",211,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"7",216,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","Allergy","No Eczema","Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"8",217,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"9",233,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"10",247,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"11",347,"IFNgLOW","C-section","Preterm",1,"0-1d","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"12",537,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"13",569,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",152,166
+"14",592,"IFNgLOW","Vaginal","Preterm",1,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",94,NA
+"15",602,"IFNgLOW","C-section","Preterm",0,"0-1d","No","Allergy","No Eczema","Asthma","allergy_asthma_eczema","allergy_eczema",227,373
+"16",607,"IFNgLOW","C-section","Preterm",1,"0-1d","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",122,9
+"17",612,"IFNgLOW","C-section","Preterm",1,"0-1d","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",148,185
+"18",619,"IFNgHIGH","C-section","Term",0,"no antibiotics","No","Allergy","Eczema","Asthma","allergy_asthma_eczema","allergy_eczema",151,NA
+"19",634,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",167,744
+"20",647,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",122,NA
+"21",668,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","Allergy","No Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",170,260
+"22",15,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"23",18,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"24",21,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,91
+"25",23,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"26",25,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"27",28,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"28",31,"IFNgLOW","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,93
+"29",39,"IFNgLOW","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"30",42,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,243
+"31",45,"IFNgLOW","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"32",48,"IFNgLOW","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"33",51,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"34",54,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"35",61,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"36",65,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"37",68,"IFNgLOW","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"38",71,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"39",74,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,274
+"40",77,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"41",80,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"42",81,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"43",84,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"44",85,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"45",88,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"46",93,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"47",96,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"48",101,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"49",104,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"50",107,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"51",110,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"52",113,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"53",116,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"54",119,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"55",122,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"56",126,"IFNgHIGH","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,365
+"57",129,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"58",141,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"59",144,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"60",147,"IFNgLOW","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,389
+"61",162,"IFNgLOW","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"62",168,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"63",177,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"64",180,"IFNgLOW","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,122
+"65",189,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",242,122
+"66",201,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"67",202,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"68",203,"IFNgLOW","C-section","Preterm",0,"0-1d","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"69",204,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"70",205,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"71",206,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"72",208,"IFNgLOW","Vaginal","Preterm",0,"no antibiotics","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"73",209,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"74",210,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"75",212,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"76",213,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"77",214,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"78",215,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"79",218,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"80",219,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"81",220,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"82",221,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"83",223,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"84",224,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"85",225,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"86",226,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"87",227,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"88",230,"IFNgLOW","C-section","Preterm",0,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"89",237,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"90",238,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"91",241,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"92",242,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"93",244,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"94",245,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"95",246,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"96",248,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"97",249,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"98",250,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"99",251,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"100",252,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"101",253,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",194,365
+"102",256,"IFNgHIGH","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"103",257,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"104",259,"IFNgLOW","C-section","Preterm",0,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"105",262,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"106",267,"IFNgLOW","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"107",270,"IFNgHIGH","C-section","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"108",273,"IFNgLOW","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"109",276,"IFNgHIGH","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"110",282,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"111",285,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,0
+"112",290,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",124,305
+"113",293,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",92,365
+"114",297,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"115",299,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"116",302,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,457
+"117",305,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,273
+"118",308,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"119",311,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"120",315,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"121",316,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"122",317,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"123",324,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"124",332,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"125",334,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,70
+"126",337,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,243
+"127",340,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"128",343,"IFNgLOW","Vaginal","Preterm",0,"0-1d","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"129",350,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"130",356,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"131",357,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,227
+"132",363,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"133",366,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"134",367,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"135",376,"IFNgLOW","C-section","Preterm",0,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"136",379,"IFNgHIGH","C-section","Preterm",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"137",382,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,255
+"138",386,"IFNgHIGH","C-section","Preterm",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"139",437,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"140",477,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,365
+"141",478,"IFNgHIGH","Vaginal","Preterm",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"142",480,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"143",488,"IFNgLOW","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",179,NA
+"144",492,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"145",508,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"146",522,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,100
+"147",529,"IFNgLOW","C-section","Preterm",0,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"148",530,"IFNgLOW","C-section","Preterm",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"149",531,"IFNgHIGH","C-section","Preterm",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"150",532,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"151",533,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"152",534,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"153",542,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"154",545,"IFNgLOW","C-section","Preterm",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"155",549,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,471
+"156",550,"IFNgHIGH","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"157",557,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"158",564,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,42
+"159",565,"IFNgLOW","Vaginal","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"160",570,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",184,NA
+"161",590,"IFNgHIGH","C-section","Preterm",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"162",593,"IFNgLOW","C-section","Preterm",0,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",548,385
+"163",594,"IFNgHIGH","Vaginal","Preterm",0,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"164",595,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",127,365
+"165",606,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",153,332
+"166",613,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",108,245
+"167",624,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",121,NA
+"168",628,"IFNgLOW","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,0
+"169",632,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,35
+"170",633,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,35
+"171",637,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",160,242
+"172",638,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",160,242
+"173",641,"IFNgLOW","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,239
+"174",645,"IFNgHIGH","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",229,502
+"175",648,"IFNgLOW","C-section","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"176",649,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",114,36
+"177",652,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",126,100
+"178",653,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,29
+"179",654,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",210,398
+"180",655,"IFNgHIGH","C-section","Preterm",1,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",126,129
+"181",656,"IFNgLOW","C-section","Term",0,"0-1d","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",126,127
+"182",662,"IFNgLOW","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",130,222
+"183",663,"IFNgHIGH","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",128,290
+"184",664,"IFNgLOW","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",111,253
+"185",665,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",121,NA
+"186",670,"IFNgHIGH","Vaginal","Preterm",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"187",674,"IFNgLOW","C-section","Preterm",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",188,NA
+"188",675,"IFNgLOW","C-section","Preterm",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",188,NA
+"189",677,"IFNgLOW","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,83
+"190",678,"IFNgLOW","C-section","Preterm",1,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",162,546
+"191",679,"IFNgHIGH","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"192",680,"IFNgLOW","Vaginal","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",181,NA
+"193",681,"IFNgLOW","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",155,NA
+"194",683,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,91
+"195",684,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"196",685,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","Eczema","Asthma","allergy_asthma_eczema","allergy_eczema",NA,NA
+"197",690,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",123,346
+"198",692,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",147,NA
+"199",695,"IFNgLOW","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",148,426
+"200",699,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",125,NA
+"201",709,"IFNgLOW","C-section","Preterm",0,"0-1d","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",149,163
+"202",716,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",128,462
+"203",718,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",181,181
+"204",725,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","Eczema","No Asthma","allergy_asthma_eczema","allergy_eczema",124,365
+"205",730,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",179,306
+"206",734,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",149,566
+"207",737,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",215,322
+"208",744,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,201
+"209",746,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",153,15
+"210",749,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"211",756,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",123,214
+"212",762,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",487,NA
+"213",773,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",123,NA
+"214",776,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",141,NA
+"215",779,"IFNgLOW","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",120,366
+"216",781,"IFNgHIGH","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",116,372
+"217",782,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"218",786,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",121,42
+"219",787,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",121,365
+"220",789,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",127,NA
+"221",790,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,111
+"222",791,"IFNgHIGH","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",120,371
+"223",793,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",125,NA
+"224",796,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",120,21
+"225",800,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",120,NA
+"226",801,"IFNgHIGH","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",131,258
+"227",805,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",106,269
+"228",806,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,NA
+"229",807,"IFNgLOW","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,NA
+"230",810,"IFNgLOW","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"231",811,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",135,NA
+"232",818,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",123,NA
+"233",819,"IFNgLOW","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",143,62
+"234",820,"IFNgLOW","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,334
+"235",822,"IFNgLOW","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",182,NA
+"236",823,"IFNgLOW","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"237",831,"IFNgHIGH","Vaginal","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,359
+"238",836,"IFNgLOW","Vaginal","Term",0,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",127,457
+"239",844,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,NA
+"240",847,"IFNgLOW","Vaginal","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"241",851,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",151,NA
+"242",853,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",139,NA
+"243",855,"IFNgHIGH","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","Asthma","allergy_asthma_eczema","no allergy_eczema",NA,NA
+"244",857,"IFNgHIGH","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
+"245",859,"IFNgHIGH","C-section","Term",1,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",122,NA
+"246",860,"IFNgLOW","C-section","Term",0,"no antibiotics","Yes","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",153,NA
+"247",874,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",186,NA
+"248",875,"IFNgLOW","Vaginal","Term",1,"no antibiotics","No","No Allergy","No Eczema","No Asthma","no allergy_asthma_eczema","no allergy_eczema",NA,NA
