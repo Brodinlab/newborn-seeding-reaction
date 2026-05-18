@@ -25,19 +25,19 @@ Input and output files sorted by respective datatype
 │   └── scatac
 │   └── rnaseq
 └── output
-│   ├── cytof
-│   ├── IgGseq
-│   ├── luminex
-│   ├── metadata
-│   ├── mass-spec
-│   ├── metagenomics
-│   ├── nCounter
-│   ├── olink
-│   ├── nulisa
-│   ├── olink_functional
-│   ├── olink_nulisa
-│   └── scatac
-│   └── rnaseq
+    ├── cytof
+    ├── IgGseq
+    ├── luminex
+    ├── metadata
+    ├── mass-spec
+    ├── metagenomics
+    ├── nCounter
+    ├── olink
+    ├── nulisa
+    ├── olink_functional
+    ├── olink_nulisa
+    └── scatac
+    └── rnaseq
 ```    
 
 
