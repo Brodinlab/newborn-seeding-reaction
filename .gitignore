@@ -1,0 +1,8 @@
+# scRNA local rebuild cache (not manuscript inputs)
+output/scRNAseq/cache/
+
+# macOS
+.DS_Store
+input/.DS_Store
+output/.DS_Store
+**/.DS_Store

@@ -48,8 +48,24 @@ All analyses were performed using R 4.4.2
 Notebook with the complete code for reproducing figures with metagenomic, olink, nulisa, olink_functional, mass-spec, luminex, IgGeq, cytof, nCounter and metadata.<br>
 
 
-#### `XXXX` 
-Scripts with the complete code for reproducing ...
+#### Bulk and scRNA-seq figure scripts
+
+| Script | Input | Output |
+|--------|-------|--------|
+| `scripts/bulk_mrnaseq.r` | `input/bulkRNAseq/` | `output/bulkRNAseq/` (Fig4D, Fig5D, Fig5E) |
+| `scripts/scRNAseq.r` | `input/scRNAseq/` + external UMI (see `DATA_SOURCES.md`) | `output/scRNAseq/` (Fig7C–7E) |
+
+```bash
+Rscript scripts/bulk_mrnaseq.r
+
+# scRNA: re-plot if you have a local cache (gitignored); otherwise use output/scRNAseq/*.pdf
+Rscript scripts/scRNAseq.r
+
+# scRNA: build local cache from UMI (~30–60 min)
+REBUILD_FROM_RAW=TRUE Rscript scripts/scRNAseq.r
+```
+
+`output/scRNAseq/cache/` is gitignored (author-local RDS after a full rebuild). The repo ships `output/scRNAseq/*.pdf`; cloning does not require cache.
 
 ### Relevant R packages
 ```
