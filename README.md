@@ -9,7 +9,8 @@ Input and output files sorted by respective datatype
 ```
 ├── scripts
 │   ├── newborn-seeding-reaction.ipynb
-│   └── ..R
+│   ├── bulk_mrnaseq.r
+│   └── scRNAseq.r
 ├── input
 │   ├── cytof
 │   ├── IgGseq
@@ -22,8 +23,8 @@ Input and output files sorted by respective datatype
 │   ├── nulisa
 │   ├── olink_functional
 │   ├── olink_nulisa
-│   └── scatac
-│   └── rnaseq
+│   └── bulkRNAseq
+│   └── scRNAseq
 └── output
     ├── cytof
     ├── IgGseq
@@ -36,13 +37,11 @@ Input and output files sorted by respective datatype
     ├── nulisa
     ├── olink_functional
     ├── olink_nulisa
-    └── scatac
-    └── rnaseq
+    └── bulkRNAseq
+    └── scRNAseq
 ```    
 
-
-All analyses were performed using R 4.4.2
-
+### Scripts
 
 #### `newborn-seeding-reaction.ipynb`
 Notebook with the complete code for reproducing figures with metagenomic, olink, nulisa, olink_functional, mass-spec, luminex, IgGeq, cytof, nCounter and metadata.<br>
@@ -68,6 +67,9 @@ REBUILD_FROM_RAW=TRUE Rscript scripts/scRNAseq.r
 `output/scRNAseq/cache/` is gitignored (author-local RDS after a full rebuild). The repo ships `output/scRNAseq/*.pdf`; cloning does not require cache.
 
 ### Relevant R packages
+
+All analyses were performed using R 4.4.2
+
 ```
 ggpubr 0.6.0
 ArchR 1.0.3
