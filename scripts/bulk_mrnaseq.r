@@ -208,6 +208,10 @@ plot_fig5e_ridgelines <- function() {
     dplyr::group_by(IFNG_category) %>%
     dplyr::summarise(ref = median(pseu, na.rm = TRUE), .groups = "drop")
 
+  fig5e_col_low <- "#67596D"
+  fig5e_col_high <- "#F8C48C"
+  fig5e_xlim_max <- 100
+
   ridge_plot <- function(d, title, fname) {
     d <- d %>%
       dplyr::left_join(ref, by = "IFNG_category") %>%
@@ -215,7 +219,8 @@ plot_fig5e_ridgelines <- function() {
     p <- ggplot(d, aes(x = delta, y = IFNG_category, fill = IFNG_category)) +
       ggridges::geom_density_ridges(alpha = 0.88, scale = 0.95) +
       geom_vline(xintercept = 0, linetype = "dashed", linewidth = 0.35) +
-      scale_fill_manual(values = c("IFNgHIGH" = "#DC4E42", "IFNgLOW" = "#1B303E")) +
+      scale_fill_manual(values = c("IFNgHIGH" = fig5e_col_high, "IFNgLOW" = fig5e_col_low)) +
+      coord_cartesian(xlim = c(NA, fig5e_xlim_max), expand = FALSE) +
       ggridges::theme_ridges(center_axis_labels = TRUE) +
       theme(legend.position = "none") +
       labs(title = title, x = "Delta pseudotime (signed PC1 - within-IFN ref 1W)", y = NULL)
@@ -225,12 +230,12 @@ plot_fig5e_ridgelines <- function() {
   ridge_plot(
     dplyr::filter(df_st, time_split4 == "3_4M_90_120d"),
     "3-4M (90-120 d): pseu change vs within-IFN median 1W_7d",
-    "Fig5E_plot_delta_pseu_ridgeline_3_4M_vs_withinIFN_median1W_codex.pdf"
+    "Fig5E_plot_delta_pseu_ridgeline_3_4M_vs_withinIFN_median1W.pdf"
   )
   ridge_plot(
     dplyr::filter(df_st, time_split4 == "5_6M_150_180d"),
     "5-6M (150-180 d): pseu change vs within-IFN median 1W_7d",
-    "Fig5E_plot_delta_pseu_ridgeline_5_6M_vs_withinIFN_median1W_codex.pdf"
+    "Fig5E_plot_delta_pseu_ridgeline_5_6M_vs_withinIFN_median1W.pdf"
   )
 }
 plot_fig5e_ridgelines()
