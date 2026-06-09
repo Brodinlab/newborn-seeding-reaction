@@ -1,17 +1,18 @@
 #!/usr/bin/env Rscript
-## Xpress scRNA-seq (Experiment 2) -> output/scRNAseq (Fig7C–7E)
+## Xpress scRNA-seq (Experiment 2) -> output/scRNAseq (Fig5C–5E)
 ##
-## Inputs (on GitHub):  input/scRNAseq/{barcode_annotation.txt, plate_metadata.csv, DATA_SOURCES.md}
+## Inputs (on GitHub):  input/scRNAseq/{barcode_annotation.txt, plate_metadata.csv,
+##                       Xpress.UMIcounts.intron_exon.txt.gz}
 ## Outputs (on GitHub): output/scRNAseq/*.pdf
 ##
 ## output/scRNAseq/cache/ — local only (gitignored). Speeds up re-runs on your machine after
-## a full rebuild; not required for publication and not on GitHub.
+## a full rebuild; not on GitHub.
 ##
 ## Default:  Rscript scripts/scRNAseq.r
 ##   Uses cache if present; otherwise see message (use output PDFs or REBUILD_FROM_RAW=TRUE).
 ##
 ## Rebuild:  REBUILD_FROM_RAW=TRUE Rscript scripts/scRNAseq.r
-##   Builds cache from UMI (DATA_SOURCES.md); first run ~30–60 min.
+##   Reads input/scRNAseq/Xpress.UMIcounts.intron_exon.txt.gz; first run ~30–60 min.
 
 suppressPackageStartupMessages({
   library(Seurat)
@@ -48,7 +49,7 @@ dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 
 REBUILD_FROM_RAW <- parse_rebuild_flag()
 
-path_data_sources <- file.path(scrna_input, "DATA_SOURCES.md")
+path_umi_gz <- file.path(scrna_input, "Xpress.UMIcounts.intron_exon.txt.gz")
 path_barcode <- file.path(scrna_input, "barcode_annotation.txt")
 path_plate <- file.path(scrna_input, "plate_metadata.csv")
 path_built <- file.path(cache_dir, "xpress_seurat_object_experiment2_only.rds")
@@ -142,15 +143,7 @@ is_cluster2 <- function(x) {
 read_umi_path <- function() {
   env <- Sys.getenv("XPRESS_UMI_COUNTS", "")
   if (nzchar(env)) return(path.expand(env))
-  if (!file.exists(path_data_sources)) {
-    stop("Missing ", path_data_sources, " (first line must be the UMI matrix path).")
-  }
-  lines <- readLines(path_data_sources, warn = FALSE)
-  lines <- trimws(lines[nzchar(trimws(lines))])
-  path_line <- lines[!grepl("^The UMI matrix", lines)][1]
-  path_line <- gsub("^`|`$", "", path_line)
-  if (!nzchar(path_line)) stop("No UMI path in ", path_data_sources)
-  path.expand(path_line)
+  path_umi_gz
 }
 
 read_xpress_umi_matrix <- function(file_path) {
@@ -238,15 +231,16 @@ ensembl_count_matrix_to_seurat <- function(count_matrix,
 }
 
 validate_inputs <- function(path_umi) {
-  missing <- c(path_data_sources, path_barcode, path_plate)[
-    !file.exists(c(path_data_sources, path_barcode, path_plate))
-  ]
+  missing <- c(path_barcode, path_plate)[!file.exists(c(path_barcode, path_plate))]
   if (length(missing)) {
     stop("Missing required files under input/scRNAseq/: ", paste(basename(missing), collapse = ", "))
   }
   if (REBUILD_FROM_RAW && !file.exists(path_umi)) {
-    stop("UMI matrix not found: ", path_umi,
-         "\nSet path in input/scRNAseq/DATA_SOURCES.md or export XPRESS_UMI_COUNTS=/path/to/matrix")
+    stop(
+      "UMI matrix not found: ", path_umi, "\n",
+      "Expected input/scRNAseq/Xpress.UMIcounts.intron_exon.txt.gz in the repo, ",
+      "or set XPRESS_UMI_COUNTS=/path/to/matrix.gz"
+    )
   }
 }
 
@@ -357,10 +351,10 @@ load_processed_object <- function(path_umi) {
     pdf_ok <- all(file.exists(file.path(
       output_dir,
       c(
-        "Fig7C_umap_cluster_annotation.pdf",
-        "Fig7C_per_cluster_fraction_stress.pdf",
-        "Fig7D_overall_pseudotime_ks_no_C2.pdf",
-        "Fig7E_heatmap_lineage_panel_pseudobulk_merged_noC2.pdf"
+        "Fig5C_umap_cluster_annotation.pdf",
+        "Fig5C_per_cluster_fraction_stress.pdf",
+        "Fig5D_overall_pseudotime_ks_no_C2.pdf",
+        "Fig5E_heatmap_lineage_panel_pseudobulk_merged_noC2.pdf"
       )
     )))
     msg <- paste0(
@@ -370,8 +364,7 @@ load_processed_object <- function(path_umi) {
       } else {
         ""
       },
-      "To build cache on this machine: REBUILD_FROM_RAW=TRUE Rscript scripts/scRNAseq.r\n",
-      "(set UMI path in input/scRNAseq/DATA_SOURCES.md)."
+      "To build cache on this machine: REBUILD_FROM_RAW=TRUE Rscript scripts/scRNAseq.r"
     )
     stop(msg)
   }
@@ -404,7 +397,7 @@ plot_figures <- function(obj, pt_raw) {
     scale_colour_manual(values = cluster_cols, name = NULL) +
     coord_fixed() + labs(x = "UMAP 1", y = "UMAP 2") +
     theme_science(8) + theme(legend.position = "right")
-  ggsave(file.path(output_dir, "Fig7C_umap_cluster_annotation.pdf"), p_umap,
+  ggsave(file.path(output_dir, "Fig5C_umap_cluster_annotation.pdf"), p_umap,
          width = 89 / 25.4, height = 70 / 25.4, device = cairo_pdf)
 
   meta_comp <- obj@meta.data %>%
@@ -442,7 +435,7 @@ plot_figures <- function(obj, pt_raw) {
     theme_classic(base_size = 10) +
     theme(plot.title = element_text(hjust = 0.5, face = "bold"),
           axis.text.x = element_text(angle = 18, hjust = 1))
-  ggsave(file.path(output_dir, "Fig7C_per_cluster_fraction_stress.pdf"),
+  ggsave(file.path(output_dir, "Fig5C_per_cluster_fraction_stress.pdf"),
          p_stress, width = 5.5, height = 4.2)
   write_csv(comp_stress, file.path(tables_dir, "cluster_composition_stress_per_plate.csv"))
 
@@ -467,7 +460,7 @@ plot_figures <- function(obj, pt_raw) {
          x = "Overall pseudotime (mean across available Slingshot lineages)", y = NULL) +
     theme_ridges(center_axis_labels = TRUE) +
     theme(plot.title = element_text(hjust = 0.5, face = "bold"), legend.position = "none")
-  ggsave(file.path(output_dir, "Fig7D_overall_pseudotime_ks_no_C2.pdf"),
+  ggsave(file.path(output_dir, "Fig5D_overall_pseudotime_ks_no_C2.pdf"),
          p_pt, width = 8, height = 4.2)
 
   build_gene_annot <- function() {
@@ -521,7 +514,7 @@ plot_figures <- function(obj, pt_raw) {
     theme(strip.text.y = element_text(size = 8, angle = 0, hjust = 0),
           axis.text.x = element_text(size = 8, angle = 30, hjust = 1),
           axis.text.y = element_text(size = 7, face = "italic"))
-  ggsave(file.path(output_dir, "Fig7E_heatmap_lineage_panel_pseudobulk_merged_noC2.pdf"),
+  ggsave(file.path(output_dir, "Fig5E_heatmap_lineage_panel_pseudobulk_merged_noC2.pdf"),
          p_hm, width = 5.6, height = nrow(gene_annot) * 0.23 + 3.1)
 }
 

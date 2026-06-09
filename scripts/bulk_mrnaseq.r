@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-## Bulk RNA-seq (Fig4D / Fig5D / Fig5E)
+## Bulk RNA-seq (S3A / Fig4D / Fig4E / Fig6D)
 ## Input: input/bulkRNAseq/  ->  Output: output/bulkRNAseq/
 
 suppressPackageStartupMessages({
@@ -9,6 +9,7 @@ suppressPackageStartupMessages({
   library(DESeq2)
   library(stringr)
   library(purrr)
+  library(sva)
 })
 
 args <- commandArgs(trailingOnly = FALSE)
@@ -84,6 +85,133 @@ counts_mat <- counts_mat[, meta_final$sample_id, drop = FALSE]
 stopifnot(identical(colnames(counts_mat), rownames(meta_final)))
 cat("Loaded:", nrow(meta_out), "samples;", nrow(counts_df), "genes\n")
 
+plot_s3a_cxcl10 <- function() {
+  if (!"CXCL10" %in% rownames(counts_mat)) {
+    stop("CXCL10 not found in count matrix for S3A.")
+  }
+  meta_cb <- meta_final
+  meta_cb$sample_id <- rownames(meta_cb)
+  meta_cb <- meta_cb[!duplicated(meta_cb$sample_id), , drop = FALSE]
+  rownames(meta_cb) <- meta_cb$sample_id
+  counts_cb <- counts_mat[, meta_cb$sample_id, drop = FALSE]
+  stopifnot(identical(colnames(counts_cb), rownames(meta_cb)))
+
+  batch_corrected <- as.data.frame(
+    ComBat_seq(counts = as.matrix(counts_cb), batch = meta_cb$batch)
+  )
+
+  meta_1w <- meta_cb %>%
+    dplyr::filter(!is.na(time), time > 0, time <= 7)
+
+  batch_corrected_1w <- batch_corrected[, meta_1w$sample_id, drop = FALSE]
+  df_cxcl10 <- data.frame(
+    Sample = colnames(batch_corrected_1w),
+    CXCL10 = as.numeric(batch_corrected_1w["CXCL10", ]),
+    stringsAsFactors = FALSE
+  )
+  meta_subset <- data.frame(
+    Sample = rownames(meta_cb),
+    IFNG_category = meta_cb$IFNG_category,
+    stringsAsFactors = FALSE
+  )
+  df_cxcl10 <- df_cxcl10 %>%
+    dplyr::left_join(meta_subset, by = "Sample") %>%
+    dplyr::mutate(
+      IFNG_category = ifelse(is.na(IFNG_category), "Other", IFNG_category),
+      Group = ifelse(IFNG_category == "Other", "No information", IFNG_category)
+    ) %>%
+    dplyr::arrange(CXCL10) %>%
+    dplyr::mutate(Index = dplyr::row_number())
+
+  median_value <- median(df_cxcl10$CXCL10, na.rm = TRUE)
+  median_position <- which.min(abs(df_cxcl10$CXCL10 - median_value))
+  q1_value <- quantile(df_cxcl10$CXCL10, 0.25, na.rm = TRUE)
+  q3_value <- quantile(df_cxcl10$CXCL10, 0.75, na.rm = TRUE)
+  q4_value <- quantile(df_cxcl10$CXCL10, 1.0, na.rm = TRUE)
+  q1_position <- which.min(abs(df_cxcl10$CXCL10 - q1_value))
+  q3_position <- which.min(abs(df_cxcl10$CXCL10 - q3_value))
+  q4_position <- which.min(abs(df_cxcl10$CXCL10 - q4_value))
+
+  unique_groups <- unique(df_cxcl10$Group)
+  n_groups <- length(unique_groups)
+  colors <- if (n_groups <= 3) {
+    c("steelblue", "red", "forestgreen", "purple", "orange")
+  } else {
+    rainbow(n_groups, alpha = 0.8)
+  }
+  colors <- colors[seq_len(n_groups)]
+  names(colors) <- unique_groups
+  if ("No information" %in% names(colors)) {
+    colors["No information"] <- "lightgray"
+  }
+
+  y_max <- max(df_cxcl10$CXCL10, na.rm = TRUE)
+  n_samp <- nrow(df_cxcl10)
+
+  p <- ggplot(df_cxcl10, aes(x = Index, y = CXCL10 + 1)) +
+    geom_col(aes(fill = Group), color = "white", linewidth = 0.2, alpha = 0.8) +
+    scale_fill_manual(values = colors, name = "IFNG Category") +
+    geom_hline(yintercept = median_value + 1, color = "red", linetype = "dashed", linewidth = 1) +
+    geom_hline(yintercept = q1_value + 1, color = "blue", linetype = "dotted", linewidth = 0.8, alpha = 0.7) +
+    geom_hline(yintercept = q3_value + 1, color = "blue", linetype = "dotted", linewidth = 0.8, alpha = 0.7) +
+    geom_hline(yintercept = q4_value + 1, color = "darkgreen", linetype = "dotted", linewidth = 0.8, alpha = 0.7) +
+    geom_vline(xintercept = median_position, color = "red", linetype = "dotted", alpha = 0.7) +
+    annotate("text",
+      x = median_position + n_samp * 0.15,
+      y = median_value + 1 + y_max * 0.05,
+      label = paste("Median:", round(median_value, 2)),
+      color = "red", fontface = "bold", size = 3.5, hjust = 0.5, vjust = 0.5) +
+    annotate("text",
+      x = q1_position - n_samp * 0.08,
+      y = q1_value + 1 + y_max * 0.03,
+      label = paste("Q1:", round(q1_value, 2)),
+      color = "blue", fontface = "bold", size = 3, hjust = 0.5, vjust = 0.5) +
+    annotate("text",
+      x = q3_position + n_samp * 0.08,
+      y = q3_value + 1 + y_max * 0.03,
+      label = paste("Q3:", round(q3_value, 2)),
+      color = "blue", fontface = "bold", size = 3, hjust = 0.5, vjust = 0.5) +
+    annotate("text",
+      x = q4_position - n_samp * 0.08,
+      y = q4_value + 1 - y_max * 0.03,
+      label = paste("Q4 (Max):", round(q4_value, 2)),
+      color = "darkgreen", fontface = "bold", size = 3, hjust = 0.5, vjust = 0.5) +
+    annotate("segment",
+      x = median_position + n_samp * 0.1,
+      y = median_value + 1 + y_max * 0.02,
+      xend = median_position, yend = median_value + 1,
+      arrow = arrow(length = grid::unit(0.2, "cm")),
+      color = "red", linewidth = 0.6) +
+    labs(
+      title = "CXCL10 Gene Expression Level Distribution (1W)",
+      x = "Samples (ordered by CXCL10 expression)",
+      y = "CXCL10 Expression Level"
+    ) +
+    theme_minimal() +
+    theme(
+      plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
+      axis.title = element_text(size = 12, face = "bold"),
+      axis.text.x = element_text(angle = 45, hjust = 1, size = 8),
+      axis.text.y = element_text(size = 10),
+      panel.grid.major = element_line(color = "grey90", linewidth = 0.5),
+      panel.grid.minor = element_blank(),
+      plot.background = element_rect(fill = "white", color = NA),
+      panel.background = element_rect(fill = "white", color = NA),
+      legend.position = "right"
+    ) +
+    scale_x_continuous(
+      breaks = seq(1, n_samp, by = max(1, n_samp %/% 10)),
+      labels = function(x) df_cxcl10$Sample[x]
+    )
+
+  out_name <- "S3A_cxcl10_threshold_compared_with_ifng_67samples.pdf"
+  ggsave(file.path(output_dir, out_name), p, width = 9, height = 6)
+  message("Wrote S3A (", n_samp, " 1W samples)")
+}
+
+plot_s3a_cxcl10()
+cat("Wrote S3A\n")
+
 plot_signature_child_lines <- function(gene_list, out_name) {
   nm <- deparse(substitute(gene_list))
   parts <- strsplit(nm, "_")[[1]]
@@ -149,12 +277,12 @@ plot_signature_child_lines <- function(gene_list, out_name) {
   ggsave(file.path(output_dir, out_name), p, width = 9, height = 6)
 }
 
-plot_signature_child_lines(ifng_score, "Fig5D_IFNG_score_child_lines_median_signature_score_over_time.pdf")
-plot_signature_child_lines(ifn1_isg, "Fig5D_IFN1_isg_child_lines_median_signature_score_over_time.pdf")
-plot_signature_child_lines(nfkb_score, "Fig5D_NFKB_score_child_lines_median_signature_score_over_time.pdf")
-cat("Wrote Fig5D\n")
+plot_signature_child_lines(ifng_score, "Fig4D_IFNG_score_child_lines_median_signature_score_over_time.pdf")
+plot_signature_child_lines(ifn1_isg, "Fig4D_IFN1_isg_child_lines_median_signature_score_over_time.pdf")
+plot_signature_child_lines(nfkb_score, "Fig4D_NFKB_score_child_lines_median_signature_score_over_time.pdf")
+cat("Wrote Fig4D\n")
 
-plot_fig5e_ridgelines <- function() {
+plot_fig4e_ridgelines <- function() {
   if (!requireNamespace("ggridges", quietly = TRUE)) {
     stop("Install ggridges: install.packages(\"ggridges\")")
   }
@@ -230,25 +358,25 @@ plot_fig5e_ridgelines <- function() {
   ridge_plot(
     dplyr::filter(df_st, time_split4 == "3_4M_90_120d"),
     "3-4M (90-120 d): pseu change vs within-IFN median 1W_7d",
-    "Fig5E_plot_delta_pseu_ridgeline_3_4M_vs_withinIFN_median1W.pdf"
+    "Fig4E_plot_delta_pseu_ridgeline_3_4M_vs_withinIFN_median1W.pdf"
   )
   ridge_plot(
     dplyr::filter(df_st, time_split4 == "5_6M_150_180d"),
     "5-6M (150-180 d): pseu change vs within-IFN median 1W_7d",
-    "Fig5E_plot_delta_pseu_ridgeline_5_6M_vs_withinIFN_median1W.pdf"
+    "Fig4E_plot_delta_pseu_ridgeline_5_6M_vs_withinIFN_median1W.pdf"
   )
 }
-plot_fig5e_ridgelines()
-cat("Wrote Fig5E\n")
+plot_fig4e_ridgelines()
+cat("Wrote Fig4E\n")
 
-plot_fig4d_tcr <- function() {
+plot_fig6d_tcr <- function() {
   if (!file.exists(path_tcr_meta) || !dir.exists(path_trust4_dir)) {
-    message("Fig4D skipped: add tcr_sample_metadata.csv and trust4/*_report.tsv under input/bulkRNAseq/")
+    message("Fig6D skipped: add tcr_sample_metadata.csv and trust4/*_report.tsv under input/bulkRNAseq/")
     return(invisible(NULL))
   }
   reps <- list.files(path_trust4_dir, "_report.tsv$", full.names = TRUE)
   if (length(reps) == 0) {
-    message("Fig4D skipped: no trust4/*_report.tsv files found")
+    message("Fig6D skipped: no trust4/*_report.tsv files found")
     return(invisible(NULL))
   }
   if (!requireNamespace("patchwork", quietly = TRUE)) {
@@ -314,15 +442,15 @@ plot_fig4d_tcr <- function() {
     dplyr::inner_join(meta_t, by = "sample_id") %>%
     dplyr::mutate(log10_depth = log10(total_clones + 1))
 
-  fig4d_metrics <- c("clonality", "gini", "simpson", "shannon")
-  fig4d_titles <- c(
+  fig6d_metrics <- c("clonality", "gini", "simpson", "shannon")
+  fig6d_titles <- c(
     clonality = "TCR clonality",
     gini = "TCR Gini coeff.",
     simpson = "TCR, Simpson diversity",
     shannon = "TCR Shannon diversity"
   )
 
-  reg_rows <- purrr::map_dfr(fig4d_metrics, function(m) {
+  reg_rows <- purrr::map_dfr(fig6d_metrics, function(m) {
     fit <- tryCatch(
       lm(as.formula(paste(m, "~ IFN_group + log10_depth + batch")), data = dm),
       error = function(e) NULL
@@ -352,7 +480,7 @@ plot_fig4d_tcr <- function() {
       plot.margin = margin(4, 6, 4, 4)
     )
 
-  plots <- purrr::map(fig4d_metrics, function(m) {
+  plots <- purrr::map(fig6d_metrics, function(m) {
     fit <- tryCatch(
       lm(as.formula(paste(m, "~ IFN_group + log10_depth + batch")), data = dm),
       error = function(e) NULL
@@ -391,7 +519,7 @@ plot_fig4d_tcr <- function() {
       scale_color_manual(values = c("Low" = col_low, "High" = col_high)) +
       scale_x_continuous(expand = expansion(mult = c(0.04, 0.08))) +
       labs(
-        title = paste0(fig4d_titles[[m]], " ", star),
+        title = paste0(fig6d_titles[[m]], " ", star),
         x = "Model-predicted value",
         y = NULL
       ) +
@@ -399,17 +527,18 @@ plot_fig4d_tcr <- function() {
   })
   plots <- plots[!vapply(plots, is.null, logical(1))]
   if (length(plots) == 0) {
-    message("Fig4D skipped: no TCR panels could be built")
+    message("Fig6D skipped: no TCR panels could be built")
     return(invisible(NULL))
   }
 
   pdf(
-    file.path(output_dir, "Fig4D_tcr_repertoire_diversity_cleaned_significant_predicted.pdf"),
+    file.path(output_dir, "Fig6D_tcr_repertoire_diversity_cleaned_significant_predicted.pdf"),
     width = 12,
     height = 3.2
   )
   print(patchwork::wrap_plots(plots, ncol = 4, nrow = 1))
   dev.off()
 }
-plot_fig4d_tcr()
+plot_fig6d_tcr()
+cat("Wrote Fig6D\n")
 cat("Done. output -> ", output_dir, "\n")

@@ -51,8 +51,8 @@ Notebook with the complete code for reproducing figures with metagenomic, olink,
 
 | Script | Input | Output |
 |--------|-------|--------|
-| `scripts/bulk_mrnaseq.r` | `input/bulkRNAseq/` | `output/bulkRNAseq/` (Fig4D, Fig5D, Fig5E) |
-| `scripts/scRNAseq.r` | `input/scRNAseq/` + external UMI (see `DATA_SOURCES.md`) | `output/scRNAseq/` (Fig7C–7E) |
+| `scripts/bulk_mrnaseq.r` | `input/bulkRNAseq/` | `output/bulkRNAseq/` (S3A, Fig4D, Fig4E, Fig6D) |
+| `scripts/scRNAseq.r` | `input/scRNAseq/` (incl. `Xpress.UMIcounts.intron_exon.txt.gz`) | `output/scRNAseq/` (Fig5C–5E) |
 
 ```bash
 Rscript scripts/bulk_mrnaseq.r
@@ -60,7 +60,7 @@ Rscript scripts/bulk_mrnaseq.r
 # scRNA: re-plot if you have a local cache (gitignored); otherwise use output/scRNAseq/*.pdf
 Rscript scripts/scRNAseq.r
 
-# scRNA: build local cache from UMI (~30–60 min)
+# scRNA: full rebuild from gzipped UMI in input/scRNAseq/ (~30–60 min)
 REBUILD_FROM_RAW=TRUE Rscript scripts/scRNAseq.r
 ```
 
