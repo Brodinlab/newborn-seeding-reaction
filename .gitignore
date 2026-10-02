@@ -6,3 +6,6 @@ output/scRNAseq/cache/
 input/.DS_Store
 output/.DS_Store
 **/.DS_Store
+
+.Rhistory
+**/.Rhistory
