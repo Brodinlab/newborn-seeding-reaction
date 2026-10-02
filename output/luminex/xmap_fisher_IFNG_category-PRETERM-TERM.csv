@@ -1,0 +1,28 @@
+"","predictor","allergen_broad_grouping","p.BH","threshold","variable","prop","OR_formatted"
+"2","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",0.0499773997285825,"3sd","IFNgLOW",0.106,"6.12 (1.68 - 25.94)"
+"4","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",0.441074535008967,"4sd","IFNgLOW",0.064,"3.92 (0.75 - 26.53)"
+"5","IFNG_category","all allergens",0.441074535008967,"3sd","IFNgLOW",0.255,"2.49 (0.84 - 7.63)"
+"6","IFNG_category","all allergens",0.441074535008967,"4sd","IFNgLOW",0.085,"3.52 (0.79 - 18.29)"
+"11","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",1,"2sd","IFNgLOW",0.447,"1.42 (0.5 - 4.06)"
+"16","IFNG_category","Fruit, vegetables, plants and sea food",1,"4sd","IFNgLOW",0.064,"1.75 (0.22 - 14.04)"
+"20","IFNG_category","Fruit, vegetables, plants and sea food",1,"3sd","IFNgLOW",0.191,"0.71 (0.14 - 2.89)"
+"22","IFNG_category","Fruit, vegetables, plants and sea food",1,"2sd","IFNgLOW",0.426,"1.17 (0.41 - 3.32)"
+"23","IFNG_category","all allergens",1,"2sd","IFNgLOW",0.617,"0.96 (0.33 - 2.82)"
+"32","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",0.0499773997285825,"3sd","IFNgHIGH",0.429,"6.12 (1.68 - 25.94)"
+"34","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",0.441074535008967,"4sd","IFNgHIGH",0.214,"3.92 (0.75 - 26.53)"
+"35","IFNG_category","all allergens",0.441074535008967,"3sd","IFNgHIGH",0.464,"2.49 (0.84 - 7.63)"
+"36","IFNG_category","all allergens",0.441074535008967,"4sd","IFNgHIGH",0.25,"3.52 (0.79 - 18.29)"
+"41","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",1,"2sd","IFNgHIGH",0.536,"1.42 (0.5 - 4.06)"
+"46","IFNG_category","Fruit, vegetables, plants and sea food",1,"4sd","IFNgHIGH",0.107,"1.75 (0.22 - 14.04)"
+"50","IFNG_category","Fruit, vegetables, plants and sea food",1,"3sd","IFNgHIGH",0.143,"0.71 (0.14 - 2.89)"
+"52","IFNG_category","Fruit, vegetables, plants and sea food",1,"2sd","IFNgHIGH",0.464,"1.17 (0.41 - 3.32)"
+"53","IFNG_category","all allergens",1,"2sd","IFNgHIGH",0.607,"0.96 (0.33 - 2.82)"
+"62","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",NA,"2sd","all cohort",0.370967741935484,NA
+"65","IFNG_category","Fruit, vegetables, plants and sea food",NA,"2sd","all cohort",0.403225806451613,NA
+"70","IFNG_category","all allergens",NA,"2sd","all cohort",0.564516129032258,NA
+"72","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",NA,"3sd","all cohort",0.225806451612903,NA
+"75","IFNG_category","Fruit, vegetables, plants and sea food",NA,"3sd","all cohort",0.17741935483871,NA
+"79","IFNG_category","all allergens",NA,"3sd","all cohort",0.354838709677419,NA
+"81","IFNG_category","Animals, Cow milk, Egg white, nuts and seeds",NA,"4sd","all cohort",0.112903225806452,NA
+"84","IFNG_category","Fruit, vegetables, plants and sea food",NA,"4sd","all cohort",0.0645161290322581,NA
+"88","IFNG_category","all allergens",NA,"4sd","all cohort",0.145161290322581,NA
