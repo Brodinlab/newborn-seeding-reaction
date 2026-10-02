@@ -1,0 +1,18 @@
+{
+  "title": "A seeding reaction to colonizing microbes in human newborns",
+  "upload_type": "software",
+  "description": "Code for the analysis of the seeding reaction to colonizing microbes in human newborns.",
+  "version": "v1.0.1",
+  "creators": [
+    {
+      "name": "Arzoomand, Aron",
+    },
+    {
+      "name": "Zhao, Binbin",
+    },
+    {
+      "name": "Brodin, Petter",
+    }
+  ],
+  "license": "MIT"
+}
