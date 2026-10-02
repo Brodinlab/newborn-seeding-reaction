@@ -1,0 +1,14 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Aron
+  given-names: Arzoomand
+- family-names: Binbin
+  given-names: Zhao
+- family-names: Petter
+  given-names: Brodin
+doi: 10.5281/zenodo.22682076
+title:Brodinlab/newborn-seeding-reaction: Seeding Reaction
+version: v1.0.0
+date-released: 2026-09-09
+url: "https://github.com/Brodinlab/newborn-seeding-reaction"
