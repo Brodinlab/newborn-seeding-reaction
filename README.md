@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22682075.svg)](https://doi.org/10.5281/zenodo.22682075)
+
 # newborn-seeding-reaction
 Code to reproduce figures from 'A seeding reaction to colonizing microbes in human newborns'
 
